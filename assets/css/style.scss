@@ -1,0 +1,35 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Fond noir absolu pour toute la page (adieu les dégradés et ombres) */
+body, html, #header_wrap, #main_content_wrap, #footer_wrap, .main-content, .page-header {
+  background: #000000 !important;
+  background-color: #000000 !important;
+  background-image: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  color: #d1d5da !important;
+}
+
+/* Titres en blanc pur pour le contraste */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff !important;
+  border-bottom: 1px solid #222222 !important;
+}
+
+/* Liens en bleu vif lisible sur fond noir */
+a {
+  color: #58a6ff !important;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Assombrir au maximum les zones parasites (tableaux, citations, code) */
+pre, code, blockquote, table, th, td {
+  background-color: #0a0a0a !important;
+  border: 1px solid #1a1a1a !important;
+  color: #c9d1d9 !important;
+}
