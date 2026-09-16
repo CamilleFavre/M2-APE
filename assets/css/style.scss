@@ -52,10 +52,3 @@ pre, code, blockquote, table, th, td {
   background-color: #388bfd !important;
 }
 
-/* ⚠️ CACHER LE VISUALISEUR SUR TÉLÉPHONE ⚠️ */
-/* Si l'écran fait moins de 768px de large, l'iframe disparaît */
-@media (max-width: 768px) {
-  .pdf-viewer {
-    display: none !important;
-  }
-}
