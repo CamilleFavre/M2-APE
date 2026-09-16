@@ -59,89 +59,89 @@ Illustration 2: The story of the USD 100 billion in climate finance
 ## Lecture 1 - Introduction + Growth part 1
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Introduction</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Introduction</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1zDBJwphvuK4Ng3FHRntY4oasjjTP8SVO/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1zDBJwphvuK4Ng3FHRntY4oasjjTP8SVO/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1zDBJwphvuK4Ng3FHRntY4oasjjTP8SVO/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1zDBJwphvuK4Ng3FHRntY4oasjjTP8SVO/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 2 - Growth, Part 1
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Growth _ Section 1-3</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Growth _ Section 1-3</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1rHr1Uq5ZFXyAQEX3EXR9x7hPKXZdUMNu/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1rHr1Uq5ZFXyAQEX3EXR9x7hPKXZdUMNu/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1rHr1Uq5ZFXyAQEX3EXR9x7hPKXZdUMNu/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1rHr1Uq5ZFXyAQEX3EXR9x7hPKXZdUMNu/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 3 - Growth part 2 (+ Korea vignette)
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Growth, Part 2</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Growth, Part 2</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1fkF4H0NA-IR5pfWq1QhE4YLYGVQFqinE/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1fkF4H0NA-IR5pfWq1QhE4YLYGVQFqinE/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1fkF4H0NA-IR5pfWq1QhE4YLYGVQFqinE/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1fkF4H0NA-IR5pfWq1QhE4YLYGVQFqinE/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 4 - Growth (end) + trade (Part 1)
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Growth part 2 (+ Korea vignette)</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Growth part 2 (+ Korea vignette)</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1NOTCLUxMOBVmYbD5lBmhBceCXFidA-09/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1NOTCLUxMOBVmYbD5lBmhBceCXFidA-09/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1NOTCLUxMOBVmYbD5lBmhBceCXFidA-09/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1NOTCLUxMOBVmYbD5lBmhBceCXFidA-09/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Trade (Part 1)</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Trade (Part 1)</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1W3-_Hkv7jd8nd02zikAYL0JcDjoGi1Gy/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1W3-_Hkv7jd8nd02zikAYL0JcDjoGi1Gy/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1W3-_Hkv7jd8nd02zikAYL0JcDjoGi1Gy/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1W3-_Hkv7jd8nd02zikAYL0JcDjoGi1Gy/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 5 - Trade policies + Korea/Bangladesh illustration
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Trade Part 1 revised + korea and Bangladesh</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Trade Part 1 revised + korea and Bangladesh</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1E6mtc9jbeAR05juFnAS6Hh_lZLyVgF68/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1E6mtc9jbeAR05juFnAS6Hh_lZLyVgF68/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1E6mtc9jbeAR05juFnAS6Hh_lZLyVgF68/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1E6mtc9jbeAR05juFnAS6Hh_lZLyVgF68/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 6 - Natural Resource Curse, Industrial policies,
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Trade policy, part 2</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Trade policy, part 2</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/19kOzehZTEhvx-FPl4UiO-HDOg2pnHf5E/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/19kOzehZTEhvx-FPl4UiO-HDOg2pnHf5E/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/19kOzehZTEhvx-FPl4UiO-HDOg2pnHf5E/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/19kOzehZTEhvx-FPl4UiO-HDOg2pnHf5E/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 7 - Financial policies for development
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Financial policies</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Financial policies</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1wfN2FZZUMQIwpsbDs_oLfIC2-gG7HiCT/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1wfN2FZZUMQIwpsbDs_oLfIC2-gG7HiCT/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1wfN2FZZUMQIwpsbDs_oLfIC2-gG7HiCT/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1wfN2FZZUMQIwpsbDs_oLfIC2-gG7HiCT/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 8 - Capital account liberalization and the economics of debt
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>chpater 3 with few edits</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>chpater 3 with few edits</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1cLU9lrilne_pzUKDuR7JGoIY-4dMKiwF/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1cLU9lrilne_pzUKDuR7JGoIY-4dMKiwF/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1cLU9lrilne_pzUKDuR7JGoIY-4dMKiwF/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1cLU9lrilne_pzUKDuR7JGoIY-4dMKiwF/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 9 - Development aid and Climate Finance
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Aid and Climate</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Aid and Climate</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1fyAQ1RNeZ1zD-Pvqj3io_ZT9McYAgc1O/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1fyAQ1RNeZ1zD-Pvqj3io_ZT9McYAgc1O/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1fyAQ1RNeZ1zD-Pvqj3io_ZT9McYAgc1O/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1fyAQ1RNeZ1zD-Pvqj3io_ZT9McYAgc1O/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Tutorials
@@ -151,10 +151,10 @@ Illustration 2: The story of the USD 100 billion in climate finance
 ## Final essay
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Final essay</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Final essay</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1f4qnmvxEPsD_m4T3_wf5YqTSqA5K3-Ck/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1f4qnmvxEPsD_m4T3_wf5YqTSqA5K3-Ck/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1f4qnmvxEPsD_m4T3_wf5YqTSqA5K3-Ck/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1f4qnmvxEPsD_m4T3_wf5YqTSqA5K3-Ck/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## References

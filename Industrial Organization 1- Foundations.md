@@ -14,24 +14,24 @@ title: Industrial Organization 1: Foundations
 ## General Documents
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Readings Caillaud's part</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Readings Caillaud's part</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1yowKO9gwAdISm_DVsvLZSTQ0I0gOTrlJ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1yowKO9gwAdISm_DVsvLZSTQ0I0gOTrlJ/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1yowKO9gwAdISm_DVsvLZSTQ0I0gOTrlJ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1yowKO9gwAdISm_DVsvLZSTQ0I0gOTrlJ/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus 2024-2025</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus 2024-2025</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1HZYVLL6_sYy_40C6Ky6uO7IBWZ_a4Ebv/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1HZYVLL6_sYy_40C6Ky6uO7IBWZ_a4Ebv/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1HZYVLL6_sYy_40C6Ky6uO7IBWZ_a4Ebv/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1HZYVLL6_sYy_40C6Ky6uO7IBWZ_a4Ebv/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Oligopoly and Differentiation models: reminder slides</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Oligopoly and Differentiation models: reminder slides</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1tUUDDWiDq72hkbWsOedZ_WmOiElsdIMP/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1tUUDDWiDq72hkbWsOedZ_WmOiElsdIMP/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1tUUDDWiDq72hkbWsOedZ_WmOiElsdIMP/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1tUUDDWiDq72hkbWsOedZ_WmOiElsdIMP/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Presentation
@@ -73,341 +73,341 @@ Have nice hollidays. BC & JPhT
 ## Lecture 1 - General Introduction
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>General Introduction</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>General Introduction</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/19cNQgjHTxiGNSdZv6__VIknsHmLJjQ2I/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/19cNQgjHTxiGNSdZv6__VIknsHmLJjQ2I/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/19cNQgjHTxiGNSdZv6__VIknsHmLJjQ2I/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/19cNQgjHTxiGNSdZv6__VIknsHmLJjQ2I/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 2 - Entry
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>A simple model of predation (Fumagalli and Motta)</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>A simple model of predation (Fumagalli and Motta)</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1TpZsfG4ZOW0hdzur7Tw8O03XbFJH4ltn/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1TpZsfG4ZOW0hdzur7Tw8O03XbFJH4ltn/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1TpZsfG4ZOW0hdzur7Tw8O03XbFJH4ltn/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1TpZsfG4ZOW0hdzur7Tw8O03XbFJH4ltn/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Anticipated entry and entry deterrence</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Anticipated entry and entry deterrence</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1zpsamu7vupv6kft29X6WqAI2Ic4nx8XK/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1zpsamu7vupv6kft29X6WqAI2Ic4nx8XK/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1zpsamu7vupv6kft29X6WqAI2Ic4nx8XK/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1zpsamu7vupv6kft29X6WqAI2Ic4nx8XK/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides (updated: Sept. 26th)</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides (updated: Sept. 26th)</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1deR5bmd05pKcF0ty-SH-QXZz5UUgOipX/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1deR5bmd05pKcF0ty-SH-QXZz5UUgOipX/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1deR5bmd05pKcF0ty-SH-QXZz5UUgOipX/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1deR5bmd05pKcF0ty-SH-QXZz5UUgOipX/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 3 - Horizontal Coordination
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Concentration Thresholds for Horizontal Mergers, Nocke and Whinston</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Concentration Thresholds for Horizontal Mergers, Nocke and Whinston</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1dRDhOxhtWVRgWJAL_rOPDiiykjIj5fx4/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1dRDhOxhtWVRgWJAL_rOPDiiykjIj5fx4/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1dRDhOxhtWVRgWJAL_rOPDiiykjIj5fx4/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1dRDhOxhtWVRgWJAL_rOPDiiykjIj5fx4/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Can Collusion promote sustainable production and consumption?</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Can Collusion promote sustainable production and consumption?</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1PFFI6zr2F7QyBzYD5FKSPj3-UUFPAEkZ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1PFFI6zr2F7QyBzYD5FKSPj3-UUFPAEkZ/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1PFFI6zr2F7QyBzYD5FKSPj3-UUFPAEkZ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1PFFI6zr2F7QyBzYD5FKSPj3-UUFPAEkZ/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Motta and Polo 2003 (Leniency Porgram)</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Motta and Polo 2003 (Leniency Porgram)</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1T0kV6zBOZaz8Zus680Dnt8JE-lBNnb8p/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1T0kV6zBOZaz8Zus680Dnt8JE-lBNnb8p/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1T0kV6zBOZaz8Zus680Dnt8JE-lBNnb8p/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1T0kV6zBOZaz8Zus680Dnt8JE-lBNnb8p/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Cartel destabilization effect of leniency programs (Borrell et al.)</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Cartel destabilization effect of leniency programs (Borrell et al.)</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/102-Zmx1AAgERY1oSQ5YtjRtb7s53oy6Y/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/102-Zmx1AAgERY1oSQ5YtjRtb7s53oy6Y/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/102-Zmx1AAgERY1oSQ5YtjRtb7s53oy6Y/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/102-Zmx1AAgERY1oSQ5YtjRtb7s53oy6Y/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides (part1b)</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides (part1b)</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1FV-daUwKRugsIpL1BrAyALgUnyg95ayl/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1FV-daUwKRugsIpL1BrAyALgUnyg95ayl/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1FV-daUwKRugsIpL1BrAyALgUnyg95ayl/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1FV-daUwKRugsIpL1BrAyALgUnyg95ayl/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides (part 1a, updated, Oct. 1st)</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides (part 1a, updated, Oct. 1st)</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1lZhw5BEwi6OCgikKib0trsLtmQxCiXXu/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1lZhw5BEwi6OCgikKib0trsLtmQxCiXXu/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1lZhw5BEwi6OCgikKib0trsLtmQxCiXXu/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1lZhw5BEwi6OCgikKib0trsLtmQxCiXXu/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides (part2: Horizontal mergers))</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides (part2: Horizontal mergers))</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1WICkBhJQQQff-NpuX3QS7BT1XTuA8w-H/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1WICkBhJQQQff-NpuX3QS7BT1XTuA8w-H/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1WICkBhJQQQff-NpuX3QS7BT1XTuA8w-H/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1WICkBhJQQQff-NpuX3QS7BT1XTuA8w-H/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 4 - Vertical Relations
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Rey and Verge survey</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Rey and Verge survey</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/15Wo7Zsc4pF39zB-vlODxP0h3xrCMBR39/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/15Wo7Zsc4pF39zB-vlODxP0h3xrCMBR39/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/15Wo7Zsc4pF39zB-vlODxP0h3xrCMBR39/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/15Wo7Zsc4pF39zB-vlODxP0h3xrCMBR39/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Exclusive Dealing (Bernheim and Whinston)</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Exclusive Dealing (Bernheim and Whinston)</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1jI6gLFgejf7MBtcBeqXvntezNtautjcT/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1jI6gLFgejf7MBtcBeqXvntezNtautjcT/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1jI6gLFgejf7MBtcBeqXvntezNtautjcT/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1jI6gLFgejf7MBtcBeqXvntezNtautjcT/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Segal and Whinston</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Segal and Whinston</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/10T7juPfGUb1-VxlG8T5AN5Ca1QynTklQ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/10T7juPfGUb1-VxlG8T5AN5Ca1QynTklQ/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/10T7juPfGUb1-VxlG8T5AN5Ca1QynTklQ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/10T7juPfGUb1-VxlG8T5AN5Ca1QynTklQ/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Does Exclusive Dealing matter...</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Does Exclusive Dealing matter...</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1bsJokm0lyGAkGfxopsZ5BRkmgeMR5MrY/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1bsJokm0lyGAkGfxopsZ5BRkmgeMR5MrY/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1bsJokm0lyGAkGfxopsZ5BRkmgeMR5MrY/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1bsJokm0lyGAkGfxopsZ5BRkmgeMR5MrY/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides (part2)</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides (part2)</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1dAk2vjHHBn-B9l-TONX7RsMsYArsDF01/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1dAk2vjHHBn-B9l-TONX7RsMsYArsDF01/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1dAk2vjHHBn-B9l-TONX7RsMsYArsDF01/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1dAk2vjHHBn-B9l-TONX7RsMsYArsDF01/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>slides (part 1 updated, October 23nd)</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>slides (part 1 updated, October 23nd)</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1DHknBZV09_V5Jafu1M7VXTwVLY4uGMU6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1DHknBZV09_V5Jafu1M7VXTwVLY4uGMU6/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1DHknBZV09_V5Jafu1M7VXTwVLY4uGMU6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1DHknBZV09_V5Jafu1M7VXTwVLY4uGMU6/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 5 - Search and market power
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Wolinsky 86</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Wolinsky 86</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1VJcWmsEASY47yN8Zr4vq8WM5gBxhEYNv/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1VJcWmsEASY47yN8Zr4vq8WM5gBxhEYNv/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1VJcWmsEASY47yN8Zr4vq8WM5gBxhEYNv/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1VJcWmsEASY47yN8Zr4vq8WM5gBxhEYNv/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Varian 80</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Varian 80</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1AVb0yX33YYlFEnFcaBAQqDgOJmyxhxSw/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1AVb0yX33YYlFEnFcaBAQqDgOJmyxhxSw/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1AVb0yX33YYlFEnFcaBAQqDgOJmyxhxSw/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1AVb0yX33YYlFEnFcaBAQqDgOJmyxhxSw/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Anderson - Renault 99</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Anderson - Renault 99</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1Kgj5VPEEoXTzM8WQ8JGbNgUAahEncjqJ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1Kgj5VPEEoXTzM8WQ8JGbNgUAahEncjqJ/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1Kgj5VPEEoXTzM8WQ8JGbNgUAahEncjqJ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1Kgj5VPEEoXTzM8WQ8JGbNgUAahEncjqJ/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Petrikaite 18</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Petrikaite 18</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1y_R1qVrTSFjYXWo_a7pxqNbb5TCS87to/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1y_R1qVrTSFjYXWo_a7pxqNbb5TCS87to/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1y_R1qVrTSFjYXWo_a7pxqNbb5TCS87to/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1y_R1qVrTSFjYXWo_a7pxqNbb5TCS87to/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides: market power and search</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides: market power and search</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/19QCJ9JTOhxlbDnmjQDBEPnV3JlM0e8FW/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/19QCJ9JTOhxlbDnmjQDBEPnV3JlM0e8FW/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/19QCJ9JTOhxlbDnmjQDBEPnV3JlM0e8FW/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/19QCJ9JTOhxlbDnmjQDBEPnV3JlM0e8FW/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 6 - Topics in Advertising
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>ANderson - Renault 06</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>ANderson - Renault 06</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1Xm3D_JvNgqNNl0XA9M3byASCZlUArOa6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1Xm3D_JvNgqNNl0XA9M3byASCZlUArOa6/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1Xm3D_JvNgqNNl0XA9M3byASCZlUArOa6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1Xm3D_JvNgqNNl0XA9M3byASCZlUArOa6/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Johnson - Myatt 06</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Johnson - Myatt 06</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1d4AQntFBXDPe4-FEjz8j8GpIWQdRBkDE/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1d4AQntFBXDPe4-FEjz8j8GpIWQdRBkDE/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1d4AQntFBXDPe4-FEjz8j8GpIWQdRBkDE/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1d4AQntFBXDPe4-FEjz8j8GpIWQdRBkDE/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>GRossman - Shapiro 84</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>GRossman - Shapiro 84</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1WDb5uJshze1OyNebhEffXMt7zbBxGAs4/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1WDb5uJshze1OyNebhEffXMt7zbBxGAs4/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1WDb5uJshze1OyNebhEffXMt7zbBxGAs4/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1WDb5uJshze1OyNebhEffXMt7zbBxGAs4/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Wang 17</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Wang 17</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1Y1sWnyBfJyPIW02mR5QWOqMIjoIYtjAk/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1Y1sWnyBfJyPIW02mR5QWOqMIjoIYtjAk/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1Y1sWnyBfJyPIW02mR5QWOqMIjoIYtjAk/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1Y1sWnyBfJyPIW02mR5QWOqMIjoIYtjAk/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides: Advertising</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides: Advertising</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1aFOdrFQu6Kd_0IwTi7lvoNLGg8ZxEFm4/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1aFOdrFQu6Kd_0IwTi7lvoNLGg8ZxEFm4/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1aFOdrFQu6Kd_0IwTi7lvoNLGg8ZxEFm4/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1aFOdrFQu6Kd_0IwTi7lvoNLGg8ZxEFm4/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 7 - Economics of platforms / Two-sided markets
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Armstrong 06</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Armstrong 06</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/14gM3o7A00QNsqI97pq4J6B9QqH405Vf-/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/14gM3o7A00QNsqI97pq4J6B9QqH405Vf-/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/14gM3o7A00QNsqI97pq4J6B9QqH405Vf-/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/14gM3o7A00QNsqI97pq4J6B9QqH405Vf-/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Weyl 10</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Weyl 10</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1vLrXFRtKq4ubkALdQ_gUy-ICPTNsdKD1/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1vLrXFRtKq4ubkALdQ_gUy-ICPTNsdKD1/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1vLrXFRtKq4ubkALdQ_gUy-ICPTNsdKD1/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1vLrXFRtKq4ubkALdQ_gUy-ICPTNsdKD1/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Rochet - Tirole 03</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Rochet - Tirole 03</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1V9VTmUzSZ9bLqxrtk_lbZJuuLcHSNsii/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1V9VTmUzSZ9bLqxrtk_lbZJuuLcHSNsii/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1V9VTmUzSZ9bLqxrtk_lbZJuuLcHSNsii/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1V9VTmUzSZ9bLqxrtk_lbZJuuLcHSNsii/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Jullien 11</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Jullien 11</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1h2A8BI0FPOfGRHciDnkChJmL2EqhS4jm/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1h2A8BI0FPOfGRHciDnkChJmL2EqhS4jm/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1h2A8BI0FPOfGRHciDnkChJmL2EqhS4jm/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1h2A8BI0FPOfGRHciDnkChJmL2EqhS4jm/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Armstrong - Wright 07</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Armstrong - Wright 07</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1GawVG8Rc-FAuZk6CzD_nLuCuw7-DYpKg/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1GawVG8Rc-FAuZk6CzD_nLuCuw7-DYpKg/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1GawVG8Rc-FAuZk6CzD_nLuCuw7-DYpKg/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1GawVG8Rc-FAuZk6CzD_nLuCuw7-DYpKg/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Caillaud - Jullien 03</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Caillaud - Jullien 03</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1G9P2lptJedzmdizsaiWZ_yq7fCHBgIZF/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1G9P2lptJedzmdizsaiWZ_yq7fCHBgIZF/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1G9P2lptJedzmdizsaiWZ_yq7fCHBgIZF/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1G9P2lptJedzmdizsaiWZ_yq7fCHBgIZF/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Tan - Zhou 21</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Tan - Zhou 21</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/15n8xSrc0llbbYG9zyMu2Lk3R0Bvx3rMR/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/15n8xSrc0llbbYG9zyMu2Lk3R0Bvx3rMR/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/15n8xSrc0llbbYG9zyMu2Lk3R0Bvx3rMR/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/15n8xSrc0llbbYG9zyMu2Lk3R0Bvx3rMR/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Choi - Jeon 19 (WP 18)</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Choi - Jeon 19 (WP 18)</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1n6gwe1sRHgWbWGpVlavD5fyTLRRyl96h/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1n6gwe1sRHgWbWGpVlavD5fyTLRRyl96h/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1n6gwe1sRHgWbWGpVlavD5fyTLRRyl96h/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1n6gwe1sRHgWbWGpVlavD5fyTLRRyl96h/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Correia-da-Silva et al. 21 (WP 18)</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Correia-da-Silva et al. 21 (WP 18)</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1xlFxM6BHTvkVCEqBwpCoMltG-Bhv9v-_/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1xlFxM6BHTvkVCEqBwpCoMltG-Bhv9v-_/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1xlFxM6BHTvkVCEqBwpCoMltG-Bhv9v-_/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1xlFxM6BHTvkVCEqBwpCoMltG-Bhv9v-_/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides: Basics on two-sided platforms</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides: Basics on two-sided platforms</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1D4aRjQNI18vY0M3SR0tu_cVNPwCOl3iA/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1D4aRjQNI18vY0M3SR0tu_cVNPwCOl3iA/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1D4aRjQNI18vY0M3SR0tu_cVNPwCOl3iA/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1D4aRjQNI18vY0M3SR0tu_cVNPwCOl3iA/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides: Applications in Platform economics</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides: Applications in Platform economics</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1NIKicrjJQ5y4lvuiOL-sZpjzrlMnFjEj/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1NIKicrjJQ5y4lvuiOL-sZpjzrlMnFjEj/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1NIKicrjJQ5y4lvuiOL-sZpjzrlMnFjEj/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1NIKicrjJQ5y4lvuiOL-sZpjzrlMnFjEj/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides: Platforms and Data</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides: Platforms and Data</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1XODFuV1wbNyx1LAHCYK60Lz_Cc5lVIJx/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1XODFuV1wbNyx1LAHCYK60Lz_Cc5lVIJx/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1XODFuV1wbNyx1LAHCYK60Lz_Cc5lVIJx/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1XODFuV1wbNyx1LAHCYK60Lz_Cc5lVIJx/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 8 - R&D, innovation, intellectual property and patents
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides: RandD, intellectual property and patents</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides: RandD, intellectual property and patents</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1c5X4_rXpJH-xCgoyL995u1pbDJdWP3_R/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1c5X4_rXpJH-xCgoyL995u1pbDJdWP3_R/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1c5X4_rXpJH-xCgoyL995u1pbDJdWP3_R/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1c5X4_rXpJH-xCgoyL995u1pbDJdWP3_R/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides: patent pools and standards</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides: patent pools and standards</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1JLflHtYiShFdJuTXa_mnfI3UcH6eJYZW/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1JLflHtYiShFdJuTXa_mnfI3UcH6eJYZW/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1JLflHtYiShFdJuTXa_mnfI3UcH6eJYZW/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1JLflHtYiShFdJuTXa_mnfI3UcH6eJYZW/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bessen Maskin 09</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bessen Maskin 09</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1OegOt5ecWzuZnQmalbB4YWand6tXhc4N/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1OegOt5ecWzuZnQmalbB4YWand6tXhc4N/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1OegOt5ecWzuZnQmalbB4YWand6tXhc4N/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1OegOt5ecWzuZnQmalbB4YWand6tXhc4N/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Jeon - Lefouili 18</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Jeon - Lefouili 18</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1l-LtaeraUVMHXiq813uwAQ_0p8Ajhh0n/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1l-LtaeraUVMHXiq813uwAQ_0p8Ajhh0n/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1l-LtaeraUVMHXiq813uwAQ_0p8Ajhh0n/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1l-LtaeraUVMHXiq813uwAQ_0p8Ajhh0n/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lerner - Tirole 04</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lerner - Tirole 04</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1RFpBccRy4kU3dXr49XjSkIhn2dJgjFry/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1RFpBccRy4kU3dXr49XjSkIhn2dJgjFry/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1RFpBccRy4kU3dXr49XjSkIhn2dJgjFry/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1RFpBccRy4kU3dXr49XjSkIhn2dJgjFry/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 9 - Price Discrimination
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Voluntary information disclosure</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Voluntary information disclosure</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/152YtCaq1xDNElORmx7PVu4ZN7R1FhneS/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/152YtCaq1xDNElORmx7PVu4ZN7R1FhneS/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/152YtCaq1xDNElORmx7PVu4ZN7R1FhneS/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/152YtCaq1xDNElORmx7PVu4ZN7R1FhneS/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides-Price Discrimination</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides-Price Discrimination</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1NloM8yC3-CST5bam_PBTH19KFT2XeC2s/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1NloM8yC3-CST5bam_PBTH19KFT2XeC2s/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1NloM8yC3-CST5bam_PBTH19KFT2XeC2s/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1NloM8yC3-CST5bam_PBTH19KFT2XeC2s/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Tutorials
@@ -415,10 +415,10 @@ Have nice hollidays. BC & JPhT
 ## Tutorial 1 - Exclusive Territories with vertical relations (solution)
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Exclusive Territories (solution)</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Exclusive Territories (solution)</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1zl3V6Jy8LE8S-jQth88cg7GigazYr3nL/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1zl3V6Jy8LE8S-jQth88cg7GigazYr3nL/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1zl3V6Jy8LE8S-jQth88cg7GigazYr3nL/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1zl3V6Jy8LE8S-jQth88cg7GigazYr3nL/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Homeworks and Exams
@@ -426,169 +426,169 @@ Have nice hollidays. BC & JPhT
 ## Past exams and solutions: a sample
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>final 20-21 text and solution</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>final 20-21 text and solution</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/19Nhx_J-hG6OBinQZ8JXFW24TWKxxuqaz/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/19Nhx_J-hG6OBinQZ8JXFW24TWKxxuqaz/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/19Nhx_J-hG6OBinQZ8JXFW24TWKxxuqaz/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/19Nhx_J-hG6OBinQZ8JXFW24TWKxxuqaz/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>homework1 19-20 solution ex2</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>homework1 19-20 solution ex2</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1GjOy7_KRMkGIfH5yNbpYlQjWOhziUm6x/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1GjOy7_KRMkGIfH5yNbpYlQjWOhziUm6x/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1GjOy7_KRMkGIfH5yNbpYlQjWOhziUm6x/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1GjOy7_KRMkGIfH5yNbpYlQjWOhziUm6x/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>homework2 19-20 text</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>homework2 19-20 text</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1bV5KEV4_1-6iv71WRynO6Zf4GlC3tgho/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1bV5KEV4_1-6iv71WRynO6Zf4GlC3tgho/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1bV5KEV4_1-6iv71WRynO6Zf4GlC3tgho/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1bV5KEV4_1-6iv71WRynO6Zf4GlC3tgho/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>homework2 19-20 solutions</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>homework2 19-20 solutions</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1LBl7OEiCeput66dsbGIEYGVLQtRoeCiz/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1LBl7OEiCeput66dsbGIEYGVLQtRoeCiz/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1LBl7OEiCeput66dsbGIEYGVLQtRoeCiz/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1LBl7OEiCeput66dsbGIEYGVLQtRoeCiz/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>21-21 final text and solution</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>21-21 final text and solution</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1FDIfBsHgvsrWFwpnCbW_jZKmq5b1hsp1/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1FDIfBsHgvsrWFwpnCbW_jZKmq5b1hsp1/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1FDIfBsHgvsrWFwpnCbW_jZKmq5b1hsp1/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1FDIfBsHgvsrWFwpnCbW_jZKmq5b1hsp1/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>homework1 19-20 text</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>homework1 19-20 text</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1b0uoBrJHuOzT4JjZRiNJT9k6aZ0-4DX2/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1b0uoBrJHuOzT4JjZRiNJT9k6aZ0-4DX2/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1b0uoBrJHuOzT4JjZRiNJT9k6aZ0-4DX2/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1b0uoBrJHuOzT4JjZRiNJT9k6aZ0-4DX2/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Exam 2
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>collection of past exams / exercises / homeworks</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>collection of past exams / exercises / homeworks</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1Cuaqyo0G9nP7z2wLKPJpAssxMsnue7pI/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1Cuaqyo0G9nP7z2wLKPJpAssxMsnue7pI/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1Cuaqyo0G9nP7z2wLKPJpAssxMsnue7pI/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1Cuaqyo0G9nP7z2wLKPJpAssxMsnue7pI/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Solution exercise 3</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Solution exercise 3</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1rMLbzjMXmX2elJ_Db0scuQavgMhH-MXo/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1rMLbzjMXmX2elJ_Db0scuQavgMhH-MXo/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1rMLbzjMXmX2elJ_Db0scuQavgMhH-MXo/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1rMLbzjMXmX2elJ_Db0scuQavgMhH-MXo/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Exercise on knowledge transfer
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Solution</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Solution</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1nhRe3LUGOv1MNYMyD7zgA-R2e-zq1_sr/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1nhRe3LUGOv1MNYMyD7zgA-R2e-zq1_sr/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1nhRe3LUGOv1MNYMyD7zgA-R2e-zq1_sr/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1nhRe3LUGOv1MNYMyD7zgA-R2e-zq1_sr/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Past term papers
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>example1</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>example1</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1kC3ZpXh50ykbYHMp2Tc4CgF1DUrFWLOu/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1kC3ZpXh50ykbYHMp2Tc4CgF1DUrFWLOu/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1kC3ZpXh50ykbYHMp2Tc4CgF1DUrFWLOu/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1kC3ZpXh50ykbYHMp2Tc4CgF1DUrFWLOu/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>example2</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>example2</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1Ytpm0SP6gglQM_d7-AUz2BaM0HsZv0WN/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1Ytpm0SP6gglQM_d7-AUz2BaM0HsZv0WN/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1Ytpm0SP6gglQM_d7-AUz2BaM0HsZv0WN/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1Ytpm0SP6gglQM_d7-AUz2BaM0HsZv0WN/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>example3</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>example3</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1-o-Y_2Lml2KiaiZ2D-mawe_MNUXHpVh2/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1-o-Y_2Lml2KiaiZ2D-mawe_MNUXHpVh2/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1-o-Y_2Lml2KiaiZ2D-mawe_MNUXHpVh2/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1-o-Y_2Lml2KiaiZ2D-mawe_MNUXHpVh2/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>example4</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>example4</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1qj41Jfv7v1CWbGJX0uovm1hJ0j6XRBHM/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1qj41Jfv7v1CWbGJX0uovm1hJ0j6XRBHM/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1qj41Jfv7v1CWbGJX0uovm1hJ0j6XRBHM/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1qj41Jfv7v1CWbGJX0uovm1hJ0j6XRBHM/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>example5</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>example5</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1uDoCTWzrgKJY1WA8iusgyQzc_jytLPVq/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1uDoCTWzrgKJY1WA8iusgyQzc_jytLPVq/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1uDoCTWzrgKJY1WA8iusgyQzc_jytLPVq/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1uDoCTWzrgKJY1WA8iusgyQzc_jytLPVq/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>example6</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>example6</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1aCpdWlPJDSDXzyWOomt5yfkxQV7WUQWN/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1aCpdWlPJDSDXzyWOomt5yfkxQV7WUQWN/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1aCpdWlPJDSDXzyWOomt5yfkxQV7WUQWN/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1aCpdWlPJDSDXzyWOomt5yfkxQV7WUQWN/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>example7</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>example7</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1LdN4hHIb_hDRwkqm3UboedavefXIcPhD/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1LdN4hHIb_hDRwkqm3UboedavefXIcPhD/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1LdN4hHIb_hDRwkqm3UboedavefXIcPhD/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1LdN4hHIb_hDRwkqm3UboedavefXIcPhD/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>example8</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>example8</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1kL2vEkcLwPZubWaAkKZu7RfCiQwSvyt5/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1kL2vEkcLwPZubWaAkKZu7RfCiQwSvyt5/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1kL2vEkcLwPZubWaAkKZu7RfCiQwSvyt5/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1kL2vEkcLwPZubWaAkKZu7RfCiQwSvyt5/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## 2022-2023 Final, BC's part
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>final exam BC's part: text + solution</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>final exam BC's part: text + solution</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1JmrQfPGO8g7EKRQPFYD3dtTVfp1xFZ8z/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1JmrQfPGO8g7EKRQPFYD3dtTVfp1xFZ8z/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1JmrQfPGO8g7EKRQPFYD3dtTVfp1xFZ8z/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1JmrQfPGO8g7EKRQPFYD3dtTVfp1xFZ8z/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Jeon-Jullien-Klimenko</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Jeon-Jullien-Klimenko</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1kUQoDa8P-8EiP_i-8NpiBQa-qoCOKPGJ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1kUQoDa8P-8EiP_i-8NpiBQa-qoCOKPGJ/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1kUQoDa8P-8EiP_i-8NpiBQa-qoCOKPGJ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1kUQoDa8P-8EiP_i-8NpiBQa-qoCOKPGJ/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Exam 6
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Exercices for October 20th</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Exercices for October 20th</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/14Tnl-1yaDhadTbdLSzKvaS-WRNCvHx_d/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/14Tnl-1yaDhadTbdLSzKvaS-WRNCvHx_d/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/14Tnl-1yaDhadTbdLSzKvaS-WRNCvHx_d/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/14Tnl-1yaDhadTbdLSzKvaS-WRNCvHx_d/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Elements of solution of exercise 2</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Elements of solution of exercise 2</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1UhOTUloLwnd07Z7Kn5SjT9QtdS9pGptc/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1UhOTUloLwnd07Z7Kn5SjT9QtdS9pGptc/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1UhOTUloLwnd07Z7Kn5SjT9QtdS9pGptc/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1UhOTUloLwnd07Z7Kn5SjT9QtdS9pGptc/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Final exam 2023-2024
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>paper to read</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>paper to read</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1dXMp4wL3296pQ-pu-jHXzxheYbGOCz7F/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1dXMp4wL3296pQ-pu-jHXzxheYbGOCz7F/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1dXMp4wL3296pQ-pu-jHXzxheYbGOCz7F/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1dXMp4wL3296pQ-pu-jHXzxheYbGOCz7F/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## References

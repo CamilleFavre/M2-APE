@@ -14,10 +14,10 @@ title: Economics of Public Intervention
 ## General Documents
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus 2025</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus 2025</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1nz9rwH7Hr7zV3KKheIiy6_5y5rD9aihK/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1nz9rwH7Hr7zV3KKheIiy6_5y5rD9aihK/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1nz9rwH7Hr7zV3KKheIiy6_5y5rD9aihK/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1nz9rwH7Hr7zV3KKheIiy6_5y5rD9aihK/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Presentation
@@ -52,10 +52,10 @@ Dec 2: Myerson's MOR 1981 theorem, Section 6, pages 68-69.
 Dec 3: Condorelli, 2013, Games and Economic Behavior
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Optimal rationing within a heterogeneous population</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Optimal rationing within a heterogeneous population</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1rm0jYXXVc7G6bBzPcLNtUhLzYb8HQIJI/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1rm0jYXXVc7G6bBzPcLNtUhLzYb8HQIJI/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1rm0jYXXVc7G6bBzPcLNtUhLzYb8HQIJI/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1rm0jYXXVc7G6bBzPcLNtUhLzYb8HQIJI/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Part #1
@@ -65,26 +65,26 @@ Exact dates to be confirmed.
 ## Lecture 1 - Part 1: Regulation
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Document 1</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Document 1</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1sQOFneqHsaiRCSkebEiVMtL3izhY14we/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1sQOFneqHsaiRCSkebEiVMtL3izhY14we/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1sQOFneqHsaiRCSkebEiVMtL3izhY14we/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1sQOFneqHsaiRCSkebEiVMtL3izhY14we/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 2 - Part 2: Deregulation
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Document 1</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Document 1</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1XT_iGquB2D6jyshl2LI03yMtIbzao0yi/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1XT_iGquB2D6jyshl2LI03yMtIbzao0yi/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1XT_iGquB2D6jyshl2LI03yMtIbzao0yi/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1XT_iGquB2D6jyshl2LI03yMtIbzao0yi/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Example: Airline competition</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Example: Airline competition</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1MJ8W3TBWi5jxaVb5y_KpIsB-aAoff1uz/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1MJ8W3TBWi5jxaVb5y_KpIsB-aAoff1uz/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1MJ8W3TBWi5jxaVb5y_KpIsB-aAoff1uz/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1MJ8W3TBWi5jxaVb5y_KpIsB-aAoff1uz/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 3 - Part 3: Auctions
@@ -109,17 +109,17 @@ Ng C.K. and P. Seabright. Competition, Privatization, and Productive efficiency:
 Paarsch, H. J. (1992). Deciding between the common and private value paradigms in empirical models of auctions. Journal of econometrics, 51(1-2), 191-215.
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Document 1</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Document 1</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1LYc9hXUjTarkEpIHuj_9K0ztMMBt91L3/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1LYc9hXUjTarkEpIHuj_9K0ztMMBt91L3/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1LYc9hXUjTarkEpIHuj_9K0ztMMBt91L3/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1LYc9hXUjTarkEpIHuj_9K0ztMMBt91L3/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Example: Drugs in Italy</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Example: Drugs in Italy</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1gVfYtf7bkp1xPP3OWFrAhHK2_80E2CH-/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1gVfYtf7bkp1xPP3OWFrAhHK2_80E2CH-/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1gVfYtf7bkp1xPP3OWFrAhHK2_80E2CH-/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1gVfYtf7bkp1xPP3OWFrAhHK2_80E2CH-/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ---

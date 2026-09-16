@@ -14,10 +14,10 @@ title: Environmental Economics
 ## General Documents
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>EnvEcon-Syllabus-2025</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>EnvEcon-Syllabus-2025</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1f25PKOiP1dfQMoeU14cht4JLRAYpYc7c/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1f25PKOiP1dfQMoeU14cht4JLRAYpYc7c/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1f25PKOiP1dfQMoeU14cht4JLRAYpYc7c/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1f25PKOiP1dfQMoeU14cht4JLRAYpYc7c/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Presentation
@@ -75,64 +75,64 @@ Topics covered: What are (some of) the effects of climate change? How can we use
 ## Lecture 1 - Environmental regulation without uncertainty
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Chapter 1 - Lectures 1-2</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Chapter 1 - Lectures 1-2</b></summary>
   <br>
-  <iframe src="https://teaching.parisschoolofeconomics.eu/docs/MAORG-103/Slides_Chapter1.pdf" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://teaching.parisschoolofeconomics.eu/docs/MAORG-103/Slides_Chapter1.pdf" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://teaching.parisschoolofeconomics.eu/docs/MAORG-103/Slides_Chapter1.pdf" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://teaching.parisschoolofeconomics.eu/docs/MAORG-103/Slides_Chapter1.pdf" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 2 - Environmental regulation in an uncertain world
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Chapter 2 - Lectures 2-3</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Chapter 2 - Lectures 2-3</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1CtvUP21-zz2SEoUf0vAGrY640Q-iwHOe/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1CtvUP21-zz2SEoUf0vAGrY640Q-iwHOe/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1CtvUP21-zz2SEoUf0vAGrY640Q-iwHOe/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1CtvUP21-zz2SEoUf0vAGrY640Q-iwHOe/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 3 - Market Imperfections and Environmental Regulation
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Ho-Slides1</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Ho-Slides1</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1eZPuyONVNpOAnJMwjc0jlSbz9qUTGvtU/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1eZPuyONVNpOAnJMwjc0jlSbz9qUTGvtU/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1eZPuyONVNpOAnJMwjc0jlSbz9qUTGvtU/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1eZPuyONVNpOAnJMwjc0jlSbz9qUTGvtU/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 4 - Trade and the Environment
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides-HO2</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides-HO2</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1eFGQ8SusFO0ScCTTDKwYsuKpHRRYpum6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1eFGQ8SusFO0ScCTTDKwYsuKpHRRYpum6/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1eFGQ8SusFO0ScCTTDKwYsuKpHRRYpum6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1eFGQ8SusFO0ScCTTDKwYsuKpHRRYpum6/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 5 - Climate Change in a Globalized World
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>HO-slides3</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>HO-slides3</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1Z9aj0U0dPfrkBt_RwsGZa3dl24N-njzm/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1Z9aj0U0dPfrkBt_RwsGZa3dl24N-njzm/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1Z9aj0U0dPfrkBt_RwsGZa3dl24N-njzm/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1Z9aj0U0dPfrkBt_RwsGZa3dl24N-njzm/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 6 - Environmental regulation under ex ante asymmetric information
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Chapter 3 - Lectures 6-7</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Chapter 3 - Lectures 6-7</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1_0c3vitOWoGq9Po10fruiDgU6Oes6zTn/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1_0c3vitOWoGq9Po10fruiDgU6Oes6zTn/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1_0c3vitOWoGq9Po10fruiDgU6Oes6zTn/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1_0c3vitOWoGq9Po10fruiDgU6Oes6zTn/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 7 - Environmental regulation under ex post asymmetric information
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Chapter 3 - Lectures 8-9</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Chapter 3 - Lectures 8-9</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1z4_-19M0Y-MfaJSH9mY7U8eh78OuOL9o/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1z4_-19M0Y-MfaJSH9mY7U8eh78OuOL9o/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1z4_-19M0Y-MfaJSH9mY7U8eh78OuOL9o/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1z4_-19M0Y-MfaJSH9mY7U8eh78OuOL9o/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Tutorials
@@ -140,28 +140,28 @@ Topics covered: What are (some of) the effects of climate change? How can we use
 ## Tutorial 1 - Example of a written test
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Written test 1 - September 2023</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Written test 1 - September 2023</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1_ccBz5ko0tZfXo24ZxMYEmIKnd7YEqO5/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1_ccBz5ko0tZfXo24ZxMYEmIKnd7YEqO5/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1_ccBz5ko0tZfXo24ZxMYEmIKnd7YEqO5/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1_ccBz5ko0tZfXo24ZxMYEmIKnd7YEqO5/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Tutorial 2 - Another example
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Written test 2 - October 2023</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Written test 2 - October 2023</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1PwnDWHbv3HYIzRPD0_yAVXrpOzfMxdz0/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1PwnDWHbv3HYIzRPD0_yAVXrpOzfMxdz0/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1PwnDWHbv3HYIzRPD0_yAVXrpOzfMxdz0/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1PwnDWHbv3HYIzRPD0_yAVXrpOzfMxdz0/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Tutorial 3 - Example of a written exam (Part 1 : Mireille Chiroleu-Assouline)
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Exam_2023-2024</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Exam_2023-2024</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1FhpeEJVYci2fTepP7nskQPflHFo112eX/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1FhpeEJVYci2fTepP7nskQPflHFo112eX/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1FhpeEJVYci2fTepP7nskQPflHFo112eX/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1FhpeEJVYci2fTepP7nskQPflHFo112eX/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Homeworks and Exams

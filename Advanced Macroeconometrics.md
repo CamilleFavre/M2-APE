@@ -14,10 +14,10 @@ title: Advanced Macroeconometrics
 ## General Documents
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1DnwYzhP8_CQJg-7Ncda0RVySymO4X04D/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1DnwYzhP8_CQJg-7Ncda0RVySymO4X04D/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1DnwYzhP8_CQJg-7Ncda0RVySymO4X04D/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1DnwYzhP8_CQJg-7Ncda0RVySymO4X04D/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Presentation
@@ -39,51 +39,51 @@ This class aims to review time series techniques and their application to macroe
 ## Lecture 1 - Introduction - Cointegration
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Introduction</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Introduction</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1Nrk5Qc0YNGbQ6mjQxoYggqzO0J7nHXxw/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1Nrk5Qc0YNGbQ6mjQxoYggqzO0J7nHXxw/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1Nrk5Qc0YNGbQ6mjQxoYggqzO0J7nHXxw/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1Nrk5Qc0YNGbQ6mjQxoYggqzO0J7nHXxw/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Cointegration sections 1 to 4</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Cointegration sections 1 to 4</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1eugIEsmBe_Tgs1Pp-2Vndk3JkONVFHXV/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1eugIEsmBe_Tgs1Pp-2Vndk3JkONVFHXV/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1eugIEsmBe_Tgs1Pp-2Vndk3JkONVFHXV/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1eugIEsmBe_Tgs1Pp-2Vndk3JkONVFHXV/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 2 - Cointegrated VAR
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Cointegrated VAR estimation and tests: example</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Cointegrated VAR estimation and tests: example</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1eoTo0sd1Vzsj6URW1FsHMD4wF3RHtahU/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1eoTo0sd1Vzsj6URW1FsHMD4wF3RHtahU/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1eoTo0sd1Vzsj6URW1FsHMD4wF3RHtahU/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1eoTo0sd1Vzsj6URW1FsHMD4wF3RHtahU/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Cointegrated VAR sections 4.3 to 6 : final version</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Cointegrated VAR sections 4.3 to 6 : final version</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1kkTrQdZliE6oFHKBtnh_UX4tA0aOQ1ql/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1kkTrQdZliE6oFHKBtnh_UX4tA0aOQ1ql/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1kkTrQdZliE6oFHKBtnh_UX4tA0aOQ1ql/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1kkTrQdZliE6oFHKBtnh_UX4tA0aOQ1ql/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 3 - Kalman filter and smoother
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Kalman filter and smoother V2</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Kalman filter and smoother V2</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1cWnTwDu2I5W47UpCFQpVAhYJBQA5E4nz/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1cWnTwDu2I5W47UpCFQpVAhYJBQA5E4nz/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1cWnTwDu2I5W47UpCFQpVAhYJBQA5E4nz/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1cWnTwDu2I5W47UpCFQpVAhYJBQA5E4nz/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 4 - Dynamic Factor Models
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Dynamic Factor Models V3</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Dynamic Factor Models V3</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1h89CnSxfy3Lo8wxjwL8svXs9i_m-hCGk/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1h89CnSxfy3Lo8wxjwL8svXs9i_m-hCGk/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1h89CnSxfy3Lo8wxjwL8svXs9i_m-hCGk/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1h89CnSxfy3Lo8wxjwL8svXs9i_m-hCGk/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Tutorial 1 - Last year's exam
@@ -96,10 +96,10 @@ This class aims to review time series techniques and their application to macroe
 - Harvey, A.C. (1990, 2014), Forecasting, structural time series models and the Kalman filter, Cambridge Univ. Press
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Exam 2023-24 (with the memorandum for cointegration)</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Exam 2023-24 (with the memorandum for cointegration)</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1t3VfypVA1xrnpsTi1JQZrZXvEfmb2IVV/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1t3VfypVA1xrnpsTi1JQZrZXvEfmb2IVV/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1t3VfypVA1xrnpsTi1JQZrZXvEfmb2IVV/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1t3VfypVA1xrnpsTi1JQZrZXvEfmb2IVV/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ---

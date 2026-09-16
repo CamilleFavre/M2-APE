@@ -38,44 +38,44 @@ To successfully complete the course, students must:
 ## Lecture 1 - : The gains from marriage
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 1 - slides</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 1 - slides</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1IF8Zr-eyqNuQ1OQJuJ0efGXvXRY2NETT/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1IF8Zr-eyqNuQ1OQJuJ0efGXvXRY2NETT/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1IF8Zr-eyqNuQ1OQJuJ0efGXvXRY2NETT/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1IF8Zr-eyqNuQ1OQJuJ0efGXvXRY2NETT/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Introduction</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Introduction</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1AbjB7E94j0ir0eN2XZH3L7EiCCuFhl-r/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1AbjB7E94j0ir0eN2XZH3L7EiCCuFhl-r/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1AbjB7E94j0ir0eN2XZH3L7EiCCuFhl-r/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1AbjB7E94j0ir0eN2XZH3L7EiCCuFhl-r/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 2 - : Marriage Markets
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Lecture 2</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Lecture 2</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1ZgVePebW5t9HV9qUtwfJKnK5bY2USMcq/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1ZgVePebW5t9HV9qUtwfJKnK5bY2USMcq/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1ZgVePebW5t9HV9qUtwfJKnK5bY2USMcq/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1ZgVePebW5t9HV9qUtwfJKnK5bY2USMcq/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 3 - : Fertility and child cost
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 3 - slides</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 3 - slides</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1TtR5U5g0i80oad5s-jQZdVm2JOZfBM_c/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1TtR5U5g0i80oad5s-jQZdVm2JOZfBM_c/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1TtR5U5g0i80oad5s-jQZdVm2JOZfBM_c/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1TtR5U5g0i80oad5s-jQZdVm2JOZfBM_c/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 4 - : Divorce
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slide - Lecture 4</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slide - Lecture 4</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1lfgXpAWGBMrSqcrpfTdbdsukwc7d45Pt/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1lfgXpAWGBMrSqcrpfTdbdsukwc7d45Pt/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1lfgXpAWGBMrSqcrpfTdbdsukwc7d45Pt/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1lfgXpAWGBMrSqcrpfTdbdsukwc7d45Pt/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 5 - : Mortality & Longevity
@@ -83,37 +83,37 @@ To successfully complete the course, students must:
 ## Lecture 6 - : Mortality & Longevity
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slide Lectures 5 and 6</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slide Lectures 5 and 6</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1R6TMjAkifCqdK11ZhYVXKHEPzacJKVde/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1R6TMjAkifCqdK11ZhYVXKHEPzacJKVde/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1R6TMjAkifCqdK11ZhYVXKHEPzacJKVde/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1R6TMjAkifCqdK11ZhYVXKHEPzacJKVde/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 7 - : Retirement Policies 1: Overview (Simon Rabaté)
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides - lecture 7</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides - lecture 7</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1DnhlOXMuxa8KEFLWYzYuYaJzLLyTkw4J/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1DnhlOXMuxa8KEFLWYzYuYaJzLLyTkw4J/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1DnhlOXMuxa8KEFLWYzYuYaJzLLyTkw4J/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1DnhlOXMuxa8KEFLWYzYuYaJzLLyTkw4J/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 8 - : Retirement Policies 2: Retirement behavior (Simon Rabaté)
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides - lecture 8</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides - lecture 8</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1h_dTM5H7eWJhPPR_vdlNAgH-YsnjNvJI/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1h_dTM5H7eWJhPPR_vdlNAgH-YsnjNvJI/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1h_dTM5H7eWJhPPR_vdlNAgH-YsnjNvJI/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1h_dTM5H7eWJhPPR_vdlNAgH-YsnjNvJI/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 9 - : Retirement Policies 3: Redistribution (Simon Rabaté)
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides - lecture 9</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides - lecture 9</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1jQ4u5buyl7PWR3wf3GTm6CRo7tFzWLri/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1jQ4u5buyl7PWR3wf3GTm6CRo7tFzWLri/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1jQ4u5buyl7PWR3wf3GTm6CRo7tFzWLri/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1jQ4u5buyl7PWR3wf3GTm6CRo7tFzWLri/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Tutorials

@@ -14,24 +14,24 @@ title: Consumer behavior and Public Policies
 ## General Documents
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Grading</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Grading</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1gVctHkFoWB5xa2JKdIR-q7fyT-9NME_F/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1gVctHkFoWB5xa2JKdIR-q7fyT-9NME_F/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1gVctHkFoWB5xa2JKdIR-q7fyT-9NME_F/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1gVctHkFoWB5xa2JKdIR-q7fyT-9NME_F/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Topics for evaluation (study protocol)</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Topics for evaluation (study protocol)</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1Jh3GSil2Lqyv3OWvCC_BkC6mCwfYTFxY/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1Jh3GSil2Lqyv3OWvCC_BkC6mCwfYTFxY/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1Jh3GSil2Lqyv3OWvCC_BkC6mCwfYTFxY/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1Jh3GSil2Lqyv3OWvCC_BkC6mCwfYTFxY/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Detailed syllabus</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Detailed syllabus</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1Tpgr3xEx6ea8mZK7IHFx3NpbtxM-0IEC/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1Tpgr3xEx6ea8mZK7IHFx3NpbtxM-0IEC/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1Tpgr3xEx6ea8mZK7IHFx3NpbtxM-0IEC/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1Tpgr3xEx6ea8mZK7IHFx3NpbtxM-0IEC/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Presentation
@@ -69,249 +69,249 @@ e. Dynamics and change in preferences.
 ## Lecture 1 - Consumer behaviour and public policies: introduction
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Allcott Optimal Sin Taxes QJE 2019</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Allcott Optimal Sin Taxes QJE 2019</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1mBPfPkqdgEb-Nwz83f5IPfKfnjwwEfiR/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1mBPfPkqdgEb-Nwz83f5IPfKfnjwwEfiR/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1mBPfPkqdgEb-Nwz83f5IPfKfnjwwEfiR/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1mBPfPkqdgEb-Nwz83f5IPfKfnjwwEfiR/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Clark et al Multiple impacts of foods PNAS 2019</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Clark et al Multiple impacts of foods PNAS 2019</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1Tizw0zDa6eHHoH4SmVR98vT-VD23A5WI/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1Tizw0zDa6eHHoH4SmVR98vT-VD23A5WI/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1Tizw0zDa6eHHoH4SmVR98vT-VD23A5WI/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1Tizw0zDa6eHHoH4SmVR98vT-VD23A5WI/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Herrsntein et al - Internalities in individual choices - JBDM - 1993</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Herrsntein et al - Internalities in individual choices - JBDM - 1993</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1TL4QHwwRIQp9X7XgXJgEbGKQz4dfOuz5/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1TL4QHwwRIQp9X7XgXJgEbGKQz4dfOuz5/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1TL4QHwwRIQp9X7XgXJgEbGKQz4dfOuz5/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1TL4QHwwRIQp9X7XgXJgEbGKQz4dfOuz5/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Springmann et al Food systems environmental limits - Nature 2018</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Springmann et al Food systems environmental limits - Nature 2018</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1i1exzvVm7zotRfx_Iw35FWjqXmHTrrc6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1i1exzvVm7zotRfx_Iw35FWjqXmHTrrc6/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1i1exzvVm7zotRfx_Iw35FWjqXmHTrrc6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1i1exzvVm7zotRfx_Iw35FWjqXmHTrrc6/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Poore Nemecek Reducing food's environmental impacts - Science 2018</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Poore Nemecek Reducing food's environmental impacts - Science 2018</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1B_A6tguhoem5H4reUDaR8Nwrj83JpTjP/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1B_A6tguhoem5H4reUDaR8Nwrj83JpTjP/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1B_A6tguhoem5H4reUDaR8Nwrj83JpTjP/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1B_A6tguhoem5H4reUDaR8Nwrj83JpTjP/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Arrow et al Are we consuming too much? - J.Econ.Persp 2004</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Arrow et al Are we consuming too much? - J.Econ.Persp 2004</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1pH19UFUFsvrHQ5qU0Fh95B5Iwjx2GBDJ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1pH19UFUFsvrHQ5qU0Fh95B5Iwjx2GBDJ/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1pH19UFUFsvrHQ5qU0Fh95B5Iwjx2GBDJ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1pH19UFUFsvrHQ5qU0Fh95B5Iwjx2GBDJ/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Allcott Sunstein Regulating Internalities JPAM 2015</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Allcott Sunstein Regulating Internalities JPAM 2015</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1jhFtuEUfVXYiC9PZLnr0CJgr0p3RGVVe/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1jhFtuEUfVXYiC9PZLnr0CJgr0p3RGVVe/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1jhFtuEUfVXYiC9PZLnr0CJgr0p3RGVVe/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1jhFtuEUfVXYiC9PZLnr0CJgr0p3RGVVe/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>LECTURE 1 - OUTLINE</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>LECTURE 1 - OUTLINE</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1pCjpD6HYX7S2dvuun1SfnSuZbDtt-F_i/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1pCjpD6HYX7S2dvuun1SfnSuZbDtt-F_i/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1pCjpD6HYX7S2dvuun1SfnSuZbDtt-F_i/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1pCjpD6HYX7S2dvuun1SfnSuZbDtt-F_i/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 2 - Neo-classical approach to consumer theory, with application to food system dynamics
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Becker Theory Allocation of Time - EJ 1965</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Becker Theory Allocation of Time - EJ 1965</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1tAvhcyIt07EmY_W56VG804efuAvOGDyU/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1tAvhcyIt07EmY_W56VG804efuAvOGDyU/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1tAvhcyIt07EmY_W56VG804efuAvOGDyU/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1tAvhcyIt07EmY_W56VG804efuAvOGDyU/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Pollak Wachter Household Production Function - JPE 1975</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Pollak Wachter Household Production Function - JPE 1975</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1CxYLLTVN694RkZ57ICuVVPn9xiDqRKAB/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1CxYLLTVN694RkZ57ICuVVPn9xiDqRKAB/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1CxYLLTVN694RkZ57ICuVVPn9xiDqRKAB/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1CxYLLTVN694RkZ57ICuVVPn9xiDqRKAB/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Cutler et al Why have americans become obese - J.Econ.Persp. 2003</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Cutler et al Why have americans become obese - J.Econ.Persp. 2003</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1l8cvtLeepx2w4AhKhrupURhJP6t-K-bA/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1l8cvtLeepx2w4AhKhrupURhJP6t-K-bA/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1l8cvtLeepx2w4AhKhrupURhJP6t-K-bA/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1l8cvtLeepx2w4AhKhrupURhJP6t-K-bA/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Etile Economics of Diet and Obesity Public Policies - ORE 2019</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Etile Economics of Diet and Obesity Public Policies - ORE 2019</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1bJA-O2p5WIX4v8t2e-VISE5nFk_KDlDb/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1bJA-O2p5WIX4v8t2e-VISE5nFk_KDlDb/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1bJA-O2p5WIX4v8t2e-VISE5nFk_KDlDb/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1bJA-O2p5WIX4v8t2e-VISE5nFk_KDlDb/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Etile Oberlander Economics of Diet and Obesity Understanding the Trends - ORE 2019</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Etile Oberlander Economics of Diet and Obesity Understanding the Trends - ORE 2019</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1XQCUfgS97LfMfodnXF2rfrihmXE5E0kI/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1XQCUfgS97LfMfodnXF2rfrihmXE5E0kI/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1XQCUfgS97LfMfodnXF2rfrihmXE5E0kI/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1XQCUfgS97LfMfodnXF2rfrihmXE5E0kI/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Etile Plessz Cooking Times - Rev.Econ.Household 2018</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Etile Plessz Cooking Times - Rev.Econ.Household 2018</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1O2UMTe4LC_nZfBmaObUB1L2kCdgrXwM9/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1O2UMTe4LC_nZfBmaObUB1L2kCdgrXwM9/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1O2UMTe4LC_nZfBmaObUB1L2kCdgrXwM9/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1O2UMTe4LC_nZfBmaObUB1L2kCdgrXwM9/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Griffith et al - Decline home-cooked food - Fiscal Studies 2022</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Griffith et al - Decline home-cooked food - Fiscal Studies 2022</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1__HCFIVE1sh4V_F8Ea5Vl8qi57-AmPtk/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1__HCFIVE1sh4V_F8Ea5Vl8qi57-AmPtk/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1__HCFIVE1sh4V_F8Ea5Vl8qi57-AmPtk/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1__HCFIVE1sh4V_F8Ea5Vl8qi57-AmPtk/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Popkin - Nutritional Transition - Nutrition Reviews 2017</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Popkin - Nutritional Transition - Nutrition Reviews 2017</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1VR4DlxG8oYeyvF-nYiMTiUaBfhmx3QoK/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1VR4DlxG8oYeyvF-nYiMTiUaBfhmx3QoK/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1VR4DlxG8oYeyvF-nYiMTiUaBfhmx3QoK/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1VR4DlxG8oYeyvF-nYiMTiUaBfhmx3QoK/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 2 - Outline</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 2 - Outline</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1PeAJl3vDZVotNB6DbF7ii8ljL3lxJ-jA/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1PeAJl3vDZVotNB6DbF7ii8ljL3lxJ-jA/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1PeAJl3vDZVotNB6DbF7ii8ljL3lxJ-jA/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1PeAJl3vDZVotNB6DbF7ii8ljL3lxJ-jA/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 3 - Demand for quantity
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Caillavetetal_Taxing Animal Proteins_ERAE</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Caillavetetal_Taxing Animal Proteins_ERAE</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1KrTHGrYbmoZca7mmHlLOU51ERe_o6at_/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1KrTHGrYbmoZca7mmHlLOU51ERe_o6at_/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1KrTHGrYbmoZca7mmHlLOU51ERe_o6at_/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1KrTHGrYbmoZca7mmHlLOU51ERe_o6at_/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Caillavet Distributional Effects Carbon Food Taxes</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Caillavet Distributional Effects Carbon Food Taxes</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1oXOjwsqdsw5-rTnvDPyO2W-LrToeTGBH/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1oXOjwsqdsw5-rTnvDPyO2W-LrToeTGBH/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1oXOjwsqdsw5-rTnvDPyO2W-LrToeTGBH/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1oXOjwsqdsw5-rTnvDPyO2W-LrToeTGBH/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Deaton Mullbauer Chapter 3</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Deaton Mullbauer Chapter 3</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1CnP45THczIlxCsw2yPqwD_o5abWfprI5/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1CnP45THczIlxCsw2yPqwD_o5abWfprI5/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1CnP45THczIlxCsw2yPqwD_o5abWfprI5/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1CnP45THczIlxCsw2yPqwD_o5abWfprI5/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Dubois Griffith OConnell Scanner Data</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Dubois Griffith OConnell Scanner Data</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1fZsVR0nt-y0gDpwj3V0IpIm-sUPWVpic/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1fZsVR0nt-y0gDpwj3V0IpIm-sUPWVpic/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1fZsVR0nt-y0gDpwj3V0IpIm-sUPWVpic/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1fZsVR0nt-y0gDpwj3V0IpIm-sUPWVpic/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Zhen et all SSB Taxes Demand System AJAE</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Zhen et all SSB Taxes Demand System AJAE</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1-CcepWfrAPkjiNIY__djcYrazmNBSa-M/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1-CcepWfrAPkjiNIY__djcYrazmNBSa-M/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1-CcepWfrAPkjiNIY__djcYrazmNBSa-M/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1-CcepWfrAPkjiNIY__djcYrazmNBSa-M/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 3 - OUTLINE</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 3 - OUTLINE</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1MQxeZqMQmfsNTzPc1lVyUjMzBXvWyUhA/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1MQxeZqMQmfsNTzPc1lVyUjMzBXvWyUhA/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1MQxeZqMQmfsNTzPc1lVyUjMzBXvWyUhA/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1MQxeZqMQmfsNTzPc1lVyUjMzBXvWyUhA/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 4 - Demand for quality and strategic firms reactions
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 4 - OUTLINE</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 4 - OUTLINE</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1EhjLu0_M15bLeojNQtwGX0uH2cL233U6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1EhjLu0_M15bLeojNQtwGX0uH2cL233U6/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1EhjLu0_M15bLeojNQtwGX0uH2cL233U6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1EhjLu0_M15bLeojNQtwGX0uH2cL233U6/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Allais et al Mandatory fat labels JHE 2015</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Allais et al Mandatory fat labels JHE 2015</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1STByFLEnkU43nGvlUhN3PvzsLZNMlBN6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1STByFLEnkU43nGvlUhN3PvzsLZNMlBN6/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1STByFLEnkU43nGvlUhN3PvzsLZNMlBN6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1STByFLEnkU43nGvlUhN3PvzsLZNMlBN6/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Angrist Pischke Credibility Revolution JEP 2010</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Angrist Pischke Credibility Revolution JEP 2010</b></summary>
   <br>
-  <iframe src="https://teaching.parisschoolofeconomics.eu/docs/M2APE-ConsHealthPubPol/Angrist Piscke The-credibility-revolution-in-empirical-economics-how-better-research-design-is-taking-the-con-out JEP 20" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://teaching.parisschoolofeconomics.eu/docs/M2APE-ConsHealthPubPol/Angrist Piscke The-credibility-revolution-in-empirical-economics-how-better-research-design-is-taking-the-con-out JEP 20" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://teaching.parisschoolofeconomics.eu/docs/M2APE-ConsHealthPubPol/Angrist Piscke The-credibility-revolution-in-empirical-economics-how-better-research-design-is-taking-the-con-out JEP 20" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://teaching.parisschoolofeconomics.eu/docs/M2APE-ConsHealthPubPol/Angrist Piscke The-credibility-revolution-in-empirical-economics-how-better-research-design-is-taking-the-con-out JEP 20" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Barahona et al Equilibrium food labelling Ecta 2023</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Barahona et al Equilibrium food labelling Ecta 2023</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1U3HVniJTfOOazjWbJGyoPZsG2EnMAhjO/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1U3HVniJTfOOazjWbJGyoPZsG2EnMAhjO/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1U3HVniJTfOOazjWbJGyoPZsG2EnMAhjO/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1U3HVniJTfOOazjWbJGyoPZsG2EnMAhjO/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bonnet et al Tax Incidence Soft Drinks JPubEc 2013</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bonnet et al Tax Incidence Soft Drinks JPubEc 2013</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1H9gMlLe6-aIBYxZS1JvdGrXtG4COt1LD/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1H9gMlLe6-aIBYxZS1JvdGrXtG4COt1LD/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1H9gMlLe6-aIBYxZS1JvdGrXtG4COt1LD/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1H9gMlLe6-aIBYxZS1JvdGrXtG4COt1LD/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Griffithetal Tax Design Alcohol Markets JPubEc 2019</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Griffithetal Tax Design Alcohol Markets JPubEc 2019</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1RbMF49BSD3Pf5NVhDQn94zDaOG5Dlktx/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1RbMF49BSD3Pf5NVhDQn94zDaOG5Dlktx/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1RbMF49BSD3Pf5NVhDQn94zDaOG5Dlktx/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1RbMF49BSD3Pf5NVhDQn94zDaOG5Dlktx/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bonnet et al Environmental Tax Meat Ecol Econ 2018</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bonnet et al Environmental Tax Meat Ecol Econ 2018</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1UhlrJhtN4wfwcDkJCUlmmLGzlrUi4ZYg/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1UhlrJhtN4wfwcDkJCUlmmLGzlrUi4ZYg/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1UhlrJhtN4wfwcDkJCUlmmLGzlrUi4ZYg/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1UhlrJhtN4wfwcDkJCUlmmLGzlrUi4ZYg/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 5 - Experimental and behavioural approach to choices and public policies
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Teyssier et al Image Concerns</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Teyssier et al Image Concerns</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1JtK0dbNA4tVJU4AVz_smNCHgQEfxeJmH/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1JtK0dbNA4tVJU4AVz_smNCHgQEfxeJmH/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1JtK0dbNA4tVJU4AVz_smNCHgQEfxeJmH/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1JtK0dbNA4tVJU4AVz_smNCHgQEfxeJmH/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 5 - Outline</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 5 - Outline</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1N61VX7jPeIZ5KEspXYXHbP2syw4bNB98/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1N61VX7jPeIZ5KEspXYXHbP2syw4bNB98/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1N61VX7jPeIZ5KEspXYXHbP2syw4bNB98/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1N61VX7jPeIZ5KEspXYXHbP2syw4bNB98/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Muller et al Additive Effects JEBO 2025</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Muller et al Additive Effects JEBO 2025</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1RL2O54xyHlu1meNdcrCZsPzNyuBcNL9j/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1RL2O54xyHlu1meNdcrCZsPzNyuBcNL9j/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1RL2O54xyHlu1meNdcrCZsPzNyuBcNL9j/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1RL2O54xyHlu1meNdcrCZsPzNyuBcNL9j/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bonnet et al RCT Nutritional Labels JAMS 2021</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bonnet et al RCT Nutritional Labels JAMS 2021</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1-4dTWj0g3Z1hiJb4gqdu3qdMh5fKSwQ6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1-4dTWj0g3Z1hiJb4gqdu3qdMh5fKSwQ6/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1-4dTWj0g3Z1hiJb4gqdu3qdMh5fKSwQ6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1-4dTWj0g3Z1hiJb4gqdu3qdMh5fKSwQ6/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 6 - Students' presentations of papers
@@ -319,10 +319,10 @@ e. Dynamics and change in preferences.
 ## Lecture 7 - Interlude Lecture - Craig Pesme on Price and welfare measurement
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Price measurement and consumer welfare</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Price measurement and consumer welfare</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1ZNceJV2B6F6Amwg_aF40l1ojFC4N9fC4/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1ZNceJV2B6F6Amwg_aF40l1ojFC4N9fC4/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1ZNceJV2B6F6Amwg_aF40l1ojFC4N9fC4/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1ZNceJV2B6F6Amwg_aF40l1ojFC4N9fC4/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 8 - Students' presentations of study protocols
@@ -330,31 +330,31 @@ e. Dynamics and change in preferences.
 ## Lecture 9 - Lecture 6 - Economics of Advertising
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 6 - OUTLINE</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 6 - OUTLINE</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1JRlgs5sEYJtYg4z2qtDIupLcj4wskwR1/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1JRlgs5sEYJtYg4z2qtDIupLcj4wskwR1/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1JRlgs5sEYJtYg4z2qtDIupLcj4wskwR1/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1JRlgs5sEYJtYg4z2qtDIupLcj4wskwR1/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Dhar & Baylis 2011 Fast-food consumption and the ban on advertising</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Dhar & Baylis 2011 Fast-food consumption and the ban on advertising</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1wKf2BAFoDZkTWcuudKCfyce3hRyplj1V/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1wKf2BAFoDZkTWcuudKCfyce3hRyplj1V/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1wKf2BAFoDZkTWcuudKCfyce3hRyplj1V/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1wKf2BAFoDZkTWcuudKCfyce3hRyplj1V/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Etilé Economic perspectives of food marketing 2022</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Etilé Economic perspectives of food marketing 2022</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1EjLwx8pAdsuhzpC6FCrORHciq9m5SJaX/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1EjLwx8pAdsuhzpC6FCrORHciq9m5SJaX/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1EjLwx8pAdsuhzpC6FCrORHciq9m5SJaX/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1EjLwx8pAdsuhzpC6FCrORHciq9m5SJaX/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Shapiro et al. TV advertising effectiveness and profitability Ecta 2021</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Shapiro et al. TV advertising effectiveness and profitability Ecta 2021</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1M8F_RM41iWi19kvD-dwa9G1mI0tkk2GK/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1M8F_RM41iWi19kvD-dwa9G1mI0tkk2GK/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1M8F_RM41iWi19kvD-dwa9G1mI0tkk2GK/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1M8F_RM41iWi19kvD-dwa9G1mI0tkk2GK/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Tutorials

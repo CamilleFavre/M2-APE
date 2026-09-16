@@ -14,10 +14,10 @@ title: Regulation, Environment and Markets (Research Seminar)
 ## General Documents
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Presentation Seminar Sept 10th, 2024</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Presentation Seminar Sept 10th, 2024</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1Dpzwiqi50kGpK8MUKB6JensvZsznmf4y/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1Dpzwiqi50kGpK8MUKB6JensvZsznmf4y/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1Dpzwiqi50kGpK8MUKB6JensvZsznmf4y/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1Dpzwiqi50kGpK8MUKB6JensvZsznmf4y/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Presentation

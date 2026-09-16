@@ -14,10 +14,10 @@ title: International Trade
 ## General Documents
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus 2025 - 2026</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus 2025 - 2026</b></summary>
   <br>
-  <iframe src="https://teaching.parisschoolofeconomics.eu/docs/GLOBALP-115/Syllabus AIT 2025 2026.pdf" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://teaching.parisschoolofeconomics.eu/docs/GLOBALP-115/Syllabus AIT 2025 2026.pdf" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://teaching.parisschoolofeconomics.eu/docs/GLOBALP-115/Syllabus AIT 2025 2026.pdf" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://teaching.parisschoolofeconomics.eu/docs/GLOBALP-115/Syllabus AIT 2025 2026.pdf" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Presentation
@@ -38,19 +38,19 @@ Maria Bas: https://sites.google.com/site/basmaria80/
 ## Final Exam January 2022
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Final Exam January 2022</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Final Exam January 2022</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1aG6sJW2Xjn6FokvxNOaCCBmoFUNIp9IH/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1aG6sJW2Xjn6FokvxNOaCCBmoFUNIp9IH/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1aG6sJW2Xjn6FokvxNOaCCBmoFUNIp9IH/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1aG6sJW2Xjn6FokvxNOaCCBmoFUNIp9IH/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Final Exam January 2023
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Final Exam January 2023</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Final Exam January 2023</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1Pbtrw8sMc-zKD5DWKiqdG5bFROvo0zLo/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1Pbtrw8sMc-zKD5DWKiqdG5bFROvo0zLo/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1Pbtrw8sMc-zKD5DWKiqdG5bFROvo0zLo/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1Pbtrw8sMc-zKD5DWKiqdG5bFROvo0zLo/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Part #1
@@ -58,10 +58,10 @@ Maria Bas: https://sites.google.com/site/basmaria80/
 ## Lecture 1 - Complementary material - Homotheticity and aggregation by M. Melitz
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Homothetic</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Homothetic</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/1U2EjNAYpvLXc64m-Flmy7mJJrIjR4_ch/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/1U2EjNAYpvLXc64m-Flmy7mJJrIjR4_ch/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1U2EjNAYpvLXc64m-Flmy7mJJrIjR4_ch/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1U2EjNAYpvLXc64m-Flmy7mJJrIjR4_ch/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Tutorial 1 - Assignment from 2023-2024

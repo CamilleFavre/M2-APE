@@ -14,10 +14,10 @@ title: Macroeconomics (Research Seminar)
 ## General Documents
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Introduction Slides (Aim, structure, how to present)</b> (Cliquez pour lire)</summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Introduction Slides (Aim, structure, how to present)</b></summary>
   <br>
-  <iframe src="https://drive.google.com/file/d/16AKGR7IKq2P02nBpQx_n0edHGu-nae4P/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p><a href="https://drive.google.com/file/d/16AKGR7IKq2P02nBpQx_n0edHGu-nae4P/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/16AKGR7IKq2P02nBpQx_n0edHGu-nae4P/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/16AKGR7IKq2P02nBpQx_n0edHGu-nae4P/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Presentation
