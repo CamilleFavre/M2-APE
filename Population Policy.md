@@ -1,6 +1,11 @@
-# Population Policy
+---
+layout: default
+title: Population Policy
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/5*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Population Policy
 
 ## Introduction
 
@@ -32,38 +37,84 @@ To successfully complete the course, students must:
 
 ## Lecture 1 - : The gains from marriage
 
-- [Lecture 1 - slides](https://drive.google.com/file/d/1IF8Zr-eyqNuQ1OQJuJ0efGXvXRY2NETT/view)
-- [Introduction](https://drive.google.com/file/d/1AbjB7E94j0ir0eN2XZH3L7EiCCuFhl-r/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 1 - slides</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1IF8Zr-eyqNuQ1OQJuJ0efGXvXRY2NETT/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1IF8Zr-eyqNuQ1OQJuJ0efGXvXRY2NETT/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Introduction</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1AbjB7E94j0ir0eN2XZH3L7EiCCuFhl-r/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1AbjB7E94j0ir0eN2XZH3L7EiCCuFhl-r/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 2 - : Marriage Markets
 
-- [Slides Lecture 2](https://drive.google.com/file/d/1ZgVePebW5t9HV9qUtwfJKnK5bY2USMcq/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Lecture 2</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1ZgVePebW5t9HV9qUtwfJKnK5bY2USMcq/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1ZgVePebW5t9HV9qUtwfJKnK5bY2USMcq/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 3 - : Fertility and child cost
 
-- [Lecture 3 - slides](https://drive.google.com/file/d/1TtR5U5g0i80oad5s-jQZdVm2JOZfBM_c/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 3 - slides</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1TtR5U5g0i80oad5s-jQZdVm2JOZfBM_c/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1TtR5U5g0i80oad5s-jQZdVm2JOZfBM_c/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 4 - : Divorce
 
-- [Slide - Lecture 4](https://drive.google.com/file/d/1lfgXpAWGBMrSqcrpfTdbdsukwc7d45Pt/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slide - Lecture 4</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1lfgXpAWGBMrSqcrpfTdbdsukwc7d45Pt/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1lfgXpAWGBMrSqcrpfTdbdsukwc7d45Pt/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 5 - : Mortality & Longevity
 
 ## Lecture 6 - : Mortality & Longevity
 
-- [Slide Lectures 5 and 6](https://drive.google.com/file/d/1R6TMjAkifCqdK11ZhYVXKHEPzacJKVde/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slide Lectures 5 and 6</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1R6TMjAkifCqdK11ZhYVXKHEPzacJKVde/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1R6TMjAkifCqdK11ZhYVXKHEPzacJKVde/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 7 - : Retirement Policies 1: Overview (Simon Rabaté)
 
-- [Slides - lecture 7](https://drive.google.com/file/d/1DnhlOXMuxa8KEFLWYzYuYaJzLLyTkw4J/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides - lecture 7</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1DnhlOXMuxa8KEFLWYzYuYaJzLLyTkw4J/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1DnhlOXMuxa8KEFLWYzYuYaJzLLyTkw4J/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 8 - : Retirement Policies 2: Retirement behavior (Simon Rabaté)
 
-- [Slides - lecture 8](https://drive.google.com/file/d/1h_dTM5H7eWJhPPR_vdlNAgH-YsnjNvJI/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides - lecture 8</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1h_dTM5H7eWJhPPR_vdlNAgH-YsnjNvJI/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1h_dTM5H7eWJhPPR_vdlNAgH-YsnjNvJI/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 9 - : Retirement Policies 3: Redistribution (Simon Rabaté)
 
-- [Slides - lecture 9](https://drive.google.com/file/d/1jQ4u5buyl7PWR3wf3GTm6CRo7tFzWLri/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides - lecture 9</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1jQ4u5buyl7PWR3wf3GTm6CRo7tFzWLri/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1jQ4u5buyl7PWR3wf3GTm6CRo7tFzWLri/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Tutorials
 
@@ -80,4 +131,8 @@ Chiappori P-A, M. Browning and Weiss Y. 2014 Family Economics Cambridge Universi
 Weiss Y 1997, The formation and dissolution of families : Why marries? Who marries whom? And what happens upon divorce? Handbook of Population and Family Economics Edited by Rosenzweig and O. Stark
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

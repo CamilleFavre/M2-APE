@@ -1,6 +1,11 @@
-# Macroeconomics (Research Seminar)
+---
+layout: default
+title: Macroeconomics (Research Seminar)
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/8*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Macroeconomics (Research Seminar)
 
 ## Introduction
 
@@ -8,7 +13,12 @@
 
 ## General Documents
 
-- [Introduction Slides (Aim, structure, how to present)](https://drive.google.com/file/d/16AKGR7IKq2P02nBpQx_n0edHGu-nae4P/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Introduction Slides (Aim, structure, how to present)</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/16AKGR7IKq2P02nBpQx_n0edHGu-nae4P/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/16AKGR7IKq2P02nBpQx_n0edHGu-nae4P/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -27,4 +37,8 @@ https://docs.google.com/spreadsheets/d/1-Id9qV6aL_dDEPKC8h1qvJi2A1KqL1O_6yV7L-wT
 ## References
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

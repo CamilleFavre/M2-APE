@@ -1,6 +1,11 @@
-# Economic History of Labor
+---
+layout: default
+title: Economic History of Labor
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/12*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Economic History of Labor
 
 ## Introduction
 
@@ -24,45 +29,109 @@ Il manque encore quelques textes qui seront ajoutés rapidement.
 
 ## Lecture 1 - Exposé séance 2 : Ordre du travail dans les économies d’Ancien régime
 
-- [Putting out system](https://drive.google.com/file/d/1OyvJqeloRFWLZ6vwtNQLyVz4a6zroI5K/view)
-- [Putting out system (2)](https://drive.google.com/file/d/1QiCkNvxmt3t-rVnH71J6hi0NXXwn7Uh8/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Putting out system</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1OyvJqeloRFWLZ6vwtNQLyVz4a6zroI5K/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1OyvJqeloRFWLZ6vwtNQLyVz4a6zroI5K/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Putting out system (2)</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1QiCkNvxmt3t-rVnH71J6hi0NXXwn7Uh8/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1QiCkNvxmt3t-rVnH71J6hi0NXXwn7Uh8/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 2 - Exposé séance 3 : Organisation du travail en agriculture
 
-- [Poor Laws : George Boyer](https://drive.google.com/file/d/11IWPCnEOcpjS5u_SaSfd_WP09q-YoRnM/view)
-- [Poor Laws : Rodriguez](https://drive.google.com/file/d/1HOCTi4Ay-GBg9KanEkmzOQQLOQEWufV8/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Poor Laws : George Boyer</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/11IWPCnEOcpjS5u_SaSfd_WP09q-YoRnM/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/11IWPCnEOcpjS5u_SaSfd_WP09q-YoRnM/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Poor Laws : Rodriguez</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1HOCTi4Ay-GBg9KanEkmzOQQLOQEWufV8/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1HOCTi4Ay-GBg9KanEkmzOQQLOQEWufV8/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 3 - Exposé séance 4 : Contrainte technique et confits sociaux : le cas de la Compagnie du gaz
 
 ## Lecture 4 - Exposé séance 5 : Organisation du travail industriel
 
-- [travail à l'usine](https://drive.google.com/file/d/1tVF2uJ1rvYlHzFpEmziZaoTnOwlDcuCd/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>travail à l'usine</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1tVF2uJ1rvYlHzFpEmziZaoTnOwlDcuCd/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1tVF2uJ1rvYlHzFpEmziZaoTnOwlDcuCd/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 5 - séance 6 : Grandes fermes cisterciennes (pas d'exposé)
 
 ## Lecture 6 - Exposé séance 7 : Oppenfield, Mir, communs en agriculture
 
-- [Ostrom : Water](https://drive.google.com/file/d/1BkItBmoETcn7P6xf4ZbNkpf-jSey9SZV/view)
-- [Larsson](https://drive.google.com/file/d/1tIhyv9O5pTRylh2PBPtZm5SVE1GSZ8s6/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Ostrom : Water</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1BkItBmoETcn7P6xf4ZbNkpf-jSey9SZV/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1BkItBmoETcn7P6xf4ZbNkpf-jSey9SZV/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Larsson</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1tIhyv9O5pTRylh2PBPtZm5SVE1GSZ8s6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1tIhyv9O5pTRylh2PBPtZm5SVE1GSZ8s6/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 7 - Exposé séance 8 : Mita
 
-- [Dell [2010], Mita](https://drive.google.com/file/d/1swYsMX3nDzwv8ET8hX7Fw7l6ul3WXgoa/view)
-- [Banerjee&Iyer [2005] Legacy Colonial system](https://drive.google.com/file/d/12syOQnPMUk8skHKpPhMvC1ERE0q2x9VE/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Dell [2010], Mita</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1swYsMX3nDzwv8ET8hX7Fw7l6ul3WXgoa/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1swYsMX3nDzwv8ET8hX7Fw7l6ul3WXgoa/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Banerjee&Iyer [2005] Legacy Colonial system</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/12syOQnPMUk8skHKpPhMvC1ERE0q2x9VE/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/12syOQnPMUk8skHKpPhMvC1ERE0q2x9VE/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 8 - Exposé séance 9 : Organisation du travail des femmes
 
-- [Goldin](https://drive.google.com/file/d/1bHJ5yOmp7tXOESkBCPGCWeXBRiVCY9z1/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Goldin</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1bHJ5yOmp7tXOESkBCPGCWeXBRiVCY9z1/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1bHJ5yOmp7tXOESkBCPGCWeXBRiVCY9z1/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 9 - Exposé séance 10 Standardisation et organisation du marché
 
 ## Lecture 10 - Exposé séance 11 : Organisation du travail par les salariés
 
-- [G. Clark Factory Discipline](https://drive.google.com/file/d/1jRgfXqh4SO6p0hlQclAhfFWMAD43X_UT/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>G. Clark Factory Discipline</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1jRgfXqh4SO6p0hlQclAhfFWMAD43X_UT/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1jRgfXqh4SO6p0hlQclAhfFWMAD43X_UT/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 11 - Exposé séance 12 : Travail forcé
 
-- [G. Wright Jim Crow](https://drive.google.com/file/d/1pvBVsfGM6Ft9dXxNUPwW_bkYN2NqyFxD/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>G. Wright Jim Crow</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1pvBVsfGM6Ft9dXxNUPwW_bkYN2NqyFxD/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1pvBVsfGM6Ft9dXxNUPwW_bkYN2NqyFxD/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Tutorials
 
@@ -71,4 +140,8 @@ Il manque encore quelques textes qui seront ajoutés rapidement.
 ## References
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

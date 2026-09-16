@@ -1,6 +1,11 @@
-# M2 PPD Average Grade
+---
+layout: default
+title: M2 PPD Average Grade
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/259*
+[⬅️ Retour à la liste des cours](index.html)
+
+# M2 PPD Average Grade
 
 ## Introduction
 
@@ -8,7 +13,12 @@
 
 ## General Documents
 
-- [PPD grading scheme](https://drive.google.com/file/d/1h5NB7OjOjk6NrUQeUpbk0K7silAcV_wc/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>PPD grading scheme</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1h5NB7OjOjk6NrUQeUpbk0K7silAcV_wc/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1h5NB7OjOjk6NrUQeUpbk0K7silAcV_wc/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -23,4 +33,8 @@
 ## References
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

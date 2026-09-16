@@ -1,6 +1,11 @@
-# Public Economics and Labor (Research Seminar)
+---
+layout: default
+title: Public Economics and Labor (Research Seminar)
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/42*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Public Economics and Labor (Research Seminar)
 
 ## Introduction
 
@@ -44,4 +49,8 @@ Students who want to apply for a PSE PhD grant (and who therefore need to have d
 - david.margolis@psemail.eu
 - martin.mugnier@psemail.euarth
 A
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

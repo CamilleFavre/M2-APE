@@ -1,6 +1,11 @@
-# Consumer behavior and Public Policies
+---
+layout: default
+title: Consumer behavior and Public Policies
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/315*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Consumer behavior and Public Policies
 
 ## Introduction
 
@@ -8,9 +13,26 @@
 
 ## General Documents
 
-- [Grading](https://drive.google.com/file/d/1gVctHkFoWB5xa2JKdIR-q7fyT-9NME_F/view)
-- [Topics for evaluation (study protocol)](https://drive.google.com/file/d/1Jh3GSil2Lqyv3OWvCC_BkC6mCwfYTFxY/view)
-- [Detailed syllabus](https://drive.google.com/file/d/1Tpgr3xEx6ea8mZK7IHFx3NpbtxM-0IEC/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Grading</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1gVctHkFoWB5xa2JKdIR-q7fyT-9NME_F/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1gVctHkFoWB5xa2JKdIR-q7fyT-9NME_F/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Topics for evaluation (study protocol)</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Jh3GSil2Lqyv3OWvCC_BkC6mCwfYTFxY/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Jh3GSil2Lqyv3OWvCC_BkC6mCwfYTFxY/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Detailed syllabus</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Tpgr3xEx6ea8mZK7IHFx3NpbtxM-0IEC/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Tpgr3xEx6ea8mZK7IHFx3NpbtxM-0IEC/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -46,67 +68,294 @@ e. Dynamics and change in preferences.
 
 ## Lecture 1 - Consumer behaviour and public policies: introduction
 
-- [Allcott Optimal Sin Taxes QJE 2019](https://drive.google.com/file/d/1mBPfPkqdgEb-Nwz83f5IPfKfnjwwEfiR/view)
-- [Clark et al Multiple impacts of foods PNAS 2019](https://drive.google.com/file/d/1Tizw0zDa6eHHoH4SmVR98vT-VD23A5WI/view)
-- [Herrsntein et al - Internalities in individual choices - JBDM - 1993](https://drive.google.com/file/d/1TL4QHwwRIQp9X7XgXJgEbGKQz4dfOuz5/view)
-- [Springmann et al Food systems environmental limits - Nature 2018](https://drive.google.com/file/d/1i1exzvVm7zotRfx_Iw35FWjqXmHTrrc6/view)
-- [Poore Nemecek Reducing food's environmental impacts - Science 2018](https://drive.google.com/file/d/1B_A6tguhoem5H4reUDaR8Nwrj83JpTjP/view)
-- [Arrow et al Are we consuming too much? - J.Econ.Persp 2004](https://drive.google.com/file/d/1pH19UFUFsvrHQ5qU0Fh95B5Iwjx2GBDJ/view)
-- [Allcott Sunstein Regulating Internalities JPAM 2015](https://drive.google.com/file/d/1jhFtuEUfVXYiC9PZLnr0CJgr0p3RGVVe/view)
-- [LECTURE 1 - OUTLINE](https://drive.google.com/file/d/1pCjpD6HYX7S2dvuun1SfnSuZbDtt-F_i/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Allcott Optimal Sin Taxes QJE 2019</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1mBPfPkqdgEb-Nwz83f5IPfKfnjwwEfiR/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1mBPfPkqdgEb-Nwz83f5IPfKfnjwwEfiR/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Clark et al Multiple impacts of foods PNAS 2019</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Tizw0zDa6eHHoH4SmVR98vT-VD23A5WI/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Tizw0zDa6eHHoH4SmVR98vT-VD23A5WI/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Herrsntein et al - Internalities in individual choices - JBDM - 1993</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1TL4QHwwRIQp9X7XgXJgEbGKQz4dfOuz5/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1TL4QHwwRIQp9X7XgXJgEbGKQz4dfOuz5/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Springmann et al Food systems environmental limits - Nature 2018</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1i1exzvVm7zotRfx_Iw35FWjqXmHTrrc6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1i1exzvVm7zotRfx_Iw35FWjqXmHTrrc6/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Poore Nemecek Reducing food's environmental impacts - Science 2018</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1B_A6tguhoem5H4reUDaR8Nwrj83JpTjP/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1B_A6tguhoem5H4reUDaR8Nwrj83JpTjP/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Arrow et al Are we consuming too much? - J.Econ.Persp 2004</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1pH19UFUFsvrHQ5qU0Fh95B5Iwjx2GBDJ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1pH19UFUFsvrHQ5qU0Fh95B5Iwjx2GBDJ/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Allcott Sunstein Regulating Internalities JPAM 2015</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1jhFtuEUfVXYiC9PZLnr0CJgr0p3RGVVe/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1jhFtuEUfVXYiC9PZLnr0CJgr0p3RGVVe/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>LECTURE 1 - OUTLINE</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1pCjpD6HYX7S2dvuun1SfnSuZbDtt-F_i/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1pCjpD6HYX7S2dvuun1SfnSuZbDtt-F_i/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 2 - Neo-classical approach to consumer theory, with application to food system dynamics
 
-- [Becker Theory Allocation of Time - EJ 1965](https://drive.google.com/file/d/1tAvhcyIt07EmY_W56VG804efuAvOGDyU/view)
-- [Pollak Wachter Household Production Function - JPE 1975](https://drive.google.com/file/d/1CxYLLTVN694RkZ57ICuVVPn9xiDqRKAB/view)
-- [Cutler et al Why have americans become obese - J.Econ.Persp. 2003](https://drive.google.com/file/d/1l8cvtLeepx2w4AhKhrupURhJP6t-K-bA/view)
-- [Etile Economics of Diet and Obesity Public Policies - ORE 2019](https://drive.google.com/file/d/1bJA-O2p5WIX4v8t2e-VISE5nFk_KDlDb/view)
-- [Etile Oberlander Economics of Diet and Obesity Understanding the Trends - ORE 2019](https://drive.google.com/file/d/1XQCUfgS97LfMfodnXF2rfrihmXE5E0kI/view)
-- [Etile Plessz Cooking Times - Rev.Econ.Household 2018](https://drive.google.com/file/d/1O2UMTe4LC_nZfBmaObUB1L2kCdgrXwM9/view)
-- [Griffith et al - Decline home-cooked food - Fiscal Studies 2022](https://drive.google.com/file/d/1__HCFIVE1sh4V_F8Ea5Vl8qi57-AmPtk/view)
-- [Popkin - Nutritional Transition - Nutrition Reviews 2017](https://drive.google.com/file/d/1VR4DlxG8oYeyvF-nYiMTiUaBfhmx3QoK/view)
-- [Lecture 2 - Outline](https://drive.google.com/file/d/1PeAJl3vDZVotNB6DbF7ii8ljL3lxJ-jA/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Becker Theory Allocation of Time - EJ 1965</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1tAvhcyIt07EmY_W56VG804efuAvOGDyU/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1tAvhcyIt07EmY_W56VG804efuAvOGDyU/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Pollak Wachter Household Production Function - JPE 1975</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1CxYLLTVN694RkZ57ICuVVPn9xiDqRKAB/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1CxYLLTVN694RkZ57ICuVVPn9xiDqRKAB/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Cutler et al Why have americans become obese - J.Econ.Persp. 2003</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1l8cvtLeepx2w4AhKhrupURhJP6t-K-bA/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1l8cvtLeepx2w4AhKhrupURhJP6t-K-bA/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Etile Economics of Diet and Obesity Public Policies - ORE 2019</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1bJA-O2p5WIX4v8t2e-VISE5nFk_KDlDb/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1bJA-O2p5WIX4v8t2e-VISE5nFk_KDlDb/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Etile Oberlander Economics of Diet and Obesity Understanding the Trends - ORE 2019</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1XQCUfgS97LfMfodnXF2rfrihmXE5E0kI/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1XQCUfgS97LfMfodnXF2rfrihmXE5E0kI/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Etile Plessz Cooking Times - Rev.Econ.Household 2018</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1O2UMTe4LC_nZfBmaObUB1L2kCdgrXwM9/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1O2UMTe4LC_nZfBmaObUB1L2kCdgrXwM9/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Griffith et al - Decline home-cooked food - Fiscal Studies 2022</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1__HCFIVE1sh4V_F8Ea5Vl8qi57-AmPtk/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1__HCFIVE1sh4V_F8Ea5Vl8qi57-AmPtk/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Popkin - Nutritional Transition - Nutrition Reviews 2017</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1VR4DlxG8oYeyvF-nYiMTiUaBfhmx3QoK/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1VR4DlxG8oYeyvF-nYiMTiUaBfhmx3QoK/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 2 - Outline</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1PeAJl3vDZVotNB6DbF7ii8ljL3lxJ-jA/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1PeAJl3vDZVotNB6DbF7ii8ljL3lxJ-jA/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 3 - Demand for quantity
 
-- [Caillavetetal_Taxing Animal Proteins_ERAE](https://drive.google.com/file/d/1KrTHGrYbmoZca7mmHlLOU51ERe_o6at_/view)
-- [Caillavet Distributional Effects Carbon Food Taxes](https://drive.google.com/file/d/1oXOjwsqdsw5-rTnvDPyO2W-LrToeTGBH/view)
-- [Deaton Mullbauer Chapter 3](https://drive.google.com/file/d/1CnP45THczIlxCsw2yPqwD_o5abWfprI5/view)
-- [Dubois Griffith OConnell Scanner Data](https://drive.google.com/file/d/1fZsVR0nt-y0gDpwj3V0IpIm-sUPWVpic/view)
-- [Zhen et all SSB Taxes Demand System AJAE](https://drive.google.com/file/d/1-CcepWfrAPkjiNIY__djcYrazmNBSa-M/view)
-- [Lecture 3 - OUTLINE](https://drive.google.com/file/d/1MQxeZqMQmfsNTzPc1lVyUjMzBXvWyUhA/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Caillavetetal_Taxing Animal Proteins_ERAE</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1KrTHGrYbmoZca7mmHlLOU51ERe_o6at_/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1KrTHGrYbmoZca7mmHlLOU51ERe_o6at_/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Caillavet Distributional Effects Carbon Food Taxes</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1oXOjwsqdsw5-rTnvDPyO2W-LrToeTGBH/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1oXOjwsqdsw5-rTnvDPyO2W-LrToeTGBH/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Deaton Mullbauer Chapter 3</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1CnP45THczIlxCsw2yPqwD_o5abWfprI5/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1CnP45THczIlxCsw2yPqwD_o5abWfprI5/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Dubois Griffith OConnell Scanner Data</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1fZsVR0nt-y0gDpwj3V0IpIm-sUPWVpic/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1fZsVR0nt-y0gDpwj3V0IpIm-sUPWVpic/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Zhen et all SSB Taxes Demand System AJAE</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1-CcepWfrAPkjiNIY__djcYrazmNBSa-M/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1-CcepWfrAPkjiNIY__djcYrazmNBSa-M/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 3 - OUTLINE</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1MQxeZqMQmfsNTzPc1lVyUjMzBXvWyUhA/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1MQxeZqMQmfsNTzPc1lVyUjMzBXvWyUhA/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 4 - Demand for quality and strategic firms reactions
 
-- [Lecture 4 - OUTLINE](https://drive.google.com/file/d/1EhjLu0_M15bLeojNQtwGX0uH2cL233U6/view)
-- [Allais et al Mandatory fat labels JHE 2015](https://drive.google.com/file/d/1STByFLEnkU43nGvlUhN3PvzsLZNMlBN6/view)
-- [Angrist Pischke Credibility Revolution JEP 2010](https://teaching.parisschoolofeconomics.eu/docs/M2APE-ConsHealthPubPol/Angrist Piscke The-credibility-revolution-in-empirical-economics-how-better-research-design-is-taking-the-con-out JEP 20)
-- [Barahona et al Equilibrium food labelling Ecta 2023](https://drive.google.com/file/d/1U3HVniJTfOOazjWbJGyoPZsG2EnMAhjO/view)
-- [Bonnet et al Tax Incidence Soft Drinks JPubEc 2013](https://drive.google.com/file/d/1H9gMlLe6-aIBYxZS1JvdGrXtG4COt1LD/view)
-- [Griffithetal Tax Design Alcohol Markets JPubEc 2019](https://drive.google.com/file/d/1RbMF49BSD3Pf5NVhDQn94zDaOG5Dlktx/view)
-- [Bonnet et al Environmental Tax Meat Ecol Econ 2018](https://drive.google.com/file/d/1UhlrJhtN4wfwcDkJCUlmmLGzlrUi4ZYg/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 4 - OUTLINE</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1EhjLu0_M15bLeojNQtwGX0uH2cL233U6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1EhjLu0_M15bLeojNQtwGX0uH2cL233U6/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Allais et al Mandatory fat labels JHE 2015</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1STByFLEnkU43nGvlUhN3PvzsLZNMlBN6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1STByFLEnkU43nGvlUhN3PvzsLZNMlBN6/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Angrist Pischke Credibility Revolution JEP 2010</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://teaching.parisschoolofeconomics.eu/docs/M2APE-ConsHealthPubPol/Angrist Piscke The-credibility-revolution-in-empirical-economics-how-better-research-design-is-taking-the-con-out JEP 20" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://teaching.parisschoolofeconomics.eu/docs/M2APE-ConsHealthPubPol/Angrist Piscke The-credibility-revolution-in-empirical-economics-how-better-research-design-is-taking-the-con-out JEP 20" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Barahona et al Equilibrium food labelling Ecta 2023</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1U3HVniJTfOOazjWbJGyoPZsG2EnMAhjO/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1U3HVniJTfOOazjWbJGyoPZsG2EnMAhjO/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bonnet et al Tax Incidence Soft Drinks JPubEc 2013</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1H9gMlLe6-aIBYxZS1JvdGrXtG4COt1LD/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1H9gMlLe6-aIBYxZS1JvdGrXtG4COt1LD/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Griffithetal Tax Design Alcohol Markets JPubEc 2019</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1RbMF49BSD3Pf5NVhDQn94zDaOG5Dlktx/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1RbMF49BSD3Pf5NVhDQn94zDaOG5Dlktx/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bonnet et al Environmental Tax Meat Ecol Econ 2018</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1UhlrJhtN4wfwcDkJCUlmmLGzlrUi4ZYg/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1UhlrJhtN4wfwcDkJCUlmmLGzlrUi4ZYg/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 5 - Experimental and behavioural approach to choices and public policies
 
-- [Teyssier et al Image Concerns](https://drive.google.com/file/d/1JtK0dbNA4tVJU4AVz_smNCHgQEfxeJmH/view)
-- [Lecture 5 - Outline](https://drive.google.com/file/d/1N61VX7jPeIZ5KEspXYXHbP2syw4bNB98/view)
-- [Muller et al Additive Effects JEBO 2025](https://drive.google.com/file/d/1RL2O54xyHlu1meNdcrCZsPzNyuBcNL9j/view)
-- [Bonnet et al RCT Nutritional Labels JAMS 2021](https://drive.google.com/file/d/1-4dTWj0g3Z1hiJb4gqdu3qdMh5fKSwQ6/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Teyssier et al Image Concerns</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1JtK0dbNA4tVJU4AVz_smNCHgQEfxeJmH/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1JtK0dbNA4tVJU4AVz_smNCHgQEfxeJmH/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 5 - Outline</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1N61VX7jPeIZ5KEspXYXHbP2syw4bNB98/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1N61VX7jPeIZ5KEspXYXHbP2syw4bNB98/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Muller et al Additive Effects JEBO 2025</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1RL2O54xyHlu1meNdcrCZsPzNyuBcNL9j/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1RL2O54xyHlu1meNdcrCZsPzNyuBcNL9j/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bonnet et al RCT Nutritional Labels JAMS 2021</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1-4dTWj0g3Z1hiJb4gqdu3qdMh5fKSwQ6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1-4dTWj0g3Z1hiJb4gqdu3qdMh5fKSwQ6/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 6 - Students' presentations of papers
 
 ## Lecture 7 - Interlude Lecture - Craig Pesme on Price and welfare measurement
 
-- [Price measurement and consumer welfare](https://drive.google.com/file/d/1ZNceJV2B6F6Amwg_aF40l1ojFC4N9fC4/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Price measurement and consumer welfare</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1ZNceJV2B6F6Amwg_aF40l1ojFC4N9fC4/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1ZNceJV2B6F6Amwg_aF40l1ojFC4N9fC4/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 8 - Students' presentations of study protocols
 
 ## Lecture 9 - Lecture 6 - Economics of Advertising
 
-- [Lecture 6 - OUTLINE](https://drive.google.com/file/d/1JRlgs5sEYJtYg4z2qtDIupLcj4wskwR1/view)
-- [Dhar & Baylis 2011 Fast-food consumption and the ban on advertising](https://drive.google.com/file/d/1wKf2BAFoDZkTWcuudKCfyce3hRyplj1V/view)
-- [Etilé Economic perspectives of food marketing 2022](https://drive.google.com/file/d/1EjLwx8pAdsuhzpC6FCrORHciq9m5SJaX/view)
-- [Shapiro et al. TV advertising effectiveness and profitability Ecta 2021](https://drive.google.com/file/d/1M8F_RM41iWi19kvD-dwa9G1mI0tkk2GK/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 6 - OUTLINE</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1JRlgs5sEYJtYg4z2qtDIupLcj4wskwR1/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1JRlgs5sEYJtYg4z2qtDIupLcj4wskwR1/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Dhar & Baylis 2011 Fast-food consumption and the ban on advertising</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1wKf2BAFoDZkTWcuudKCfyce3hRyplj1V/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1wKf2BAFoDZkTWcuudKCfyce3hRyplj1V/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Etilé Economic perspectives of food marketing 2022</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1EjLwx8pAdsuhzpC6FCrORHciq9m5SJaX/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1EjLwx8pAdsuhzpC6FCrORHciq9m5SJaX/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Shapiro et al. TV advertising effectiveness and profitability Ecta 2021</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1M8F_RM41iWi19kvD-dwa9G1mI0tkk2GK/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1M8F_RM41iWi19kvD-dwa9G1mI0tkk2GK/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Tutorials
 
@@ -120,4 +369,8 @@ Clark, M. A., Springmann, M., Hill, J., & Tilman, D. (2019), “Multiple health 
 Etilé, F. (2019), “The Economics of Diet and Obesity: Public Policies”, In Oxford Research Encyclopedia, Oxford University Press, DOI:10.1093/acrefore/9780190625979.013.456
 Springmann, M., Clark, M., Mason-D’Croz, D., Wiebe, K., Bodirsky, B. L., Lassaletta, L., ... & Willett, W. (2018). “Options for keeping the food system within environmental limits”, Nature, 562(7728), 519-525.
 [if gte mso 9]><xml> <o:OfficeDocumentSettings> <o:AllowPNG></o:AllowPNG> </o:OfficeDocumentSettings> </xml><![endif][if gte mso 9]><xml> <w:WordDocument> <w:View>Normal</w:View> <w:Zoom>0</w:Zoom> <w:TrackMoves></w:TrackMoves> <w:TrackFormatting></w:TrackFormatting> <w:PunctuationKerning></w:PunctuationKerning> <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas> <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid> <w:IgnoreMixedContent>false</w:IgnoreMixedContent> <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText> <w:DoNotPromoteQF></w:DoNotPromoteQF> <w:LidThemeOther>FR</w:LidThemeOther> <w:LidThemeAsian>X-NONE</w:LidThemeAsian> <w:LidThemeComplexScript>AR-SA</w:LidThemeComplexScript> <w:Compatibility> <w:BreakWrappedTables></w:BreakWrappedTables> <w:SnapToGridInCell></w:SnapToGridInCell> <w:WrapTextWithPunct></w:WrapTextWithPunct> <w:UseAsianBreakRules></w:UseAsianBreakRules> <w:DontGrowAutofit></w:DontGrowAutofit> <w:SplitPgBreakAndParaMark></w:SplitPgBreakAndParaMark> <w:EnableOpenTypeKerning></w:EnableOpenTypeKerning> <w:DontFlipMirrorIndents></w:DontFlipMirrorIndents> <w:OverrideTableStyleHps></w:OverrideTableStyleHps> </w:Compatibility> <m:mathPr> <m:mathFont m:val="Cambria Math"></m:mathFont> <m:brkBin m:val="before"></m:brkBin> <m:brkBinSub m:val="--"></m:brkBinSub> <m:smallFrac m:val="off"></m:smallFrac> <m:dispDef></m:dispDef> <m:lMargin m:val="0"></m:lMargin> <m:rMargin m:val="0"></m:rMargin> <m:defJc m:val="centerGroup"></m:defJc> <m:wrapIndent m:val="1440"></m:wrapIndent> <m:intLim m:val="subSup"></m:intLim> <m:naryLim m:val="undOvr"></m:naryLim> </m:mathPr></w:WordDocument> </xml><![endif][if gte mso 9]><xml> <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false" DefSemiHidden="false" DefQFormat="false" DefPriority="99" LatentStyleCount="376"> <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"></w:LsdException> <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"></w:LsdException> <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 2"></w:LsdException> <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 3"></w:LsdException> <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 4"></w:LsdException> <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 5"></w:LsdException> <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 6"></w:LsdException> <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 7"></w:LsdException> <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 8"></w:LsdException> <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 9"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 1"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 2"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 3"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 4"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 5"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 6"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 7"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 8"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 9"></w:LsdException> <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 1"></w:LsdException> <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 2"></w:LsdException> <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 3"></w:LsdException> <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 4"></w:LsdException> <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 5"></w:LsdException> <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 6"></w:LsdException> <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 7"></w:LsdException> <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 8"></w:LsdException> <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 9"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Normal Indent"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="footnote text"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="annotation text"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="header"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="footer"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index heading"></w:LsdException> <w:LsdException Locked="false" Priority="35" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="caption"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="table of figures"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="envelope address"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="envelope return"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="footnote reference"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="annotation reference"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="line number"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="page number"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="endnote reference"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="endnote text"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="table of authorities"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="macro"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="toa heading"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Bullet"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Number"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List 2"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List 3"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List 4"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List 5"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Bullet 2"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Bullet 3"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Bullet 4"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Bullet 5"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Number 2"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Number 3"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Number 4"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Number 5"></w:LsdException> <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Closing"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Signature"></w:LsdException> <w:LsdException Locked="false" Priority="1" SemiHidden="true" UnhideWhenUsed="true" Name="Default Paragraph Font"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text Indent"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Continue"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Continue 2"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Continue 3"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Continue 4"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Continue 5"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Message Header"></w:LsdException> <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Salutation"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Date"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text First Indent"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text First Indent 2"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Note Heading"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text 2"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text 3"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text Indent 2"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text Indent 3"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Block Text"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Hyperlink"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="FollowedHyperlink"></w:LsdException> <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"></w:LsdException> <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Document Map"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Plain Text"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="E-mail Signature"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Top of Form"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Bottom of Form"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Normal (Web)"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Acronym"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Address"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Cite"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Code"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Definition"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Keyboard"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Preformatted"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Sample"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Typewriter"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Variable"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Normal Table"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="annotation subject"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="No List"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Outline List 1"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Outline List 2"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Outline List 3"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Simple 1"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Simple 2"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Simple 3"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Classic 1"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Classic 2"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Classic 3"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Classic 4"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Colorful 1"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Colorful 2"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Colorful 3"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Columns 1"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Columns 2"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Columns 3"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Columns 4"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Columns 5"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 1"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 2"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 3"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 4"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 5"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 6"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 7"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 8"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 1"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 2"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 3"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 4"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 5"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 6"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 7"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 8"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table 3D effects 1"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table 3D effects 2"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table 3D effects 3"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Contemporary"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Elegant"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Professional"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Subtle 1"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Subtle 2"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Web 1"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Web 2"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Web 3"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Balloon Text"></w:LsdException> <w:LsdException Locked="false" Priority="39" Name="Table Grid"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Theme"></w:LsdException> <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"></w:LsdException> <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"></w:LsdException> <w:LsdException Locked="false" Priority="60" Name="Light Shading"></w:LsdException> <w:LsdException Locked="false" Priority="61" Name="Light List"></w:LsdException> <w:LsdException Locked="false" Priority="62" Name="Light Grid"></w:LsdException> <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"></w:LsdException> <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"></w:LsdException> <w:LsdExcepti</div> </div> </div> <div class="card mb-4"> <div class="card-header"> <h3 class="h5 mb-0">Other website</h3> </div> <div class="card-body"> <div class="text">https://sites.google.com/site/fabriceetile/</div> </div> </div> </dl> </div> <div class="card-footer"> <small class="last_update text-muted">Last update: 1 year ago</small> </div> </div><!--card
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

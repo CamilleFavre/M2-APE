@@ -1,6 +1,11 @@
-# Monetary and Financial History
+---
+layout: default
+title: Monetary and Financial History
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/231*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Monetary and Financial History
 
 ## Introduction
 
@@ -8,19 +13,96 @@
 
 ## General Documents
 
-- [Online archives for final essays](https://drive.google.com/file/d/1zgMsNKFDqoSjLJ8C77XhQQY_W94r-W6-/view)
-- [History of central banks Oxford encyclopedia Monnet](https://drive.google.com/file/d/1C4xcY-uduUulcXekSsSm3uhrEIwGQNhV/view)
-- [Survey banking crises Xu Frydman](https://drive.google.com/file/d/1Nr6j6_oDIfKqv14aquOdFiWunS1-IYPK/view)
-- [Session 2 Money and gvt finance](https://drive.google.com/file/d/1LTshFIzWjh8YUFhvJONOoQNsTkzrXD7w/view)
-- [Session 6 State led finance](https://drive.google.com/file/d/1thXgHTMoi7e6WqNs1DxLja_oTUFMtxU8/view)
-- [Session 7 International money since Bretton Woods](https://drive.google.com/file/d/1zZrqk1dUT258zR-iOvyvUDk6FBZohDBY/view)
-- [Session 1 - Introduction and early modern finance](https://teaching.parisschoolofeconomics.eu/docs/M2PPDhistorymonetary/Session 1 2025.pptx)
-- [Session 2 Commodity money & government finance](https://drive.google.com/file/d/1gILUHR6cG2rWht7OnEyPEUQWN7iimEAX/view)
-- [Session 3 Revolutions in private finance, XIXth C.](https://drive.google.com/file/d/1kh7IEzyT7vPCC3Qe4XqYEJF7XJZn_ixX/view)
-- [Section 4. Central Banks. Globalization & Gold Standard](https://drive.google.com/file/d/1DOXa6zQG5yv22tbMdTc-xBxXQm6LySvi/view)
-- [Syllabus 2025 (updated)](https://drive.google.com/file/d/1Bd9pNQgMBFXrKCHumv--IMnypHSN-0SK/view)
-- [Session 5. From Gold Standard to the Great Depression](https://drive.google.com/file/d/1aBCR7q3WR2bc5VCFCZUZOJSeTrT8gXCN/view)
-- [Session 6-7 Postwar finance & internationan monetary system](https://drive.google.com/file/d/164H8vPUMh6wgAvcH1rMO-psKcYxS5qWv/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Online archives for final essays</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1zgMsNKFDqoSjLJ8C77XhQQY_W94r-W6-/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1zgMsNKFDqoSjLJ8C77XhQQY_W94r-W6-/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>History of central banks Oxford encyclopedia Monnet</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1C4xcY-uduUulcXekSsSm3uhrEIwGQNhV/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1C4xcY-uduUulcXekSsSm3uhrEIwGQNhV/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Survey banking crises Xu Frydman</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Nr6j6_oDIfKqv14aquOdFiWunS1-IYPK/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Nr6j6_oDIfKqv14aquOdFiWunS1-IYPK/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Session 2 Money and gvt finance</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1LTshFIzWjh8YUFhvJONOoQNsTkzrXD7w/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1LTshFIzWjh8YUFhvJONOoQNsTkzrXD7w/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Session 6 State led finance</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1thXgHTMoi7e6WqNs1DxLja_oTUFMtxU8/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1thXgHTMoi7e6WqNs1DxLja_oTUFMtxU8/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Session 7 International money since Bretton Woods</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1zZrqk1dUT258zR-iOvyvUDk6FBZohDBY/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1zZrqk1dUT258zR-iOvyvUDk6FBZohDBY/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Session 1 - Introduction and early modern finance</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://teaching.parisschoolofeconomics.eu/docs/M2PPDhistorymonetary/Session 1 2025.pptx" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://teaching.parisschoolofeconomics.eu/docs/M2PPDhistorymonetary/Session 1 2025.pptx" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Session 2 Commodity money & government finance</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1gILUHR6cG2rWht7OnEyPEUQWN7iimEAX/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1gILUHR6cG2rWht7OnEyPEUQWN7iimEAX/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Session 3 Revolutions in private finance, XIXth C.</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1kh7IEzyT7vPCC3Qe4XqYEJF7XJZn_ixX/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1kh7IEzyT7vPCC3Qe4XqYEJF7XJZn_ixX/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Section 4. Central Banks. Globalization & Gold Standard</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1DOXa6zQG5yv22tbMdTc-xBxXQm6LySvi/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1DOXa6zQG5yv22tbMdTc-xBxXQm6LySvi/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus 2025 (updated)</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Bd9pNQgMBFXrKCHumv--IMnypHSN-0SK/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Bd9pNQgMBFXrKCHumv--IMnypHSN-0SK/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Session 5. From Gold Standard to the Great Depression</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1aBCR7q3WR2bc5VCFCZUZOJSeTrT8gXCN/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1aBCR7q3WR2bc5VCFCZUZOJSeTrT8gXCN/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Session 6-7 Postwar finance & internationan monetary system</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/164H8vPUMh6wgAvcH1rMO-psKcYxS5qWv/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/164H8vPUMh6wgAvcH1rMO-psKcYxS5qWv/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -37,43 +119,131 @@ Tuesdays, 9:15am – 10:45am and then 2:00pm – 3:30pm, room R2-20
 
 ## Lecture 1 - Introduction
 
-- [Bordo-Roberds CBDC](https://drive.google.com/file/d/16C66knsnH6iBKSlvf2OjGhPj_QtmH4wb/view)
-- [Gorton Safe assets](https://drive.google.com/file/d/1QwbdejYRTlhkZNZk8Uc92KzCp3AqfWwH/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bordo-Roberds CBDC</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/16C66knsnH6iBKSlvf2OjGhPj_QtmH4wb/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/16C66knsnH6iBKSlvf2OjGhPj_QtmH4wb/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Gorton Safe assets</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1QwbdejYRTlhkZNZk8Uc92KzCp3AqfWwH/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1QwbdejYRTlhkZNZk8Uc92KzCp3AqfWwH/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 2
 
-- [Schnabel & Shin](https://drive.google.com/file/d/12yXzwoe_xsotNBDA29VE3XIEPFh3l4q2/view)
-- [Boloton Guidi-Bruscoli Bill of exchange](https://drive.google.com/file/d/1Zqjz8XLFXJ48HpY5x__sX1L93lif8zvd/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Schnabel & Shin</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/12yXzwoe_xsotNBDA29VE3XIEPFh3l4q2/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/12yXzwoe_xsotNBDA29VE3XIEPFh3l4q2/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Boloton Guidi-Bruscoli Bill of exchange</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Zqjz8XLFXJ48HpY5x__sX1L93lif8zvd/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Zqjz8XLFXJ48HpY5x__sX1L93lif8zvd/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 3
 
-- [Guan et al. Paper Money in China](https://drive.google.com/file/d/17GBmolSq8785JiRNsMMh_WsDszHYVkUx/view)
-- [Sargent Velde French Revolution](https://drive.google.com/file/d/1a4gAobfWz6e0S5URZ-hiQfUJdVQ5bxR8/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Guan et al. Paper Money in China</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/17GBmolSq8785JiRNsMMh_WsDszHYVkUx/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/17GBmolSq8785JiRNsMMh_WsDszHYVkUx/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Sargent Velde French Revolution</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1a4gAobfWz6e0S5URZ-hiQfUJdVQ5bxR8/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1a4gAobfWz6e0S5URZ-hiQfUJdVQ5bxR8/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 4 - Banks and stock markets 19th century
 
-- [Lehman Streb Germany](https://drive.google.com/file/d/1Ao1vw2DKkaxmaNG1GmrGUJVMmp_B5Ovy/view)
-- [Xu Yang USA](https://drive.google.com/file/d/1z7I7NVTuKxf1ciMsyDn20w3vRHjHWL3A/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lehman Streb Germany</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Ao1vw2DKkaxmaNG1GmrGUJVMmp_B5Ovy/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Ao1vw2DKkaxmaNG1GmrGUJVMmp_B5Ovy/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Xu Yang USA</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1z7I7NVTuKxf1ciMsyDn20w3vRHjHWL3A/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1z7I7NVTuKxf1ciMsyDn20w3vRHjHWL3A/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 5 - 19th financial globalization
 
-- [Frydman HIlt Zhou](https://drive.google.com/file/d/1OSv7e2xU5cf5Ak7tniZndI4BIaE9jJ2r/view)
-- [Weller Brazil](https://drive.google.com/file/d/1g2QqEw6YBKiJYot_OTPw6NA_13WciF4S/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Frydman HIlt Zhou</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1OSv7e2xU5cf5Ak7tniZndI4BIaE9jJ2r/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1OSv7e2xU5cf5Ak7tniZndI4BIaE9jJ2r/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Weller Brazil</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1g2QqEw6YBKiJYot_OTPw6NA_13WciF4S/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1g2QqEw6YBKiJYot_OTPw6NA_13WciF4S/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 6 - Interwar and Great Depression
 
-- [Macher Hungary](https://drive.google.com/file/d/18YdQSasXQ0ebTqpnAWR5fDXkDpT97_b7/view)
-- [Quincy USA](https://drive.google.com/file/d/18wsIv9gFEMgflcMh3y9MECJfD5mW_bCm/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Macher Hungary</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/18YdQSasXQ0ebTqpnAWR5fDXkDpT97_b7/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/18YdQSasXQ0ebTqpnAWR5fDXkDpT97_b7/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Quincy USA</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/18wsIv9gFEMgflcMh3y9MECJfD5mW_bCm/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/18wsIv9gFEMgflcMh3y9MECJfD5mW_bCm/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 7 - Postwar
 
-- [Nyamunda Rhodesia](https://drive.google.com/file/d/1htRptLDv-7x9fCM8cRWLhEDcpMmIVfbm/view)
-- [Dai Verner Muller](https://drive.google.com/file/d/1I0Cc2vAuQd588ff1kHkuzHubHFRnzsST/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Nyamunda Rhodesia</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1htRptLDv-7x9fCM8cRWLhEDcpMmIVfbm/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1htRptLDv-7x9fCM8cRWLhEDcpMmIVfbm/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Dai Verner Muller</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1I0Cc2vAuQd588ff1kHkuzHubHFRnzsST/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1I0Cc2vAuQd588ff1kHkuzHubHFRnzsST/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 8 - Recent evolutions
 
-- [Braun](https://drive.google.com/file/d/1QsymnXyDMyMeLOZwozN0OdTdzspg3DEO/view)
-- [Levy History of Profit](https://drive.google.com/file/d/1BcjEyFxpqTbczp3ahIf7U4YM4zF-aqHB/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Braun</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1QsymnXyDMyMeLOZwozN0OdTdzspg3DEO/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1QsymnXyDMyMeLOZwozN0OdTdzspg3DEO/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Levy History of Profit</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1BcjEyFxpqTbczp3ahIf7U4YM4zF-aqHB/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1BcjEyFxpqTbczp3ahIf7U4YM4zF-aqHB/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Tutorials
 
@@ -88,4 +258,8 @@ Gorton, G. (2017). The history and economics of safe assets. Annual Review of Ec
 Bordo, M. D. & W. Roberds (2022). Central Bank Digital Currencies: an Old Tale With a New Chapter (Hoover Inst. WP No. 22124).
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

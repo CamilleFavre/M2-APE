@@ -1,6 +1,11 @@
-# Foreign Investment
+---
+layout: default
+title: Foreign Investment
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/4*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Foreign Investment
 
 ## Introduction
 
@@ -8,8 +13,19 @@
 
 ## General Documents
 
-- [Essay template](https://drive.google.com/file/d/1O9ybhU1Kb-iROZRxVhFhiB6hoc2JHsE3/view)
-- [Syllabus](https://drive.google.com/file/d/1nMt2gTugHDfKxJitLajN3J9MO8pXHQmS/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Essay template</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1O9ybhU1Kb-iROZRxVhFhiB6hoc2JHsE3/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1O9ybhU1Kb-iROZRxVhFhiB6hoc2JHsE3/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1nMt2gTugHDfKxJitLajN3J9MO8pXHQmS/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1nMt2gTugHDfKxJitLajN3J9MO8pXHQmS/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -22,31 +38,66 @@ All relevant information can be found in the syllabus.
 
 ## Lecture 1 - Introduction
 
-- [Introduction](https://drive.google.com/file/d/1zMq5WZ1PbbH2ZtB3yE_QyzIPoT8zz_0j/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Introduction</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1zMq5WZ1PbbH2ZtB3yE_QyzIPoT8zz_0j/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1zMq5WZ1PbbH2ZtB3yE_QyzIPoT8zz_0j/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 2 - Horizontal FDI
 
-- [Horizontal FDI](https://drive.google.com/file/d/1nSIw-8fhr8iSJFyfW19irGTBGsvpN8Ui/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Horizontal FDI</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1nSIw-8fhr8iSJFyfW19irGTBGsvpN8Ui/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1nSIw-8fhr8iSJFyfW19irGTBGsvpN8Ui/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 3 - Vertical FDI
 
-- [Vertical FDI](https://drive.google.com/file/d/1cAuGxgcbo6IzKneQr-wXNE2inZGT3cQx/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Vertical FDI</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1cAuGxgcbo6IzKneQr-wXNE2inZGT3cQx/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1cAuGxgcbo6IzKneQr-wXNE2inZGT3cQx/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 4 - GVCs
 
-- [GVCs](https://drive.google.com/file/d/1nleDBVJWGn6JJDVSxz2vxAxL4lP9d65H/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>GVCs</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1nleDBVJWGn6JJDVSxz2vxAxL4lP9d65H/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1nleDBVJWGn6JJDVSxz2vxAxL4lP9d65H/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 5 - FDI, Offshoring & Wages
 
-- [FDI, Offshoring & Wages](https://drive.google.com/file/d/1vomCGMiWN8kDn0MczjPpr_XaVNrjm_kp/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>FDI, Offshoring & Wages</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1vomCGMiWN8kDn0MczjPpr_XaVNrjm_kp/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1vomCGMiWN8kDn0MczjPpr_XaVNrjm_kp/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 6 - Firm internal organization
 
-- [Firm internal organization](https://drive.google.com/file/d/1s_JoW9Dl6xzvuCJZM2dgBydvlTizzCj8/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Firm internal organization</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1s_JoW9Dl6xzvuCJZM2dgBydvlTizzCj8/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1s_JoW9Dl6xzvuCJZM2dgBydvlTizzCj8/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 7 - M&As and spillovers
 
-- [M&As and spillovers](https://drive.google.com/file/d/1jm9tljqSDmqTRMnTv0tkzn17xHLMi2P5/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>M&As and spillovers</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1jm9tljqSDmqTRMnTv0tkzn17xHLMi2P5/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1jm9tljqSDmqTRMnTv0tkzn17xHLMi2P5/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Tutorials
 
@@ -55,4 +106,8 @@ All relevant information can be found in the syllabus.
 ## References
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

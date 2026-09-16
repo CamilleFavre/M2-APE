@@ -1,6 +1,11 @@
-# Public Finance
+---
+layout: default
+title: Public Finance
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/162*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Public Finance
 
 ## Introduction
 
@@ -34,4 +39,8 @@ Examination: Written Exam
 ## References
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

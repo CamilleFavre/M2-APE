@@ -1,6 +1,11 @@
-# Theories of Collective Choice in a Democracy
+---
+layout: default
+title: Theories of Collective Choice in a Democracy
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/60*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Theories of Collective Choice in a Democracy
 
 ## Introduction
 
@@ -8,10 +13,33 @@
 
 ## General Documents
 
-- [Syllabus 2025](https://drive.google.com/file/d/1Av8yXd6MvsNd4W6AJ957JpgBXc9LDZDp/view)
-- [Lecture 2. Multi-candidate elections](https://drive.google.com/file/d/1EgD-QRu6tLnfwOBTUbUHqpVUChe_qNKj/view)
-- [Lecture 4. Information Aggregation](https://drive.google.com/file/d/1CrJgBnBcwZsd-P1jms6HUUx-2FUbva7o/view)
-- [Lecture 5. Logrolling and Vote Trading](https://drive.google.com/file/d/1WSgVcZasXgsphs78B0__uSSVXcnLg9xh/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus 2025</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Av8yXd6MvsNd4W6AJ957JpgBXc9LDZDp/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Av8yXd6MvsNd4W6AJ957JpgBXc9LDZDp/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 2. Multi-candidate elections</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1EgD-QRu6tLnfwOBTUbUHqpVUChe_qNKj/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1EgD-QRu6tLnfwOBTUbUHqpVUChe_qNKj/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 4. Information Aggregation</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1CrJgBnBcwZsd-P1jms6HUUx-2FUbva7o/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1CrJgBnBcwZsd-P1jms6HUUx-2FUbva7o/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 5. Logrolling and Vote Trading</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1WSgVcZasXgsphs78B0__uSSVXcnLg9xh/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1WSgVcZasXgsphs78B0__uSSVXcnLg9xh/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -45,4 +73,8 @@ The following papers will be presented on March 7:
 - Yanis Boussaid : Goeree and Yariv, "An Experimental Study of Collective Deliberation", 2011
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

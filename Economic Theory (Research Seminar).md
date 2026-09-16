@@ -1,6 +1,11 @@
-# Economic Theory (Research Seminar)
+---
+layout: default
+title: Economic Theory (Research Seminar)
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/6*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Economic Theory (Research Seminar)
 
 ## Introduction
 
@@ -8,9 +13,26 @@
 
 ## General Documents
 
-- [Presentation of the theory research group](https://drive.google.com/file/d/1aEM-U4E2QwT70b5gI8Cfqd6ypmk5L-11/view)
-- [Presentation of the theory dissertation workshop for M2 students](https://drive.google.com/file/d/156IwHAsaIcCZKCkZcK9tpAttZkO0fkjH/view)
-- [Reading list](https://drive.google.com/file/d/17wxKdfzfZREx_86z4vC8GtnwjDewmZb_/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Presentation of the theory research group</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1aEM-U4E2QwT70b5gI8Cfqd6ypmk5L-11/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1aEM-U4E2QwT70b5gI8Cfqd6ypmk5L-11/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Presentation of the theory dissertation workshop for M2 students</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/156IwHAsaIcCZKCkZcK9tpAttZkO0fkjH/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/156IwHAsaIcCZKCkZcK9tpAttZkO0fkjH/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Reading list</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/17wxKdfzfZREx_86z4vC8GtnwjDewmZb_/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/17wxKdfzfZREx_86z4vC8GtnwjDewmZb_/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -30,4 +52,8 @@ Incentives & organization, governance & hierarchies
 ## References
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

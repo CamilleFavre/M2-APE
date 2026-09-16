@@ -1,6 +1,11 @@
-# Labor Economics: from Theory to Empirics
+---
+layout: default
+title: Labor Economics: from Theory to Empirics
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/331*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Labor Economics: from Theory to Empirics
 
 ## Introduction
 
@@ -23,24 +28,55 @@ The evaluation will be based on each of the three parts, equally weighted. The e
 
 ## Lecture 1 - Introduction, Labor Demand (Static, Dynamic), Labor Supply (Household Labor Supply)
 
-- [Class 1](https://drive.google.com/file/d/1HCOTS6NphXDBpicWvyPAXGb3Eo1G9oNg/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Class 1</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1HCOTS6NphXDBpicWvyPAXGb3Eo1G9oNg/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1HCOTS6NphXDBpicWvyPAXGb3Eo1G9oNg/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 2 - Labor Supply (Unitary Models, Collective Models), Market Equilibrium, Minimum Wage (Employment Effects, Added Worker Effects)
 
-- [Class 2](https://drive.google.com/file/d/1zWXKlS9UkzLg7iRMRQDGHqI3vWiJ6-wL/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Class 2</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1zWXKlS9UkzLg7iRMRQDGHqI3vWiJ6-wL/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1zWXKlS9UkzLg7iRMRQDGHqI3vWiJ6-wL/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 3 - Publication Bias, Other Dimensions of Compensation, Effects on Income (Inequality, Poverty), Noncompliance, Self-Employment
 
-- [Class 3](https://drive.google.com/file/d/198ogG1AmYT2ZvGQHvzBaMtZLXHA5cm0k/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Class 3</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/198ogG1AmYT2ZvGQHvzBaMtZLXHA5cm0k/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/198ogG1AmYT2ZvGQHvzBaMtZLXHA5cm0k/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 4 - Human Capital (Dynamic), Training, Human Capital (Reduced Form Estimation, Educational Attainment, Structural Models)
 
-- [Class 4](https://drive.google.com/file/d/1j6z_pXj-z0-aS8qp8IZx38jGYCkzH0dL/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Class 4</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1j6z_pXj-z0-aS8qp8IZx38jGYCkzH0dL/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1j6z_pXj-z0-aS8qp8IZx38jGYCkzH0dL/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Tutorial 1 - Previous Year Exam Question
 
-- [Exam Question](https://drive.google.com/file/d/1PzP7wk8Jo24C_2KBMFPcndV4Rvk-73N-/view)
-- [Example of a good answer](https://drive.google.com/file/d/1R7yS5DXcUDnTg6bLtNeNJ363zqc_EpLQ/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Exam Question</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1PzP7wk8Jo24C_2KBMFPcndV4Rvk-73N-/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1PzP7wk8Jo24C_2KBMFPcndV4Rvk-73N-/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Example of a good answer</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1R7yS5DXcUDnTg6bLtNeNJ363zqc_EpLQ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1R7yS5DXcUDnTg6bLtNeNJ363zqc_EpLQ/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Tutorial 2 - Exam Question
 
@@ -49,32 +85,72 @@ Books specifically on minimum wages
 World of Labor articles
 Plus hundreds of articles.
 
-- [Exam 2024-2025](https://drive.google.com/file/d/1X701Ooa2tGARMeZYYvsfKHOX4xBE2Jrj/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Exam 2024-2025</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1X701Ooa2tGARMeZYYvsfKHOX4xBE2Jrj/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1X701Ooa2tGARMeZYYvsfKHOX4xBE2Jrj/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Part 2
 
 ## Lecture 1 - Labor Market Power
 
-- [Slides](https://drive.google.com/file/d/1Om4882mhpSCa1bzUwPXBnYRQsDrNn4Km/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Om4882mhpSCa1bzUwPXBnYRQsDrNn4Km/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Om4882mhpSCa1bzUwPXBnYRQsDrNn4Km/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Tutorial 1 - Exam
 
 This course is focused on 5 papers
 
-- [Topics and guidelines](https://drive.google.com/file/d/1RdH1jv6m_YyujhBdUqJAYRWvG1Cyfhj7/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Topics and guidelines</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1RdH1jv6m_YyujhBdUqJAYRWvG1Cyfhj7/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1RdH1jv6m_YyujhBdUqJAYRWvG1Cyfhj7/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Part 3
 
 ## Lecture 1 - Introduction + Gender inequality on labor market
 
-- [Introduction](https://drive.google.com/file/d/1X34eC96sYwo14vh0c_FsivO_9oLQDuGt/view)
-- [Gender Inequality](https://drive.google.com/file/d/1rXzMMhSB8ZHFaN2E74px8Eh_yfYWeo3-/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Introduction</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1X34eC96sYwo14vh0c_FsivO_9oLQDuGt/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1X34eC96sYwo14vh0c_FsivO_9oLQDuGt/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Gender Inequality</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1rXzMMhSB8ZHFaN2E74px8Eh_yfYWeo3-/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1rXzMMhSB8ZHFaN2E74px8Eh_yfYWeo3-/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 2 - Wage inequality
 
-- [Wage inequality](https://drive.google.com/file/d/1rnF3wH8wdlLl6H3PBgYCnnjNL6NdB9Wf/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Wage inequality</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1rnF3wH8wdlLl6H3PBgYCnnjNL6NdB9Wf/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1rnF3wH8wdlLl6H3PBgYCnnjNL6NdB9Wf/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 3 - Firm wage premium
 
-- [Firm wage premium](https://drive.google.com/file/d/1bppab23SVk-NX0rjhtb_2JyNMEOUKAFj/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Firm wage premium</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1bppab23SVk-NX0rjhtb_2JyNMEOUKAFj/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1bppab23SVk-NX0rjhtb_2JyNMEOUKAFj/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

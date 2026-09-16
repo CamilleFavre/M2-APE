@@ -1,6 +1,11 @@
-# Behavioral economics (Research Seminar)
+---
+layout: default
+title: Behavioral economics (Research Seminar)
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/233*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Behavioral economics (Research Seminar)
 
 ## Introduction
 
@@ -8,8 +13,19 @@
 
 ## General Documents
 
-- [Information on group members + links to webpages.](https://drive.google.com/file/d/1MnLyAvJ1qjAewWb-6H9zFNCTUtKdaVgN/view)
-- [Research topics proposals - 2023-2024](https://drive.google.com/file/d/1eElUf2-BZuZANb-OW3jwtyF6LuBmNLLO/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Information on group members + links to webpages.</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1MnLyAvJ1qjAewWb-6H9zFNCTUtKdaVgN/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1MnLyAvJ1qjAewWb-6H9zFNCTUtKdaVgN/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Research topics proposals - 2023-2024</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1eElUf2-BZuZANb-OW3jwtyF6LuBmNLLO/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1eElUf2-BZuZANb-OW3jwtyF6LuBmNLLO/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -38,23 +54,47 @@ For more details and contacting advisors, see the document "Information on group
 
 ## Tutorial 1 - Reproducible research in economics and econometrics
 
-- [How to make a pie?](https://drive.google.com/file/d/1Lk1Qtrtm40eoj7Hs-gQrOtx__RQ_P96O/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>How to make a pie?</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Lk1Qtrtm40eoj7Hs-gQrOtx__RQ_P96O/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Lk1Qtrtm40eoj7Hs-gQrOtx__RQ_P96O/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Tutorial 2 - Writing strategy 1
 
-- [Publish like a pro](https://drive.google.com/file/d/1OZn-dKkVGXhUlhVLsZY99i1iyJ2GDPm8/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Publish like a pro</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1OZn-dKkVGXhUlhVLsZY99i1iyJ2GDPm8/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1OZn-dKkVGXhUlhVLsZY99i1iyJ2GDPm8/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Tutorial 3 - Open data/open science
 
-- [A FAIR research?](https://drive.google.com/file/d/197oZ9LHX5D8ZFzMfQruNLXawZDpE386g/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>A FAIR research?</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/197oZ9LHX5D8ZFzMfQruNLXawZDpE386g/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/197oZ9LHX5D8ZFzMfQruNLXawZDpE386g/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Tutorial 4 - Writing strategy 2
 
-- [A guide to writing](https://drive.google.com/file/d/1jmgqUPYn1xQQuPRntwvCFs8Pnm5D4air/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>A guide to writing</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1jmgqUPYn1xQQuPRntwvCFs8Pnm5D4air/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1jmgqUPYn1xQQuPRntwvCFs8Pnm5D4air/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Homeworks and Exams
 
 ## References
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

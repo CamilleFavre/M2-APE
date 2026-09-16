@@ -1,6 +1,11 @@
-# Economics of Gender
+---
+layout: default
+title: Economics of Gender
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/317*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Economics of Gender
 
 ## Introduction
 
@@ -33,4 +38,8 @@ Please contact me if you have any questions (elena.stancanelli@psemail.eu or ele
 ## References
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

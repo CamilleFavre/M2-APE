@@ -1,6 +1,11 @@
-# Migration
+---
+layout: default
+title: Migration
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/155*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Migration
 
 ## Introduction
 
@@ -8,22 +13,117 @@
 
 ## General Documents
 
-- [Slides Birthplace Diversity](https://drive.google.com/file/d/1nTUCdmPLx6dnFTQJ0fVmSopzmoZIPcF2/view)
-- [Slides Minimum Wage and Immigration](https://drive.google.com/file/d/1AF06NekUSsTHfy7GZrA2khV0tMNBL8pE/view)
-- [Slides Migration and Cultural Change](https://drive.google.com/file/d/1EdPpNqZUL4bvn62xDSDqZ-z0JdepVrTq/view)
-- [Slides Immigration and Redisribution AM Stantcheva](https://drive.google.com/file/d/1AgdmhnG3u9dDOA1Wrudh_GTIWFObkYJ5/view)
-- [Slides Immigration and Redistribution AMR JEG2021](https://drive.google.com/file/d/1cXqwohMFeUPFNZhcO_ar-bz00DfN7mXx/view)
-- [Migration and global welfare](https://drive.google.com/file/d/1GKcx_gS6FWiz0dfRVziFDuqhTOgcm2zt/view)
-- [Syllabus 2025](https://drive.google.com/file/d/1AicOlsLndhjglfZLGGSimYfo9XZna2VS/view)
-- [Slides Confederate Diaspora](https://drive.google.com/file/d/1zh9HAI-Zxnn6LOrIp6OAs2ZZ9ZAWTgK1/view)
-- [Slides Populism and Globalization](https://drive.google.com/file/d/1xcN-qT9ssYSFAjefxMdBE1v5rL1uMlL6/view)
-- [Exam questions Migration APE2025](https://drive.google.com/file/d/125NLKC5lfy9sHyyCLsjHtLhhPaVpKZM4/view)
-- [Policies for Ukrainian Refugees](https://drive.google.com/file/d/1Qy9d1a1mKtFPcY0jmtQl6SJYg8oWlJuJ/view)
-- [Time slots for oral exam on April 8](https://drive.google.com/file/d/1frxsxNG4xyS2cKZ_7ce97exKiRGkA2jb/view)
-- [Group 3 Cultural Transmission Slides](https://drive.google.com/file/d/104wf4DC9yebN2U1LD4AUyzPYuYizwRa9/view)
-- [Group 4 Slides Political Economy](https://drive.google.com/file/d/1jfKqVGrSfkNV3JZAvgpKPVpxAoLIVr0M/view)
-- [Group 1 Slides Micro-diversity](https://drive.google.com/file/d/1yaZ0ORm8S1_1FAltwxNayu9zv_bUBJWg/view)
-- [Group 2 Slides Mariel Boatlift](https://drive.google.com/file/d/12Nu5sN4JSL44B-jYy0ZcRA5o8oqb3s_O/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Birthplace Diversity</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1nTUCdmPLx6dnFTQJ0fVmSopzmoZIPcF2/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1nTUCdmPLx6dnFTQJ0fVmSopzmoZIPcF2/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Minimum Wage and Immigration</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1AF06NekUSsTHfy7GZrA2khV0tMNBL8pE/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1AF06NekUSsTHfy7GZrA2khV0tMNBL8pE/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Migration and Cultural Change</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1EdPpNqZUL4bvn62xDSDqZ-z0JdepVrTq/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1EdPpNqZUL4bvn62xDSDqZ-z0JdepVrTq/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Immigration and Redisribution AM Stantcheva</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1AgdmhnG3u9dDOA1Wrudh_GTIWFObkYJ5/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1AgdmhnG3u9dDOA1Wrudh_GTIWFObkYJ5/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Immigration and Redistribution AMR JEG2021</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1cXqwohMFeUPFNZhcO_ar-bz00DfN7mXx/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1cXqwohMFeUPFNZhcO_ar-bz00DfN7mXx/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Migration and global welfare</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1GKcx_gS6FWiz0dfRVziFDuqhTOgcm2zt/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1GKcx_gS6FWiz0dfRVziFDuqhTOgcm2zt/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus 2025</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1AicOlsLndhjglfZLGGSimYfo9XZna2VS/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1AicOlsLndhjglfZLGGSimYfo9XZna2VS/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Confederate Diaspora</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1zh9HAI-Zxnn6LOrIp6OAs2ZZ9ZAWTgK1/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1zh9HAI-Zxnn6LOrIp6OAs2ZZ9ZAWTgK1/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Populism and Globalization</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1xcN-qT9ssYSFAjefxMdBE1v5rL1uMlL6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1xcN-qT9ssYSFAjefxMdBE1v5rL1uMlL6/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Exam questions Migration APE2025</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/125NLKC5lfy9sHyyCLsjHtLhhPaVpKZM4/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/125NLKC5lfy9sHyyCLsjHtLhhPaVpKZM4/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Policies for Ukrainian Refugees</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Qy9d1a1mKtFPcY0jmtQl6SJYg8oWlJuJ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Qy9d1a1mKtFPcY0jmtQl6SJYg8oWlJuJ/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Time slots for oral exam on April 8</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1frxsxNG4xyS2cKZ_7ce97exKiRGkA2jb/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1frxsxNG4xyS2cKZ_7ce97exKiRGkA2jb/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Group 3 Cultural Transmission Slides</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/104wf4DC9yebN2U1LD4AUyzPYuYizwRa9/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/104wf4DC9yebN2U1LD4AUyzPYuYizwRa9/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Group 4 Slides Political Economy</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1jfKqVGrSfkNV3JZAvgpKPVpxAoLIVr0M/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1jfKqVGrSfkNV3JZAvgpKPVpxAoLIVr0M/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Group 1 Slides Micro-diversity</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1yaZ0ORm8S1_1FAltwxNayu9zv_bUBJWg/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1yaZ0ORm8S1_1FAltwxNayu9zv_bUBJWg/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Group 2 Slides Mariel Boatlift</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/12Nu5sN4JSL44B-jYy0ZcRA5o8oqb3s_O/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/12Nu5sN4JSL44B-jYy0ZcRA5o8oqb3s_O/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -45,4 +145,8 @@ Office hours: by appointment.
 ## References
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

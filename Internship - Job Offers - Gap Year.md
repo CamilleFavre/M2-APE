@@ -1,6 +1,11 @@
-# Internship / Job Offers / Gap Year
+---
+layout: default
+title: Internship / Job Offers / Gap Year
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/252*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Internship / Job Offers / Gap Year
 
 ## Introduction
 
@@ -8,9 +13,26 @@
 
 ## General Documents
 
-- [Gap year information (procedures)](https://drive.google.com/file/d/1Wf1_GaJRhDCeWoP5PaDFEePi-X83sygJ/view)
-- [Internships at Paris 1 - addendum](https://drive.google.com/file/d/1XxAIGFgarge5kuIE1lkdPwnObFEvhiPr/view)
-- [Internship information (dates, contract to sign, convention de stage, etc)](https://drive.google.com/file/d/1jWh5vLzaoXZjAd2RPMEfEcV3__xmJi_v/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Gap year information (procedures)</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Wf1_GaJRhDCeWoP5PaDFEePi-X83sygJ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Wf1_GaJRhDCeWoP5PaDFEePi-X83sygJ/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Internships at Paris 1 - addendum</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1XxAIGFgarge5kuIE1lkdPwnObFEvhiPr/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1XxAIGFgarge5kuIE1lkdPwnObFEvhiPr/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Internship information (dates, contract to sign, convention de stage, etc)</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1jWh5vLzaoXZjAd2RPMEfEcV3__xmJi_v/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1jWh5vLzaoXZjAd2RPMEfEcV3__xmJi_v/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -27,4 +49,8 @@ Job and internship offers are no longer posted here. Make sure you join the Link
 ## References
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

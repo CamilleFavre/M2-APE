@@ -1,6 +1,11 @@
-# Economics of Public Intervention
+---
+layout: default
+title: Economics of Public Intervention
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/72*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Economics of Public Intervention
 
 ## Introduction
 
@@ -8,7 +13,12 @@
 
 ## General Documents
 
-- [Syllabus 2025](https://drive.google.com/file/d/1nz9rwH7Hr7zV3KKheIiy6_5y5rD9aihK/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus 2025</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1nz9rwH7Hr7zV3KKheIiy6_5y5rD9aihK/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1nz9rwH7Hr7zV3KKheIiy6_5y5rD9aihK/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -41,7 +51,12 @@ Nov 12: Choné, P. and S. Gauthier, (2017), Optimal rationing within a heterogen
 Dec 2: Myerson's MOR 1981 theorem, Section 6, pages 68-69.
 Dec 3: Condorelli, 2013, Games and Economic Behavior
 
-- [Optimal rationing within a heterogeneous population](https://drive.google.com/file/d/1rm0jYXXVc7G6bBzPcLNtUhLzYb8HQIJI/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Optimal rationing within a heterogeneous population</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1rm0jYXXVc7G6bBzPcLNtUhLzYb8HQIJI/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1rm0jYXXVc7G6bBzPcLNtUhLzYb8HQIJI/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Part #1
 
@@ -49,12 +64,28 @@ Exact dates to be confirmed.
 
 ## Lecture 1 - Part 1: Regulation
 
-- [Document 1](https://drive.google.com/file/d/1sQOFneqHsaiRCSkebEiVMtL3izhY14we/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Document 1</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1sQOFneqHsaiRCSkebEiVMtL3izhY14we/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1sQOFneqHsaiRCSkebEiVMtL3izhY14we/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 2 - Part 2: Deregulation
 
-- [Document 1](https://drive.google.com/file/d/1XT_iGquB2D6jyshl2LI03yMtIbzao0yi/view)
-- [Example: Airline competition](https://drive.google.com/file/d/1MJ8W3TBWi5jxaVb5y_KpIsB-aAoff1uz/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Document 1</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1XT_iGquB2D6jyshl2LI03yMtIbzao0yi/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1XT_iGquB2D6jyshl2LI03yMtIbzao0yi/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Example: Airline competition</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1MJ8W3TBWi5jxaVb5y_KpIsB-aAoff1uz/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1MJ8W3TBWi5jxaVb5y_KpIsB-aAoff1uz/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 3 - Part 3: Auctions
 
@@ -77,6 +108,21 @@ Montes, C. P. (2013). Regulatory bias in the price structure of local telephone 
 Ng C.K. and P. Seabright. Competition, Privatization, and Productive efficiency: Evidence from the Airline Industry. The Economic Journal, vol. 111 (2001), pp. 591-619.
 Paarsch, H. J. (1992). Deciding between the common and private value paradigms in empirical models of auctions. Journal of econometrics, 51(1-2), 191-215.
 
-- [Document 1](https://drive.google.com/file/d/1LYc9hXUjTarkEpIHuj_9K0ztMMBt91L3/view)
-- [Example: Drugs in Italy](https://drive.google.com/file/d/1gVfYtf7bkp1xPP3OWFrAhHK2_80E2CH-/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Document 1</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1LYc9hXUjTarkEpIHuj_9K0ztMMBt91L3/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1LYc9hXUjTarkEpIHuj_9K0ztMMBt91L3/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Example: Drugs in Italy</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1gVfYtf7bkp1xPP3OWFrAhHK2_80E2CH-/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1gVfYtf7bkp1xPP3OWFrAhHK2_80E2CH-/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

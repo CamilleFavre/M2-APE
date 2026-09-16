@@ -1,6 +1,11 @@
-# Urban Economics
+---
+layout: default
+title: Urban Economics
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/104*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Urban Economics
 
 ## Introduction
 
@@ -8,7 +13,12 @@
 
 ## General Documents
 
-- [Syllabus: Urban Economics](https://drive.google.com/file/d/1_O1t6bh_gBTWEv3rwYKjfYXoPLzNUUZU/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus: Urban Economics</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1_O1t6bh_gBTWEv3rwYKjfYXoPLzNUUZU/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1_O1t6bh_gBTWEv3rwYKjfYXoPLzNUUZU/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -21,35 +31,75 @@ The purpose of this course is to analyze agglomeration and dispersion forces, ur
 
 ## Lecture 1 - Introduction and Stylized facts
 
-- [Course I](https://drive.google.com/file/d/1g5dvtpowXlURztBBVXvql-kD_-F9YZEQ/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Course I</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1g5dvtpowXlURztBBVXvql-kD_-F9YZEQ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1g5dvtpowXlURztBBVXvql-kD_-F9YZEQ/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 2 - Agglomeration Mechanisms
 
-- [Course II](https://drive.google.com/file/d/1Z5sBOXfj5BIsVnM1gWUWWSqAFzv28S9Z/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Course II</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Z5sBOXfj5BIsVnM1gWUWWSqAFzv28S9Z/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Z5sBOXfj5BIsVnM1gWUWWSqAFzv28S9Z/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 3 - Empirics of Agglomeration Economies
 
-- [Course III](https://drive.google.com/file/d/1SAKGC-VMZ3HhUdSIhuRZishObeXbuGjy/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Course III</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1SAKGC-VMZ3HhUdSIhuRZishObeXbuGjy/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1SAKGC-VMZ3HhUdSIhuRZishObeXbuGjy/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 4 - The monocentric city model and its extensions
 
-- [Course IV](https://drive.google.com/file/d/1VBKwrGniejU4qlewmtBNgGCX0Bb28L9d/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Course IV</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1VBKwrGniejU4qlewmtBNgGCX0Bb28L9d/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1VBKwrGniejU4qlewmtBNgGCX0Bb28L9d/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 5 - Within-city empirics
 
-- [Course V](https://drive.google.com/file/d/1WJ6qp3UjcWfBMh_ws9bK2dhQnXRmB_Zz/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Course V</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1WJ6qp3UjcWfBMh_ws9bK2dhQnXRmB_Zz/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1WJ6qp3UjcWfBMh_ws9bK2dhQnXRmB_Zz/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 6 - Spatial equilibrium for a system of cities
 
-- [Course VI](https://drive.google.com/file/d/1mRcFMyr2rjY96tc4n5g_0GNTY8am3qRN/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Course VI</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1mRcFMyr2rjY96tc4n5g_0GNTY8am3qRN/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1mRcFMyr2rjY96tc4n5g_0GNTY8am3qRN/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 7 - Living in cites: benefits, costs and amenities
 
-- [Course VII](https://drive.google.com/file/d/1Ur-95UYsQ7AH8agkDUq0ZHe-8DfgFKqM/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Course VII</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Ur-95UYsQ7AH8agkDUq0ZHe-8DfgFKqM/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Ur-95UYsQ7AH8agkDUq0ZHe-8DfgFKqM/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 8 - Urban Policies
 
-- [Course VIII](https://drive.google.com/file/d/1fbi-3jNSTl4c44BkxQKqi4C21cw1JjL3/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Course VIII</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1fbi-3jNSTl4c44BkxQKqi4C21cw1JjL3/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1fbi-3jNSTl4c44BkxQKqi4C21cw1JjL3/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Tutorials
 
@@ -57,7 +107,12 @@ The purpose of this course is to analyze agglomeration and dispersion forces, ur
 
 ## Essay 2024
 
-- [Essay 2024](https://drive.google.com/file/d/1icu_wcowNLczO1MYoSSYW4CUSyngBZMz/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Essay 2024</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1icu_wcowNLczO1MYoSSYW4CUSyngBZMz/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1icu_wcowNLczO1MYoSSYW4CUSyngBZMz/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## References
 
@@ -72,4 +127,8 @@ Fujita M. (1989), “Urban Economic Theory: Land Use and City Size”, Cambridge
 Glaeser E. (2012), “Triumph of the City: How Our Greatest Invention Makes Us Richer, Smarter, Greener, Healthier, and Happier”, Penguin Books, 352p (very nice stories to explain agglomeration economies).
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

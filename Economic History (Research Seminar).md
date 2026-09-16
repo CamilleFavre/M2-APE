@@ -1,6 +1,11 @@
-# Economic History (Research Seminar)
+---
+layout: default
+title: Economic History (Research Seminar)
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/109*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Economic History (Research Seminar)
 
 ## Introduction
 
@@ -8,8 +13,19 @@
 
 ## General Documents
 
-- [Presentation of the Centre Simiand](https://drive.google.com/file/d/1hXurwEmBfmP_auX4w64_JYLf3V8K74zk/view)
-- [Members of the Economic history Group](https://drive.google.com/file/d/1NfQgzbe9U78gAhK_RTOnLku58l27WgpJ/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Presentation of the Centre Simiand</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1hXurwEmBfmP_auX4w64_JYLf3V8K74zk/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1hXurwEmBfmP_auX4w64_JYLf3V8K74zk/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Members of the Economic history Group</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1NfQgzbe9U78gAhK_RTOnLku58l27WgpJ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1NfQgzbe9U78gAhK_RTOnLku58l27WgpJ/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -28,4 +44,8 @@ The main topics of research
 ## References
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

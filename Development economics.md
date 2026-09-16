@@ -1,6 +1,11 @@
-# Development economics
+---
+layout: default
+title: Development economics
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/33*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Development economics
 
 ## Introduction
 
@@ -8,8 +13,19 @@
 
 ## General Documents
 
-- [Syllabus](https://drive.google.com/file/d/1xBLzsOCH8ZJ7c05iaFuR-T2mk50v0d22/view)
-- [Correction of final exam](https://drive.google.com/file/d/19fjvVgGIwZ2todm8D7267fAqYn8L5xaC/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1xBLzsOCH8ZJ7c05iaFuR-T2mk50v0d22/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1xBLzsOCH8ZJ7c05iaFuR-T2mk50v0d22/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Correction of final exam</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/19fjvVgGIwZ2todm8D7267fAqYn8L5xaC/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/19fjvVgGIwZ2todm8D7267fAqYn8L5xaC/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -31,43 +47,169 @@ The final exam is a 2 hours written exam, with documents and computer allowed. C
 
 ## Lecture 1 - Introduction; Poverty
 
-- [Introduction](https://drive.google.com/file/d/1m-4pUX7NzbjEuQB5zHXPRp3SYQ8c1gPB/view)
-- [Poverty](https://drive.google.com/file/d/1_6O3vsEspKMIhb0umWitedks5miGO-ry/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Introduction</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1m-4pUX7NzbjEuQB5zHXPRp3SYQ8c1gPB/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1m-4pUX7NzbjEuQB5zHXPRp3SYQ8c1gPB/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Poverty</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1_6O3vsEspKMIhb0umWitedks5miGO-ry/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1_6O3vsEspKMIhb0umWitedks5miGO-ry/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 2 - Inequality
 
-- [Paper to read](https://drive.google.com/file/d/1CN_lPHGPMjBe0D5Yp5Pe9TKZb5Kk9IYj/view)
-- [Questions on the paper](https://drive.google.com/file/d/1tNeFuRWevMusLD-VTrTQ3GrOoTgJAHbE/view)
-- [Inequality](https://drive.google.com/file/d/1STTFjkUpKetP9k4hekncC4XUSC-ZTDm8/view)
-- [Poverty and inequality references](https://drive.google.com/file/d/1uV2YmXecOfvJRWX4xU9ozRFt4VCiNm9v/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Paper to read</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1CN_lPHGPMjBe0D5Yp5Pe9TKZb5Kk9IYj/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1CN_lPHGPMjBe0D5Yp5Pe9TKZb5Kk9IYj/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Questions on the paper</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1tNeFuRWevMusLD-VTrTQ3GrOoTgJAHbE/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1tNeFuRWevMusLD-VTrTQ3GrOoTgJAHbE/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Inequality</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1STTFjkUpKetP9k4hekncC4XUSC-ZTDm8/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1STTFjkUpKetP9k4hekncC4XUSC-ZTDm8/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Poverty and inequality references</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1uV2YmXecOfvJRWX4xU9ozRFt4VCiNm9v/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1uV2YmXecOfvJRWX4xU9ozRFt4VCiNm9v/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 3 - Population
 
-- [Population](https://drive.google.com/file/d/1lHU-h-pn0j-VQ2QOveFC-m1xbJa5vH2c/view)
-- [Population: reference list](https://drive.google.com/file/d/1O0IcYQa4mqT6Eyujg-X9_Kjl6mf9YfaH/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Population</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1lHU-h-pn0j-VQ2QOveFC-m1xbJa5vH2c/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1lHU-h-pn0j-VQ2QOveFC-m1xbJa5vH2c/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Population: reference list</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1O0IcYQa4mqT6Eyujg-X9_Kjl6mf9YfaH/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1O0IcYQa4mqT6Eyujg-X9_Kjl6mf9YfaH/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 4 - Households; intra-household allocation of resources.
 
-- [paper to be read](https://drive.google.com/file/d/1NvCxbmeCRJypd2yCx0IXEUbHvNAgMLxN/view)
-- [Questions on the paper](https://drive.google.com/file/d/1mDQajAIbigxKIC5wN3VndqzxghFT7DKP/view)
-- [Households, reference list](https://drive.google.com/file/d/1c9gXrz70qLHubd8bJLwN-62DjbGp3SSW/view)
-- [Households](https://drive.google.com/file/d/1wde009DkYbo6WVFWat7kQhRUmolVvtdG/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>paper to be read</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1NvCxbmeCRJypd2yCx0IXEUbHvNAgMLxN/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1NvCxbmeCRJypd2yCx0IXEUbHvNAgMLxN/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Questions on the paper</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1mDQajAIbigxKIC5wN3VndqzxghFT7DKP/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1mDQajAIbigxKIC5wN3VndqzxghFT7DKP/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Households, reference list</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1c9gXrz70qLHubd8bJLwN-62DjbGp3SSW/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1c9gXrz70qLHubd8bJLwN-62DjbGp3SSW/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Households</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1wde009DkYbo6WVFWat7kQhRUmolVvtdG/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1wde009DkYbo6WVFWat7kQhRUmolVvtdG/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 5 - Human Capital
 
-- [Paper to read](https://drive.google.com/file/d/1d8lJ4cdymIEoUUh14lcbnf9tbu4dfW_v/view)
-- [Questions](https://drive.google.com/file/d/1WLo8WLxv8SnxEuWQltcWAFi4gOPArZoi/view)
-- [Education and Health](https://drive.google.com/file/d/1oOgUcLwKO5MMlzgZSFOP34q0vkKxFzYW/view)
-- [list of references - education and health](https://drive.google.com/file/d/1SBO-4PUch_-Mdpghx6ULdatxirS2GfbR/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Paper to read</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1d8lJ4cdymIEoUUh14lcbnf9tbu4dfW_v/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1d8lJ4cdymIEoUUh14lcbnf9tbu4dfW_v/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Questions</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1WLo8WLxv8SnxEuWQltcWAFi4gOPArZoi/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1WLo8WLxv8SnxEuWQltcWAFi4gOPArZoi/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Education and Health</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1oOgUcLwKO5MMlzgZSFOP34q0vkKxFzYW/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1oOgUcLwKO5MMlzgZSFOP34q0vkKxFzYW/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>list of references - education and health</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1SBO-4PUch_-Mdpghx6ULdatxirS2GfbR/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1SBO-4PUch_-Mdpghx6ULdatxirS2GfbR/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 6 - Technology adoption; Property rights
 
-- [Paper to read](https://drive.google.com/file/d/1vmQq5OFsAGOTxYxeAja53oa7i22C3TD6/view)
-- [questions on the paper](https://drive.google.com/file/d/1fiW8S9kL8OCmA1Zhw-yi380RH2wIA7QE/view)
-- [list of references - technology adoption](https://drive.google.com/file/d/14EQCoy4U-rTGm8V1QUOS7CBsPHiu1hEe/view)
-- [technology adoption](https://drive.google.com/file/d/129Gk674--Sj_iyXhcPeYpxEKfiYN2czw/view)
-- [Land property rights](https://drive.google.com/file/d/1jhG8J7JKAY9HYwSky7ogdbNHQJoNed8i/view)
-- [list of references Land](https://drive.google.com/file/d/1aptx44IsvERkgEUJGZ6rU2sQI50aGysK/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Paper to read</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1vmQq5OFsAGOTxYxeAja53oa7i22C3TD6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1vmQq5OFsAGOTxYxeAja53oa7i22C3TD6/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>questions on the paper</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1fiW8S9kL8OCmA1Zhw-yi380RH2wIA7QE/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1fiW8S9kL8OCmA1Zhw-yi380RH2wIA7QE/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>list of references - technology adoption</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/14EQCoy4U-rTGm8V1QUOS7CBsPHiu1hEe/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/14EQCoy4U-rTGm8V1QUOS7CBsPHiu1hEe/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>technology adoption</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/129Gk674--Sj_iyXhcPeYpxEKfiYN2czw/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/129Gk674--Sj_iyXhcPeYpxEKfiYN2czw/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Land property rights</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1jhG8J7JKAY9HYwSky7ogdbNHQJoNed8i/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1jhG8J7JKAY9HYwSky7ogdbNHQJoNed8i/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>list of references Land</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1aptx44IsvERkgEUJGZ6rU2sQI50aGysK/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1aptx44IsvERkgEUJGZ6rU2sQI50aGysK/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 7 - Credit and Insurance
 
@@ -80,10 +222,33 @@ BREAD: A useful source of good working papers and links to micro datasets for de
 VoxDev : https://voxdev.org/
 Nice maps: https://worldmapper.org/
 
-- [questions to prepare](https://drive.google.com/file/d/12PaGCj1Ac_TJm2I1DOdvZisJTK5U5_R6/view)
-- [Paper to read](https://drive.google.com/file/d/1WVPkbXxwpwS4kRoVdBzISzb1bvTSBU4Q/view)
-- [Credit and Insurance](https://drive.google.com/file/d/1e6GELKD4TyrQBt8g39OUFYlJuR_EJ68b/view)
-- [reference list.](https://drive.google.com/file/d/1D4wxHsZMkQA7BVVxrI7jRgxMfmgcAnrb/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>questions to prepare</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/12PaGCj1Ac_TJm2I1DOdvZisJTK5U5_R6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/12PaGCj1Ac_TJm2I1DOdvZisJTK5U5_R6/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Paper to read</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1WVPkbXxwpwS4kRoVdBzISzb1bvTSBU4Q/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1WVPkbXxwpwS4kRoVdBzISzb1bvTSBU4Q/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Credit and Insurance</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1e6GELKD4TyrQBt8g39OUFYlJuR_EJ68b/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1e6GELKD4TyrQBt8g39OUFYlJuR_EJ68b/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>reference list.</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1D4wxHsZMkQA7BVVxrI7jRgxMfmgcAnrb/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1D4wxHsZMkQA7BVVxrI7jRgxMfmgcAnrb/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Part #2
 
@@ -92,39 +257,160 @@ Nice maps: https://worldmapper.org/
 
 ## Lecture 1 - Introduction to the 2nd part. - Growth
 
-- [1_introduction to part2](https://drive.google.com/file/d/1LRbP1_wyZWZaMzXZmRhPDasmtq3UoSIZ/view)
-- [2_growth](https://drive.google.com/file/d/16nLF0wzvi1kT9cSUvqvDhMUqJ5eWdogU/view)
-- [ref1_growth](https://drive.google.com/file/d/1VJuhNbvHjKjhQCodo9E65RpafArkF8rN/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>1_introduction to part2</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1LRbP1_wyZWZaMzXZmRhPDasmtq3UoSIZ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1LRbP1_wyZWZaMzXZmRhPDasmtq3UoSIZ/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>2_growth</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/16nLF0wzvi1kT9cSUvqvDhMUqJ5eWdogU/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/16nLF0wzvi1kT9cSUvqvDhMUqJ5eWdogU/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>ref1_growth</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1VJuhNbvHjKjhQCodo9E65RpafArkF8rN/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1VJuhNbvHjKjhQCodo9E65RpafArkF8rN/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 2 - Foreign flows
 
-- [paper_yang](https://drive.google.com/file/d/1tU8n55-kt5_HFtd4n04upvuPc-HziEH7/view)
-- [prepare_for_lecture_1511](https://drive.google.com/file/d/1MJLXl1jATqpQMw8FIWsRL_BucvyVSKUP/view)
-- [3_foreign flows](https://drive.google.com/file/d/1zNX9T7K6r0xeyuGF9IO4VBCB6yPpTnWE/view)
-- [4_foreign aid](https://drive.google.com/file/d/1Qi_ICtYVn8Vx5x-AmAbQ-zwA2hOU0TlG/view)
-- [ref2_foreign flows](https://drive.google.com/file/d/1YOyJI-AJwo9liq6VGjDo7Ts40OJtcGME/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>paper_yang</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1tU8n55-kt5_HFtd4n04upvuPc-HziEH7/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1tU8n55-kt5_HFtd4n04upvuPc-HziEH7/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>prepare_for_lecture_1511</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1MJLXl1jATqpQMw8FIWsRL_BucvyVSKUP/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1MJLXl1jATqpQMw8FIWsRL_BucvyVSKUP/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>3_foreign flows</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1zNX9T7K6r0xeyuGF9IO4VBCB6yPpTnWE/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1zNX9T7K6r0xeyuGF9IO4VBCB6yPpTnWE/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>4_foreign aid</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Qi_ICtYVn8Vx5x-AmAbQ-zwA2hOU0TlG/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Qi_ICtYVn8Vx5x-AmAbQ-zwA2hOU0TlG/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>ref2_foreign flows</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1YOyJI-AJwo9liq6VGjDo7Ts40OJtcGME/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1YOyJI-AJwo9liq6VGjDo7Ts40OJtcGME/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 3 - Structural changes
 
-- [Bustos](https://drive.google.com/file/d/1_y3DiirdGIgz6F0QcIIf9naL3wUKMNp9/view)
-- [Bustos appendix](https://drive.google.com/file/d/1a7NzmTAXmudnLxDQuUAxmlI5wouz7pa6/view)
-- [Prepare for Nov22](https://drive.google.com/file/d/11ROXXyOsyk9rLVyoGFgbAVNTaAeUHaNM/view)
-- [4_structural change](https://drive.google.com/file/d/1dDQclLt_kKf_oPN2QLsRODdMwQbdlFf5/view)
-- [ref3_structural changes](https://drive.google.com/file/d/1IFDVLWzMP626aLyZoHvj-nJU5RnxWUVJ/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bustos</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1_y3DiirdGIgz6F0QcIIf9naL3wUKMNp9/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1_y3DiirdGIgz6F0QcIIf9naL3wUKMNp9/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bustos appendix</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1a7NzmTAXmudnLxDQuUAxmlI5wouz7pa6/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1a7NzmTAXmudnLxDQuUAxmlI5wouz7pa6/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Prepare for Nov22</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/11ROXXyOsyk9rLVyoGFgbAVNTaAeUHaNM/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/11ROXXyOsyk9rLVyoGFgbAVNTaAeUHaNM/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>4_structural change</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1dDQclLt_kKf_oPN2QLsRODdMwQbdlFf5/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1dDQclLt_kKf_oPN2QLsRODdMwQbdlFf5/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>ref3_structural changes</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1IFDVLWzMP626aLyZoHvj-nJU5RnxWUVJ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1IFDVLWzMP626aLyZoHvj-nJU5RnxWUVJ/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 4 - Firms
 
-- [Prepare for Nov29](https://drive.google.com/file/d/1OGa1LmpzbR5-d4rap0Dfy0qG_EB_ICnx/view)
-- [Banerjee Duflo](https://drive.google.com/file/d/1q6j3N5OS4Q4soTWDEYGfb7U0ZxV7kjDO/view)
-- [5_firms](https://drive.google.com/file/d/1qaOFCwk5JdcYwFZRILLaKVMWUfj94V4t/view)
-- [ref4_firms](https://drive.google.com/file/d/1loygu-oPIGXMA4ZSF_V6cD6fvEx7Cbe8/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Prepare for Nov29</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1OGa1LmpzbR5-d4rap0Dfy0qG_EB_ICnx/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1OGa1LmpzbR5-d4rap0Dfy0qG_EB_ICnx/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Banerjee Duflo</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1q6j3N5OS4Q4soTWDEYGfb7U0ZxV7kjDO/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1q6j3N5OS4Q4soTWDEYGfb7U0ZxV7kjDO/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>5_firms</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1qaOFCwk5JdcYwFZRILLaKVMWUfj94V4t/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1qaOFCwk5JdcYwFZRILLaKVMWUfj94V4t/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>ref4_firms</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1loygu-oPIGXMA4ZSF_V6cD6fvEx7Cbe8/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1loygu-oPIGXMA4ZSF_V6cD6fvEx7Cbe8/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 5 - Trade
 
-- [Prepare for Dec6](https://drive.google.com/file/d/1vdwwAgI4eiApR2eXszM9d5VqzbysBygl/view)
-- [China](https://drive.google.com/file/d/1SqCXsc2Qh1p60fwbENlBl6w_yqmI1bPs/view)
-- [ref6_trade_ref7_trade_and_inequality](https://drive.google.com/file/d/1QuFcWXdRubjTnsBnPuTep-5IBrVxNl6U/view)
-- [6_trade](https://drive.google.com/file/d/1EptPKwP-3m5yJr2eqxlUEYqybZT7kWH_/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Prepare for Dec6</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1vdwwAgI4eiApR2eXszM9d5VqzbysBygl/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1vdwwAgI4eiApR2eXszM9d5VqzbysBygl/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>China</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1SqCXsc2Qh1p60fwbENlBl6w_yqmI1bPs/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1SqCXsc2Qh1p60fwbENlBl6w_yqmI1bPs/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>ref6_trade_ref7_trade_and_inequality</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1QuFcWXdRubjTnsBnPuTep-5IBrVxNl6U/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1QuFcWXdRubjTnsBnPuTep-5IBrVxNl6U/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>6_trade</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1EptPKwP-3m5yJr2eqxlUEYqybZT7kWH_/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1EptPKwP-3m5yJr2eqxlUEYqybZT7kWH_/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 6 - Trade and inequality - Political economy of reforms
 
@@ -133,9 +419,42 @@ E. Sadoulet et A. de Janvry (2015) : Development Economics: Theory and practice 
 Soderbom, M., Teal F., with M. Eberhardt, S. Quinn, A. Zeitlin (2015), Empirical Development Economics, Routledge.
 VoxDev : https://voxdev.org/
 
-- [Prepare for Dec12](https://drive.google.com/file/d/1RqGO-Mw4ft4qGHp3eJASCweAixksTHf-/view)
-- [burgess](https://drive.google.com/file/d/1taNcZQNcIlZ1qiV-TOzWRbS6dI159Is5/view)
-- [7_trade and inequality](https://drive.google.com/file/d/1xDWhnOZ2uBatW4KoKnbqsIr52LWj5Vml/view)
-- [8_political economy of reform](https://drive.google.com/file/d/1_-WQI-EUNB36QW9aPn9o7iGn05MGIeey/view)
-- [ref8_feasibility_of_reforms](https://drive.google.com/file/d/1KwTrzwOK_Hh-hDc10duxGbbHgIig-DPR/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Prepare for Dec12</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1RqGO-Mw4ft4qGHp3eJASCweAixksTHf-/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1RqGO-Mw4ft4qGHp3eJASCweAixksTHf-/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>burgess</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1taNcZQNcIlZ1qiV-TOzWRbS6dI159Is5/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1taNcZQNcIlZ1qiV-TOzWRbS6dI159Is5/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>7_trade and inequality</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1xDWhnOZ2uBatW4KoKnbqsIr52LWj5Vml/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1xDWhnOZ2uBatW4KoKnbqsIr52LWj5Vml/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>8_political economy of reform</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1_-WQI-EUNB36QW9aPn9o7iGn05MGIeey/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1_-WQI-EUNB36QW9aPn9o7iGn05MGIeey/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>ref8_feasibility_of_reforms</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1KwTrzwOK_Hh-hDc10duxGbbHgIig-DPR/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1KwTrzwOK_Hh-hDc10duxGbbHgIig-DPR/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

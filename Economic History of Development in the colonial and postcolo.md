@@ -1,6 +1,11 @@
-# Economic History of Development in the colonial and postcolonial eras
+---
+layout: default
+title: Economic History of Development in the colonial and postcolonial eras
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/36*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Economic History of Development in the colonial and postcolonial eras
 
 ## Introduction
 
@@ -8,7 +13,12 @@
 
 ## General Documents
 
-- [EHD Syllabus 2025](https://drive.google.com/file/d/1IHfhBpwErPGktbHWKxT9YFgW6VG_bgqC/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>EHD Syllabus 2025</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1IHfhBpwErPGktbHWKxT9YFgW6VG_bgqC/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1IHfhBpwErPGktbHWKxT9YFgW6VG_bgqC/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -22,46 +32,152 @@ About evaluation, see the syllabus.
 
 ## Lecture 1 - Economic History of Development
 
-- [EHD Slides 1](https://drive.google.com/file/d/15hTqds_Qq8MQHXotg2N2a_LEbCgISGC0/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>EHD Slides 1</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/15hTqds_Qq8MQHXotg2N2a_LEbCgISGC0/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/15hTqds_Qq8MQHXotg2N2a_LEbCgISGC0/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 2 - Institutions. Settlement Colonialism. Divergence of the Americas
 
-- [EHD Slides 2](https://drive.google.com/file/d/1G26J8mKfIj3WFluc-fS4grueeS_JwNkD/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>EHD Slides 2</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1G26J8mKfIj3WFluc-fS4grueeS_JwNkD/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1G26J8mKfIj3WFluc-fS4grueeS_JwNkD/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 3 - Precolonial conditions. Agriculture. Origins of States
 
-- [Kerby-Moradi-Odendaal_Africa](https://drive.google.com/file/d/1JPnB2uA9Xw2PTKq97MBWwhMgKs6ajLhT/view)
-- [EHD Slides 3](https://drive.google.com/file/d/1BNRZtK53wqTBTR09gc8r0jjwfbCQLZrl/view)
-- [KMO_RR](https://drive.google.com/file/d/1Zz9JIZRTRLD5_E0Yl4Iq-8uNCwqWglx2/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Kerby-Moradi-Odendaal_Africa</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1JPnB2uA9Xw2PTKq97MBWwhMgKs6ajLhT/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1JPnB2uA9Xw2PTKq97MBWwhMgKs6ajLhT/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>EHD Slides 3</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1BNRZtK53wqTBTR09gc8r0jjwfbCQLZrl/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1BNRZtK53wqTBTR09gc8r0jjwfbCQLZrl/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>KMO_RR</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Zz9JIZRTRLD5_E0Yl4Iq-8uNCwqWglx2/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Zz9JIZRTRLD5_E0Yl4Iq-8uNCwqWglx2/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 4 - Colonialism Before and After Industrial Revolution
 
-- [Caum-Julio_India](https://drive.google.com/file/d/1lGv8LSc_bI6eHRCatA1k9j5_ZKoH5-2T/view)
-- [EHD4 Slides](https://drive.google.com/file/d/16yL4mCvot-j2vnd2_sDqgZ67WYiaphVE/view)
-- [Review Caum-Julio](https://drive.google.com/file/d/1zG_AOAzGEUlxCtrKGKvI0he0aKJPmPyx/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Caum-Julio_India</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1lGv8LSc_bI6eHRCatA1k9j5_ZKoH5-2T/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1lGv8LSc_bI6eHRCatA1k9j5_ZKoH5-2T/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>EHD4 Slides</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/16yL4mCvot-j2vnd2_sDqgZ67WYiaphVE/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/16yL4mCvot-j2vnd2_sDqgZ67WYiaphVE/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Review Caum-Julio</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1zG_AOAzGEUlxCtrKGKvI0he0aKJPmPyx/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1zG_AOAzGEUlxCtrKGKvI0he0aKJPmPyx/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 5 - Colonial states. Differences between colonizers
 
-- [Artunç-Saleh_Egypt](https://drive.google.com/file/d/1oNBIiR-TAID4zJj9ujPlIQrKpktQvzcV/view)
-- [Review Artunç-Saleh](https://drive.google.com/file/d/1Naq2mHbtSDLB6jLRGOmqYTrQs6QN6Cee/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Artunç-Saleh_Egypt</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1oNBIiR-TAID4zJj9ujPlIQrKpktQvzcV/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1oNBIiR-TAID4zJj9ujPlIQrKpktQvzcV/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Review Artunç-Saleh</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Naq2mHbtSDLB6jLRGOmqYTrQs6QN6Cee/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Naq2mHbtSDLB6jLRGOmqYTrQs6QN6Cee/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 6 - Colonial and postcolonial states: Fiscal and productive capacity
 
-- [Bharti-Yang_China-India](https://drive.google.com/file/d/13WZPYdGmR9tOB5sy2rzRHELSvi7JAKFA/view)
-- [EHD5 Slides](https://drive.google.com/file/d/1UfGG-uZ2k0ezW2uKqT-XPGU300cxHNdh/view)
-- [Review_Barthi_Yang](https://drive.google.com/file/d/1jUN5VPLcPh5jpC1QQc1DV1ga9O1DR19L/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bharti-Yang_China-India</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/13WZPYdGmR9tOB5sy2rzRHELSvi7JAKFA/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/13WZPYdGmR9tOB5sy2rzRHELSvi7JAKFA/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>EHD5 Slides</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1UfGG-uZ2k0ezW2uKqT-XPGU300cxHNdh/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1UfGG-uZ2k0ezW2uKqT-XPGU300cxHNdh/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Review_Barthi_Yang</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1jUN5VPLcPh5jpC1QQc1DV1ga9O1DR19L/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1jUN5VPLcPh5jpC1QQc1DV1ga9O1DR19L/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 7 - Colonial and postcolonial states: development and inequality
 
-- [Simson_Kenya](https://drive.google.com/file/d/1ZSafUP9M8REBJdagzrJV3LjfCPnI7Ft4/view)
-- [EHD Slides 6](https://drive.google.com/file/d/1K8TSwrAeIC7AX0g-niBQ4Q9yIhruxqxL/view)
-- [Review Simson](https://drive.google.com/file/d/174TocpZnRYLHrRWjT-H05kuzfnk17uIz/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Simson_Kenya</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1ZSafUP9M8REBJdagzrJV3LjfCPnI7Ft4/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1ZSafUP9M8REBJdagzrJV3LjfCPnI7Ft4/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>EHD Slides 6</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1K8TSwrAeIC7AX0g-niBQ4Q9yIhruxqxL/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1K8TSwrAeIC7AX0g-niBQ4Q9yIhruxqxL/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Review Simson</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/174TocpZnRYLHrRWjT-H05kuzfnk17uIz/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/174TocpZnRYLHrRWjT-H05kuzfnk17uIz/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 8 - Postcolonial development and inequality
 
-- [Müller-Crepon_Ethnic-Voting-Africa](https://drive.google.com/file/d/1gRbSrGsswUD2a6e6lou5kY3R0LQQMGWv/view)
-- [EHD8 Slides](https://drive.google.com/file/d/1oTj0_QOoWVwgmxsZNbiBJfEdCtuxqec8/view)
-- [Review Muller-Crepon](https://drive.google.com/file/d/1OuJ5NGY-HiC8dE6bsjc5Gvqszv3fkiGT/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Müller-Crepon_Ethnic-Voting-Africa</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1gRbSrGsswUD2a6e6lou5kY3R0LQQMGWv/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1gRbSrGsswUD2a6e6lou5kY3R0LQQMGWv/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>EHD8 Slides</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1oTj0_QOoWVwgmxsZNbiBJfEdCtuxqec8/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1oTj0_QOoWVwgmxsZNbiBJfEdCtuxqec8/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Review Muller-Crepon</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1OuJ5NGY-HiC8dE6bsjc5Gvqszv3fkiGT/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1OuJ5NGY-HiC8dE6bsjc5Gvqszv3fkiGT/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Tutorials
 
@@ -70,4 +186,8 @@ About evaluation, see the syllabus.
 ## References
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

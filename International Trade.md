@@ -1,6 +1,11 @@
-# International Trade
+---
+layout: default
+title: International Trade
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/147*
+[⬅️ Retour à la liste des cours](index.html)
+
+# International Trade
 
 ## Introduction
 
@@ -8,7 +13,12 @@
 
 ## General Documents
 
-- [Syllabus 2025 - 2026](https://teaching.parisschoolofeconomics.eu/docs/GLOBALP-115/Syllabus AIT 2025 2026.pdf)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus 2025 - 2026</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://teaching.parisschoolofeconomics.eu/docs/GLOBALP-115/Syllabus AIT 2025 2026.pdf" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://teaching.parisschoolofeconomics.eu/docs/GLOBALP-115/Syllabus AIT 2025 2026.pdf" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -27,17 +37,32 @@ Maria Bas: https://sites.google.com/site/basmaria80/
 
 ## Final Exam January 2022
 
-- [Final Exam January 2022](https://drive.google.com/file/d/1aG6sJW2Xjn6FokvxNOaCCBmoFUNIp9IH/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Final Exam January 2022</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1aG6sJW2Xjn6FokvxNOaCCBmoFUNIp9IH/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1aG6sJW2Xjn6FokvxNOaCCBmoFUNIp9IH/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Final Exam January 2023
 
-- [Final Exam January 2023](https://drive.google.com/file/d/1Pbtrw8sMc-zKD5DWKiqdG5bFROvo0zLo/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Final Exam January 2023</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Pbtrw8sMc-zKD5DWKiqdG5bFROvo0zLo/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Pbtrw8sMc-zKD5DWKiqdG5bFROvo0zLo/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Part #1
 
 ## Lecture 1 - Complementary material - Homotheticity and aggregation by M. Melitz
 
-- [Homothetic](https://drive.google.com/file/d/1U2EjNAYpvLXc64m-Flmy7mJJrIjR4_ch/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Homothetic</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1U2EjNAYpvLXc64m-Flmy7mJJrIjR4_ch/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1U2EjNAYpvLXc64m-Flmy7mJJrIjR4_ch/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Tutorial 1 - Assignment from 2023-2024
 
@@ -63,4 +88,8 @@ Lecture 3:
 -Amiti, M. & Davis, D. (2012). Trade, Firms, and Wages: Theory and Evidence, Review of Economic Studies, vol. 79(1) 1 -36.
 - McCaig, B. and Pavcnik, N., 2018, Export Markets and Labor Allocation in a Low-Income Country, American Economic Review.
 - Bas, M. and C. Paunov (2021), Input quality and skills are complementary and increase output quality: Causal evidence from Ecuador’s trade liberalization, Journal of Development Economics.
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

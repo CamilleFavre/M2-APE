@@ -1,6 +1,11 @@
-# Health Economics - Pierre Yves GEOFFARD & Fabrice ETILE part
+---
+layout: default
+title: Health Economics - Pierre Yves GEOFFARD & Fabrice ETILE part
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/261*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Health Economics - Pierre Yves GEOFFARD & Fabrice ETILE part
 
 ## Introduction
 
@@ -8,11 +13,40 @@
 
 ## General Documents
 
-- [Murtin_etal2017](https://teaching.parisschoolofeconomics.eu/docs/ddd/Murtin_etal2017.pdf)
-- [Bohacek_etal2018](https://drive.google.com/file/d/1kbY3IOOkbxD9C7kEYchBNtpUUCsp4rV_/view)
-- [CaseDeaton2017](https://drive.google.com/file/d/1d25szJpG6JISdavRrD7WQpqBvzPtCcGk/view)
-- [Blanpain2017](https://drive.google.com/file/d/1DHPrHgoqZ95jCdPJzYBJV0JvNeY3BUF1/view)
-- [Miller_etal2024](https://drive.google.com/file/d/1Wzkh64l_DmER0PIapb-yOZBzT_UtLF9Z/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Murtin_etal2017</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://teaching.parisschoolofeconomics.eu/docs/ddd/Murtin_etal2017.pdf" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://teaching.parisschoolofeconomics.eu/docs/ddd/Murtin_etal2017.pdf" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bohacek_etal2018</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1kbY3IOOkbxD9C7kEYchBNtpUUCsp4rV_/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1kbY3IOOkbxD9C7kEYchBNtpUUCsp4rV_/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>CaseDeaton2017</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1d25szJpG6JISdavRrD7WQpqBvzPtCcGk/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1d25szJpG6JISdavRrD7WQpqBvzPtCcGk/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Blanpain2017</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1DHPrHgoqZ95jCdPJzYBJV0JvNeY3BUF1/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1DHPrHgoqZ95jCdPJzYBJV0JvNeY3BUF1/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Miller_etal2024</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Wzkh64l_DmER0PIapb-yOZBzT_UtLF9Z/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Wzkh64l_DmER0PIapb-yOZBzT_UtLF9Z/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -35,54 +69,227 @@ Tuesday Dec 3,
 
 ## Lecture 1 - Introduction
 
-- [Lecture 1 : The mortality gradient](https://drive.google.com/file/d/1YG03lFKQZUQIRssyLVUhCuE5QbY157fL/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 1 : The mortality gradient</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1YG03lFKQZUQIRssyLVUhCuE5QbY157fL/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1YG03lFKQZUQIRssyLVUhCuE5QbY157fL/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 2 - Morbidity
 
-- [Lecture 2](https://drive.google.com/file/d/1-sei4-ZLzOux4h2IFCjPgyNK350w8iSU/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 2</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1-sei4-ZLzOux4h2IFCjPgyNK350w8iSU/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1-sei4-ZLzOux4h2IFCjPgyNK350w8iSU/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 3 - Towards causality (?) / children
 
-- [Week 3 lectures : children](https://drive.google.com/file/d/1U_BWwUnnx19ydZXWhXc59xBAAIVlwHs0/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Week 3 lectures : children</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1U_BWwUnnx19ydZXWhXc59xBAAIVlwHs0/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1U_BWwUnnx19ydZXWhXc59xBAAIVlwHs0/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 4 - Epidemics
 
-- [Week 4 : epidemics](https://drive.google.com/file/d/1P94Mx9du0i9KGAOiSUqoUujZ5vvUqAUG/view)
-- [Covid Inequalities](https://drive.google.com/file/d/14HfAXcLGkipe-r1sZq38Cnvniap_mrZm/view)
-- [Covid Testing Ineq (Results)](https://drive.google.com/file/d/1EKfm_pEoNGAW1tOGd_6LTdy1cSTYjoOX/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Week 4 : epidemics</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1P94Mx9du0i9KGAOiSUqoUujZ5vvUqAUG/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1P94Mx9du0i9KGAOiSUqoUujZ5vvUqAUG/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Covid Inequalities</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/14HfAXcLGkipe-r1sZq38Cnvniap_mrZm/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/14HfAXcLGkipe-r1sZq38Cnvniap_mrZm/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Covid Testing Ineq (Results)</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1EKfm_pEoNGAW1tOGd_6LTdy1cSTYjoOX/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1EKfm_pEoNGAW1tOGd_6LTdy1cSTYjoOX/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 5 - Aging
 
-- [Healthy Ageing](https://drive.google.com/file/d/1Ec26Gj_GHAH8pRUmeZxZn9a0MhjD-jZ0/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Healthy Ageing</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Ec26Gj_GHAH8pRUmeZxZn9a0MhjD-jZ0/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Ec26Gj_GHAH8pRUmeZxZn9a0MhjD-jZ0/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 6 - Health production and the demand for health (3H)
 
-- [Syllabus Health production 2024 2025](https://drive.google.com/file/d/1iCbcb4Lb2yPtJqi95axtxGiCIUfK2kgb/view)
-- [Grossman The Human Capital Model 2000 (reboot version)](https://drive.google.com/file/d/1eQ6ASyPC3aLFss_imzC2q90ZznxWdpcN/view)
-- [Berlivet Naissance des grandes campagnes d'éducation pour la santé](https://drive.google.com/file/d/19OzFOLOWdAlpkrzUb3b8f6rgc6igwv2O/view)
-- [Berlivet Ressorts de la biopolitique](https://drive.google.com/file/d/1R6UoNk0SI-llUb8WDvTTatqQUjhjD-pu/view)
-- [Clark et al Education-Health AER 2013](https://drive.google.com/file/d/1u36ZBGUWa2kX4oRauwhPeHHm3GTX24Yc/view)
-- [Davies et al Education-Health Nature Human Behavior 2018](https://drive.google.com/file/d/17UyB2LXARDZ_el4sLyC0R2PrVyT1f30w/view)
-- [Conti et al Education Health AER 2010](https://drive.google.com/file/d/11MLljX7pkXoJQkm0PJPMlU8p3Bg9ulp5/view)
-- [Heckman et al Education Health JPE 2018](https://drive.google.com/file/d/1a5Vo4kNCIADx_uhI0JlnOJnfAFq32VMz/view)
-- [Galama van Kippersluis Theory of SocioEconomic Gradient in Health EJ 2019](https://drive.google.com/file/d/10XKOIFq4Vx-P4v4OSoxf2d-IU5XVjSPx/view)
-- [Slides Lecture Health Production](https://drive.google.com/file/d/1T1A6slLcUCeg0xZbJAfN8X1Swz1tFl-p/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus Health production 2024 2025</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1iCbcb4Lb2yPtJqi95axtxGiCIUfK2kgb/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1iCbcb4Lb2yPtJqi95axtxGiCIUfK2kgb/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Grossman The Human Capital Model 2000 (reboot version)</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1eQ6ASyPC3aLFss_imzC2q90ZznxWdpcN/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1eQ6ASyPC3aLFss_imzC2q90ZznxWdpcN/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Berlivet Naissance des grandes campagnes d'éducation pour la santé</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/19OzFOLOWdAlpkrzUb3b8f6rgc6igwv2O/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/19OzFOLOWdAlpkrzUb3b8f6rgc6igwv2O/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Berlivet Ressorts de la biopolitique</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1R6UoNk0SI-llUb8WDvTTatqQUjhjD-pu/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1R6UoNk0SI-llUb8WDvTTatqQUjhjD-pu/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Clark et al Education-Health AER 2013</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1u36ZBGUWa2kX4oRauwhPeHHm3GTX24Yc/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1u36ZBGUWa2kX4oRauwhPeHHm3GTX24Yc/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Davies et al Education-Health Nature Human Behavior 2018</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/17UyB2LXARDZ_el4sLyC0R2PrVyT1f30w/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/17UyB2LXARDZ_el4sLyC0R2PrVyT1f30w/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Conti et al Education Health AER 2010</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/11MLljX7pkXoJQkm0PJPMlU8p3Bg9ulp5/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/11MLljX7pkXoJQkm0PJPMlU8p3Bg9ulp5/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Heckman et al Education Health JPE 2018</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1a5Vo4kNCIADx_uhI0JlnOJnfAFq32VMz/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1a5Vo4kNCIADx_uhI0JlnOJnfAFq32VMz/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Galama van Kippersluis Theory of SocioEconomic Gradient in Health EJ 2019</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/10XKOIFq4Vx-P4v4OSoxf2d-IU5XVjSPx/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/10XKOIFq4Vx-P4v4OSoxf2d-IU5XVjSPx/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Lecture Health Production</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1T1A6slLcUCeg0xZbJAfN8X1Swz1tFl-p/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1T1A6slLcUCeg0xZbJAfN8X1Swz1tFl-p/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 7 - Miscellaneous topics: behavioural health policies; addiction and rationality; health and time and risk preferences (3H) (3H)
 
-- [Allcott Optimal Sin Taxes QJE 2019](https://drive.google.com/file/d/1mB6Wb0CuwVJbE2xPsOgaLWaa3tadLRkP/view)
-- [Cawley Ruhm Economics of Risky Behaviour Handbook of Health Economics 2012](https://drive.google.com/file/d/19Pol7AVtWf50of14n3Mq4LWAk9HusZzy/view)
-- [Becker Murphy Grossman Empirical Analysis of Cigarette Addiction AER 1994](https://drive.google.com/file/d/1WffzMavrhBXUOLGJmj2mC4k3_LWaQ8R9/view)
-- [Bradford et al Time preferences and consumer behavior JRiskUnc 2017](https://drive.google.com/file/d/1oumvMgDLY_HQOyOcXPszr5dCVQTw_HJG/view)
-- [Van der Pol et al Role of time and risk preferences in adherence to physician advice EurJHE 2017](https://drive.google.com/file/d/1MM3Ij2hhvUsA_Fe6o0KxAqjfRM1dz3MV/view)
-- [Lépine Treibich Risk aversion AIDS Senegales female SW SSM 2020](https://drive.google.com/file/d/1SBR5N0It69QKeCWxJpWx9kLOTicU8bZB/view)
-- [Charness et al Measures of risk predictive validity outside the lab JRiskUnc 2020](https://drive.google.com/file/d/1VnqSjBByIhwvEaMs_sjXuAWKTN6DV8eT/view)
-- [Cobb-Clark et al Predictive power of self-control for life outcomes JEBO 2022](https://drive.google.com/file/d/1wZQHzxBr1kDxXHiJbyR3DNu5aPngXQPx/view)
-- [Frey et al Risk preference Science 2017](https://drive.google.com/file/d/15H2viJNhwtCIdz4nf5lWBVTuhey48g2V/view)
-- [Arslan et al How people know their risk preferences Scientific Reports 2020](https://drive.google.com/file/d/1ntyfWnoAaATm7Sd47YOUj9vgKsYuspCS/view)
-- [Decker and Schmitz Health shocks and risk aversion JHE 2016](https://drive.google.com/file/d/1BmnBZatzSE1q-DQCOG0o8_TmFjjqKo5W/view)
-- [Schurer Lifecyle patterns in the socioeconomic gradient of risk preferences JEBO 2015](https://drive.google.com/file/d/1UWyW_HQwrsv_JucA7h-Dwg2piBgqDZ2I/view)
-- [SLIDES LECTURE 2 UPDATED](https://drive.google.com/file/d/1xM251-KWl6iLyuaKn9UlrNvRTr1pmErt/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Allcott Optimal Sin Taxes QJE 2019</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1mB6Wb0CuwVJbE2xPsOgaLWaa3tadLRkP/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1mB6Wb0CuwVJbE2xPsOgaLWaa3tadLRkP/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Cawley Ruhm Economics of Risky Behaviour Handbook of Health Economics 2012</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/19Pol7AVtWf50of14n3Mq4LWAk9HusZzy/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/19Pol7AVtWf50of14n3Mq4LWAk9HusZzy/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Becker Murphy Grossman Empirical Analysis of Cigarette Addiction AER 1994</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1WffzMavrhBXUOLGJmj2mC4k3_LWaQ8R9/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1WffzMavrhBXUOLGJmj2mC4k3_LWaQ8R9/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bradford et al Time preferences and consumer behavior JRiskUnc 2017</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1oumvMgDLY_HQOyOcXPszr5dCVQTw_HJG/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1oumvMgDLY_HQOyOcXPszr5dCVQTw_HJG/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Van der Pol et al Role of time and risk preferences in adherence to physician advice EurJHE 2017</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1MM3Ij2hhvUsA_Fe6o0KxAqjfRM1dz3MV/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1MM3Ij2hhvUsA_Fe6o0KxAqjfRM1dz3MV/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lépine Treibich Risk aversion AIDS Senegales female SW SSM 2020</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1SBR5N0It69QKeCWxJpWx9kLOTicU8bZB/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1SBR5N0It69QKeCWxJpWx9kLOTicU8bZB/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Charness et al Measures of risk predictive validity outside the lab JRiskUnc 2020</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1VnqSjBByIhwvEaMs_sjXuAWKTN6DV8eT/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1VnqSjBByIhwvEaMs_sjXuAWKTN6DV8eT/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Cobb-Clark et al Predictive power of self-control for life outcomes JEBO 2022</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1wZQHzxBr1kDxXHiJbyR3DNu5aPngXQPx/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1wZQHzxBr1kDxXHiJbyR3DNu5aPngXQPx/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Frey et al Risk preference Science 2017</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/15H2viJNhwtCIdz4nf5lWBVTuhey48g2V/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/15H2viJNhwtCIdz4nf5lWBVTuhey48g2V/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Arslan et al How people know their risk preferences Scientific Reports 2020</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1ntyfWnoAaATm7Sd47YOUj9vgKsYuspCS/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1ntyfWnoAaATm7Sd47YOUj9vgKsYuspCS/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Decker and Schmitz Health shocks and risk aversion JHE 2016</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1BmnBZatzSE1q-DQCOG0o8_TmFjjqKo5W/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1BmnBZatzSE1q-DQCOG0o8_TmFjjqKo5W/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Schurer Lifecyle patterns in the socioeconomic gradient of risk preferences JEBO 2015</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1UWyW_HQwrsv_JucA7h-Dwg2piBgqDZ2I/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1UWyW_HQwrsv_JucA7h-Dwg2piBgqDZ2I/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>SLIDES LECTURE 2 UPDATED</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1xM251-KWl6iLyuaKn9UlrNvRTr1pmErt/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1xM251-KWl6iLyuaKn9UlrNvRTr1pmErt/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Tutorials
 
@@ -90,11 +297,32 @@ Tuesday Dec 3,
 
 ## Examples of research proposals
 
-- [Post-doc proposal by Elena Bassoli (accepted for a Marie Curie grant)](https://drive.google.com/file/d/1rJ01cwthwYs9ztod0JpGarC5kowJDp2E/view)
-- [Gendhi : complete scientific proposal (accepted by ERC - Synergy)](https://drive.google.com/file/d/1FMpKZkWZ1DO3fmQpf059YdK8BI3k2Ivi/view)
-- [Essay by some last years students (excellent one)](https://drive.google.com/file/d/19lZ24QlH5BMENbbhbiO7OKmX4pN395J1/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Post-doc proposal by Elena Bassoli (accepted for a Marie Curie grant)</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1rJ01cwthwYs9ztod0JpGarC5kowJDp2E/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1rJ01cwthwYs9ztod0JpGarC5kowJDp2E/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Gendhi : complete scientific proposal (accepted by ERC - Synergy)</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1FMpKZkWZ1DO3fmQpf059YdK8BI3k2Ivi/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1FMpKZkWZ1DO3fmQpf059YdK8BI3k2Ivi/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Essay by some last years students (excellent one)</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/19lZ24QlH5BMENbbhbiO7OKmX4pN395J1/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/19lZ24QlH5BMENbbhbiO7OKmX4pN395J1/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## References
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

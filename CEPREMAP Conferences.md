@@ -1,6 +1,11 @@
-# CEPREMAP Conferences
+---
+layout: default
+title: CEPREMAP Conferences
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/89*
+[⬅️ Retour à la liste des cours](index.html)
+
+# CEPREMAP Conferences
 
 ## Introduction
 
@@ -38,48 +43,147 @@ Attendance is mandatory. If you cannot come to a lecture, you need to tell the a
 
 ## Lecture 1 - Cyril Nouveau (France Travail): Evaluating labor market policies within a public employment service
 
-- [conf1_Alonso_Breux-Leulliot on Nouveau](https://drive.google.com/file/d/1zN0hLdrr5BqnlWxMElipFpur0uNzUxH_/view)
-- [conf1 Cyril Nouveau slides](https://drive.google.com/file/d/1_CU13QAbbXH6QG56cvZGFomxS_1qVLAA/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>conf1_Alonso_Breux-Leulliot on Nouveau</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1zN0hLdrr5BqnlWxMElipFpur0uNzUxH_/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1zN0hLdrr5BqnlWxMElipFpur0uNzUxH_/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>conf1 Cyril Nouveau slides</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1_CU13QAbbXH6QG56cvZGFomxS_1qVLAA/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1_CU13QAbbXH6QG56cvZGFomxS_1qVLAA/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 2 - Andrea Garnero (OECD): The Net-Zero Transition and the Labour Market
 
-- [conf2_Garnero presentation](https://drive.google.com/file/d/1owjFPDXhb8LNSt-H5f9KgtGtNaLCllxD/view)
-- [conf2_Aggarwal_Pakoupete_on_Garnero](https://drive.google.com/file/d/1vkSvtGnmWu2mVB9_GTjsfSdjv9pwybIj/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>conf2_Garnero presentation</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1owjFPDXhb8LNSt-H5f9KgtGtNaLCllxD/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1owjFPDXhb8LNSt-H5f9KgtGtNaLCllxD/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>conf2_Aggarwal_Pakoupete_on_Garnero</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1vkSvtGnmWu2mVB9_GTjsfSdjv9pwybIj/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1vkSvtGnmWu2mVB9_GTjsfSdjv9pwybIj/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 3 - Stéphanie Bouzigues-Eschmann (AFD/FEEM) : Official development aid for global environment issues
 
-- [Bouzigues-Eschmann slides](https://drive.google.com/file/d/1eCkTh-VzO1zF0NA3i5IeXg83j_3JlTar/view)
-- [Anver_Garcia_Gonzales_Zawada intro on Bouzigues](https://drive.google.com/file/d/1_oHCpeL_ElYM6Y7VjSL01HO1pCdd2SYU/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bouzigues-Eschmann slides</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1eCkTh-VzO1zF0NA3i5IeXg83j_3JlTar/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1eCkTh-VzO1zF0NA3i5IeXg83j_3JlTar/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Anver_Garcia_Gonzales_Zawada intro on Bouzigues</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1_oHCpeL_ElYM6Y7VjSL01HO1pCdd2SYU/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1_oHCpeL_ElYM6Y7VjSL01HO1pCdd2SYU/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 4 - Francesco Avvisati (OECD): « Research, Development and Innovation in the Programme for International Student Assessment (PISA)
 
-- [Guerin lAcombe Farhi Belo on Avvisati](https://drive.google.com/file/d/16q5DIrJuFleiAQ_qJs5x9JDAMiFtB2cP/view)
-- [conf4_Avvisati_PISA](https://drive.google.com/file/d/1UrKhY3aoOfPojrEz4JjM3hwbmhw-lkn5/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Guerin lAcombe Farhi Belo on Avvisati</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/16q5DIrJuFleiAQ_qJs5x9JDAMiFtB2cP/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/16q5DIrJuFleiAQ_qJs5x9JDAMiFtB2cP/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>conf4_Avvisati_PISA</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1UrKhY3aoOfPojrEz4JjM3hwbmhw-lkn5/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1UrKhY3aoOfPojrEz4JjM3hwbmhw-lkn5/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 5 - Benoît Jonveaux (AFD): Sovereign debt crises in developing countries
 
-- [conf5_Robin Godrin Vargas on Jonveaux](https://drive.google.com/file/d/1MSMIO91lpWWSkAJ6bZ7EC1nPlhCVNVTj/view)
-- [conf5 Jonveaux slides on debt](https://drive.google.com/file/d/1dz7mJ-OqgJfUHFabhjdX2g22gnjHukCx/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>conf5_Robin Godrin Vargas on Jonveaux</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1MSMIO91lpWWSkAJ6bZ7EC1nPlhCVNVTj/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1MSMIO91lpWWSkAJ6bZ7EC1nPlhCVNVTj/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>conf5 Jonveaux slides on debt</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1dz7mJ-OqgJfUHFabhjdX2g22gnjHukCx/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1dz7mJ-OqgJfUHFabhjdX2g22gnjHukCx/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 6 - Kenneth Houngbedji (IRD-Dauphine U): Balancing economic development and conservation: options for public policies and lessons
 
-- [conf6 Bacha Biquet Hajji on Houngbedji](https://drive.google.com/file/d/12VZBqQbcRvJ0oDOGgcG4sjUaImrQlKfD/view)
-- [conf6 Houngbedji slides](https://drive.google.com/file/d/1fxe45eP0in3yzOBjcyoqUsItkbxZQYTt/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>conf6 Bacha Biquet Hajji on Houngbedji</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/12VZBqQbcRvJ0oDOGgcG4sjUaImrQlKfD/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/12VZBqQbcRvJ0oDOGgcG4sjUaImrQlKfD/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>conf6 Houngbedji slides</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1fxe45eP0in3yzOBjcyoqUsItkbxZQYTt/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1fxe45eP0in3yzOBjcyoqUsItkbxZQYTt/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 7 - Viridiana Garcia-Quiles (UNCTAD): Addressing Gender Inequalities - insights from a UN initiative (tbc)
 
-- [conf7 Garcia-Quiles](https://drive.google.com/file/d/1v7PhQgX-zhky1jU_dL3baKMjTrCBIwoZ/view)
-- [conf7 Favre-Tissot Estrada Garcia Bertoni Sola-Vera on Garcia-Quiles](https://drive.google.com/file/d/1YrbH7j3vQqhYPBLJx6qtEAj4AME33-yX/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>conf7 Garcia-Quiles</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1v7PhQgX-zhky1jU_dL3baKMjTrCBIwoZ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1v7PhQgX-zhky1jU_dL3baKMjTrCBIwoZ/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>conf7 Favre-Tissot Estrada Garcia Bertoni Sola-Vera on Garcia-Quiles</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1YrbH7j3vQqhYPBLJx6qtEAj4AME33-yX/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1YrbH7j3vQqhYPBLJx6qtEAj4AME33-yX/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 8 - Isabelle Maquet (EC) : European social policies
 
-- [conf8 presentation Maquet by Casali Fontaine Straub](https://drive.google.com/file/d/1gggVHdVFhEZhZj2HzscylcGFfkcn1W70/view)
-- [conf8 Maquet EU social policy](https://drive.google.com/file/d/16wWrnSMzhpOEgNHJbG6Rx3Jj7r3Uuk44/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>conf8 presentation Maquet by Casali Fontaine Straub</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1gggVHdVFhEZhZj2HzscylcGFfkcn1W70/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1gggVHdVFhEZhZj2HzscylcGFfkcn1W70/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>conf8 Maquet EU social policy</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/16wWrnSMzhpOEgNHJbG6Rx3Jj7r3Uuk44/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/16wWrnSMzhpOEgNHJbG6Rx3Jj7r3Uuk44/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 9 - Pierre Jacquet (GDN): Knowledge and Finance for Development. Issues and Flaws
 
-- [conf9 Jacquet slides](https://drive.google.com/file/d/1CCv7mMCUbwWapHo1AsTRQqiB-rQf14Y1/view)
-- [conf9_Rantanen_Lim_Rickards_on_Jacquet](https://drive.google.com/file/d/1SCysX-ckz89dFoV_4DW31_cQvU_WgDMW/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>conf9 Jacquet slides</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1CCv7mMCUbwWapHo1AsTRQqiB-rQf14Y1/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1CCv7mMCUbwWapHo1AsTRQqiB-rQf14Y1/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>conf9_Rantanen_Lim_Rickards_on_Jacquet</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1SCysX-ckz89dFoV_4DW31_cQvU_WgDMW/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1SCysX-ckz89dFoV_4DW31_cQvU_WgDMW/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Tutorials
 
@@ -88,4 +192,8 @@ Attendance is mandatory. If you cannot come to a lecture, you need to tell the a
 ## References
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

@@ -1,6 +1,11 @@
-# Health Economics - Carine MILCENT & Pierre-Yves GEOFFARD part
+---
+layout: default
+title: Health Economics - Carine MILCENT & Pierre-Yves GEOFFARD part
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/260*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Health Economics - Carine MILCENT & Pierre-Yves GEOFFARD part
 
 ## Introduction
 
@@ -8,9 +13,26 @@
 
 ## General Documents
 
-- [Essay example](https://drive.google.com/file/d/1QWG81RNtM7SqKXLDJnkACdU_IAS9gHUp/view)
-- [Guidelines and Suggested Topics](https://drive.google.com/file/d/1R9yHVpLvXI4OqUcO_-GR7VQDEA4QBpEr/view)
-- [Oral presentation: Time slot](https://drive.google.com/file/d/1xymAY8k9ReU6g52jo6IGw1VtvLXWc0D7/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Essay example</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1QWG81RNtM7SqKXLDJnkACdU_IAS9gHUp/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1QWG81RNtM7SqKXLDJnkACdU_IAS9gHUp/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Guidelines and Suggested Topics</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1R9yHVpLvXI4OqUcO_-GR7VQDEA4QBpEr/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1R9yHVpLvXI4OqUcO_-GR7VQDEA4QBpEr/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Oral presentation: Time slot</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1xymAY8k9ReU6g52jo6IGw1VtvLXWc0D7/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1xymAY8k9ReU6g52jo6IGw1VtvLXWc0D7/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -51,56 +73,241 @@ The general assessment of the course will be based on the following competencies
 
 ## Lecture 1 - 1 - Introduction : Demand for Health, Health Insurance
 
-- [Reading 2: Arrow, 1963](https://drive.google.com/file/d/1YYOmagFCzE_JbbGb51fPmKGycKLrFhwp/view)
-- [Lectures 1 and 2 : Health Insurance / Demand for Care](https://drive.google.com/file/d/1puiQvzuOQuIpAH0t4tUMyWwDi7H8CVEw/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Reading 2: Arrow, 1963</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1YYOmagFCzE_JbbGb51fPmKGycKLrFhwp/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1YYOmagFCzE_JbbGb51fPmKGycKLrFhwp/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lectures 1 and 2 : Health Insurance / Demand for Care</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1puiQvzuOQuIpAH0t4tUMyWwDi7H8CVEw/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1puiQvzuOQuIpAH0t4tUMyWwDi7H8CVEw/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 2 - 2 - Health, Healthcare and Growth
 
-- [Slides for session on health, health care and incom](https://drive.google.com/file/d/1MYpBIMWMhT4HXAX9HrCCifwo_p-qkQsd/view)
-- [Carrieri&Jones: the relationship between income and health](https://drive.google.com/file/d/1yNqpf1V7tSkcZL-5IdPFYgkwvpFyV4M3/view)
-- [Santiago Lago Pena](https://drive.google.com/file/d/1MOeiQ_WV5lmrG5ipwBz9vD2XdWhHXgkV/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides for session on health, health care and incom</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1MYpBIMWMhT4HXAX9HrCCifwo_p-qkQsd/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1MYpBIMWMhT4HXAX9HrCCifwo_p-qkQsd/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Carrieri&Jones: the relationship between income and health</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1yNqpf1V7tSkcZL-5IdPFYgkwvpFyV4M3/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1yNqpf1V7tSkcZL-5IdPFYgkwvpFyV4M3/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Santiago Lago Pena</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1MOeiQ_WV5lmrG5ipwBz9vD2XdWhHXgkV/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1MOeiQ_WV5lmrG5ipwBz9vD2XdWhHXgkV/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 3 - 3 & 4 - The Demand and Needs for health and health care (2 sessions)
 
-- [Ref 1: Wagstaff, the Grossman model](https://drive.google.com/file/d/1-xKRvvKOam7CDQ8WbHO8mgGfN9xcPzsz/view)
-- [Ref 2: Subjective Health](https://drive.google.com/file/d/14lbHdsibdFtYEPaO9AHQjfWrTgK_k95A/view)
-- [Ref 3: Frailty Index](https://drive.google.com/file/d/1w4Uqw23QfBAy--VIcF7bYXG9f7eGAnKI/view)
-- [PSE_Milcent_3&4](https://drive.google.com/file/d/19dfZBcAa2nW8tJM3MOSsUAhPlIggjweN/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Ref 1: Wagstaff, the Grossman model</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1-xKRvvKOam7CDQ8WbHO8mgGfN9xcPzsz/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1-xKRvvKOam7CDQ8WbHO8mgGfN9xcPzsz/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Ref 2: Subjective Health</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/14lbHdsibdFtYEPaO9AHQjfWrTgK_k95A/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/14lbHdsibdFtYEPaO9AHQjfWrTgK_k95A/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Ref 3: Frailty Index</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1w4Uqw23QfBAy--VIcF7bYXG9f7eGAnKI/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1w4Uqw23QfBAy--VIcF7bYXG9f7eGAnKI/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>PSE_Milcent_3&4</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/19dfZBcAa2nW8tJM3MOSsUAhPlIggjweN/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/19dfZBcAa2nW8tJM3MOSsUAhPlIggjweN/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 4 - 5 - Supply side analysis
 
-- [Chandra & al, 2016, AER](https://drive.google.com/file/d/15g2_MvMDtkqO4iHf21OSLmXqjqFrbG97/view)
-- [Hierarchical Model](https://drive.google.com/file/d/1EvvVa_9DMz8Fcm38-KKDHTeme_otJsV3/view)
-- [SID and Supplementary Insurance](https://drive.google.com/file/d/1Yhd3bPm4sKknfzofgxHULnJVQXoKpgGv/view)
-- [SID and Behavior](https://drive.google.com/file/d/1mZBpDqrrih-SXlx0cYt9B-81P8r-gWYn/view)
-- [Multitask Model](https://drive.google.com/file/d/1SoAN3i6Q-yqdK1rA2-tNZo5gxLazXEef/view)
-- [Supply Side](https://drive.google.com/file/d/1nJmAjQP6vlqpaaMHkgjryI6c21yWl6YL/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Chandra & al, 2016, AER</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/15g2_MvMDtkqO4iHf21OSLmXqjqFrbG97/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/15g2_MvMDtkqO4iHf21OSLmXqjqFrbG97/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Hierarchical Model</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1EvvVa_9DMz8Fcm38-KKDHTeme_otJsV3/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1EvvVa_9DMz8Fcm38-KKDHTeme_otJsV3/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>SID and Supplementary Insurance</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Yhd3bPm4sKknfzofgxHULnJVQXoKpgGv/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Yhd3bPm4sKknfzofgxHULnJVQXoKpgGv/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>SID and Behavior</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1mZBpDqrrih-SXlx0cYt9B-81P8r-gWYn/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1mZBpDqrrih-SXlx0cYt9B-81P8r-gWYn/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Multitask Model</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1SoAN3i6Q-yqdK1rA2-tNZo5gxLazXEef/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1SoAN3i6Q-yqdK1rA2-tNZo5gxLazXEef/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Supply Side</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1nJmAjQP6vlqpaaMHkgjryI6c21yWl6YL/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1nJmAjQP6vlqpaaMHkgjryI6c21yWl6YL/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 5 - 6 - Supply side analysis
 
-- [Competition, Quality and Integration](https://drive.google.com/file/d/1IFRJua-r67q26NrP4O0uRM4G5LhKFtNC/view)
-- [Vertical Integration](https://drive.google.com/file/d/1sS8thRRV_TM4ID-paHlG4o2bZGon8OYp/view)
-- [Vertical Integration and Bundled Payment](https://drive.google.com/file/d/1SW8CF1H4tnHuM61ZkEA3J7az2SCOPL2R/view)
-- [Supply Side Analysis](https://drive.google.com/file/d/1tFP5t_j5PNi06cSXGYIqRR3fVbVHDeNg/view)
-- [Gobillon&Milcent: Competition](https://drive.google.com/file/d/1BwFujsYFIiTVEoXcCcd7gpqnKxbE7bzO/view)
-- [Milcent2024: Competition](https://drive.google.com/file/d/1EpGIC071g1L2mh9py60MJ9aOMGb7sfuj/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Competition, Quality and Integration</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1IFRJua-r67q26NrP4O0uRM4G5LhKFtNC/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1IFRJua-r67q26NrP4O0uRM4G5LhKFtNC/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Vertical Integration</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1sS8thRRV_TM4ID-paHlG4o2bZGon8OYp/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1sS8thRRV_TM4ID-paHlG4o2bZGon8OYp/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Vertical Integration and Bundled Payment</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1SW8CF1H4tnHuM61ZkEA3J7az2SCOPL2R/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1SW8CF1H4tnHuM61ZkEA3J7az2SCOPL2R/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Supply Side Analysis</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1tFP5t_j5PNi06cSXGYIqRR3fVbVHDeNg/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1tFP5t_j5PNi06cSXGYIqRR3fVbVHDeNg/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Gobillon&Milcent: Competition</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1BwFujsYFIiTVEoXcCcd7gpqnKxbE7bzO/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1BwFujsYFIiTVEoXcCcd7gpqnKxbE7bzO/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Milcent2024: Competition</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1EpGIC071g1L2mh9py60MJ9aOMGb7sfuj/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1EpGIC071g1L2mh9py60MJ9aOMGb7sfuj/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 6 - 8 - Quality and Competition
 
-- [Bundled payment](https://drive.google.com/file/d/1UUiNry_yrC0nZx8147YLnrJx-dmZF_3L/view)
-- [Bundled Payment](https://drive.google.com/file/d/1f_AZCUYajjRJL5IkbXXs2A7KkCy4_jO0/view)
-- [Bundled Payment](https://drive.google.com/file/d/1_am7eAI09K6Me0Xp7vEbstM1XjaNyTKL/view)
-- [Bundled Payment](https://drive.google.com/file/d/1JSsKadvKZL6IqMnCpXxFk_lUg3BQqxD4/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bundled payment</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1UUiNry_yrC0nZx8147YLnrJx-dmZF_3L/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1UUiNry_yrC0nZx8147YLnrJx-dmZF_3L/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bundled Payment</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1f_AZCUYajjRJL5IkbXXs2A7KkCy4_jO0/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1f_AZCUYajjRJL5IkbXXs2A7KkCy4_jO0/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bundled Payment</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1_am7eAI09K6Me0Xp7vEbstM1XjaNyTKL/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1_am7eAI09K6Me0Xp7vEbstM1XjaNyTKL/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Bundled Payment</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1JSsKadvKZL6IqMnCpXxFk_lUg3BQqxD4/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1JSsKadvKZL6IqMnCpXxFk_lUg3BQqxD4/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 7 - 7- Quality and competition
 
-- [Competition and Managed care](https://drive.google.com/file/d/1OQIyr-M05hWWXx3jyKhfcbOXxvU5iCAk/view)
-- [Hospital's choice](https://drive.google.com/file/d/1nCMPKz5-qZv1FL0RjE5i_RhtLOUM1Cpc/view)
-- [Efficiency and Performance](https://drive.google.com/file/d/1C2I4Ek1evLVfGE2yRYjBeSc42NGA-wUZ/view)
-- [Competition](https://drive.google.com/file/d/1s8vwv99A-B8fGuAUcivkg1jFjoGb5Kf3/view)
-- [Hospital Staff and Competition](https://drive.google.com/file/d/1un7H1Jv-LBpo_9YOsJmqBuff-oalS0LS/view)
-- [Spatial disparities](https://drive.google.com/file/d/1NPQzR43jxjhIMAKc1UkFJYGIHm8XOGhn/view)
-- [Hospital staff, Unemployement and Competition](https://drive.google.com/file/d/1VGFfY-SdXuL74Pd4K9lNKtWGblwRpU4C/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Competition and Managed care</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1OQIyr-M05hWWXx3jyKhfcbOXxvU5iCAk/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1OQIyr-M05hWWXx3jyKhfcbOXxvU5iCAk/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Hospital's choice</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1nCMPKz5-qZv1FL0RjE5i_RhtLOUM1Cpc/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1nCMPKz5-qZv1FL0RjE5i_RhtLOUM1Cpc/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Efficiency and Performance</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1C2I4Ek1evLVfGE2yRYjBeSc42NGA-wUZ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1C2I4Ek1evLVfGE2yRYjBeSc42NGA-wUZ/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Competition</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1s8vwv99A-B8fGuAUcivkg1jFjoGb5Kf3/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1s8vwv99A-B8fGuAUcivkg1jFjoGb5Kf3/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Hospital Staff and Competition</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1un7H1Jv-LBpo_9YOsJmqBuff-oalS0LS/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1un7H1Jv-LBpo_9YOsJmqBuff-oalS0LS/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Spatial disparities</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1NPQzR43jxjhIMAKc1UkFJYGIHm8XOGhn/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1NPQzR43jxjhIMAKc1UkFJYGIHm8XOGhn/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Hospital staff, Unemployement and Competition</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1VGFfY-SdXuL74Pd4K9lNKtWGblwRpU4C/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1VGFfY-SdXuL74Pd4K9lNKtWGblwRpU4C/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Tutorials
 
@@ -124,4 +331,8 @@ Other references
 Additional references will be given for each session, with on average two papers to read in advance per session : a seminal paper and a recent contribution – published or not.
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

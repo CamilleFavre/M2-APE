@@ -1,6 +1,11 @@
-# Macro and Micro Simulation of Public Policies
+---
+layout: default
+title: Macro and Micro Simulation of Public Policies
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/332*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Macro and Micro Simulation of Public Policies
 
 ## Introduction
 
@@ -8,7 +13,12 @@
 
 ## General Documents
 
-- [Syllabus](https://drive.google.com/file/d/1cInb8Wjb_MhmB1JxMkYNJeoNRBRbQQ6e/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1cInb8Wjb_MhmB1JxMkYNJeoNRBRbQQ6e/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1cInb8Wjb_MhmB1JxMkYNJeoNRBRbQQ6e/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -20,11 +30,21 @@
 
 ## Lecture 2 - Lecture 1 - Microsimulation
 
-- [Lecture 1 - Microsimulation](https://drive.google.com/file/d/1WgcAfjKQyH_zUtfENTXi9MrmTnYAVXsR/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 1 - Microsimulation</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1WgcAfjKQyH_zUtfENTXi9MrmTnYAVXsR/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1WgcAfjKQyH_zUtfENTXi9MrmTnYAVXsR/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 3 - Lecture 2 - Microsimulation
 
-- [Lecture 2 - Microsimulation](https://drive.google.com/file/d/1klsRyYde4ZBbz9KLhlboFJW-CNQFgeWu/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 2 - Microsimulation</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1klsRyYde4ZBbz9KLhlboFJW-CNQFgeWu/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1klsRyYde4ZBbz9KLhlboFJW-CNQFgeWu/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Tutorials
 
@@ -35,4 +55,8 @@
 ## References
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

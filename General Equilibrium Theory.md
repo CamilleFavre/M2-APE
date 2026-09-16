@@ -1,6 +1,11 @@
-# General Equilibrium Theory
+---
+layout: default
+title: General Equilibrium Theory
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/19*
+[⬅️ Retour à la liste des cours](index.html)
+
+# General Equilibrium Theory
 
 ## Introduction
 
@@ -8,9 +13,26 @@
 
 ## General Documents
 
-- [Detailed Class Schedule](https://drive.google.com/file/d/1oahiWtKjWgePcfWNqxuU5vxhGfji55l_/view)
-- [Mathematical Appendix](https://drive.google.com/file/d/1kHDrTAVkTOP_3GKi0ngr_N7JETpz064p/view)
-- [Overview_Equilibrium_Model](https://drive.google.com/file/d/1HHTBeUn9eMEjzToLzAKNgPzUzykNcnVg/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Detailed Class Schedule</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1oahiWtKjWgePcfWNqxuU5vxhGfji55l_/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1oahiWtKjWgePcfWNqxuU5vxhGfji55l_/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Mathematical Appendix</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1kHDrTAVkTOP_3GKi0ngr_N7JETpz064p/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1kHDrTAVkTOP_3GKi0ngr_N7JETpz064p/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Overview_Equilibrium_Model</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1HHTBeUn9eMEjzToLzAKNgPzUzykNcnVg/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1HHTBeUn9eMEjzToLzAKNgPzUzykNcnVg/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -45,4 +67,8 @@ https://cours.univ-paris1.fr/course/view.php?id=44511
 ## Part 1
 
 ## Part 2
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

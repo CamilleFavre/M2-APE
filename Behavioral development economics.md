@@ -1,6 +1,11 @@
-# Behavioral development economics
+---
+layout: default
+title: Behavioral development economics
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/280*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Behavioral development economics
 
 ## Introduction
 
@@ -8,7 +13,12 @@
 
 ## General Documents
 
-- [Syllabus_Behavioral Development](https://drive.google.com/file/d/1atqxb4sGx_PFyvFVmXurv0WFGDjFLVqT/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus_Behavioral Development</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1atqxb4sGx_PFyvFVmXurv0WFGDjFLVqT/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1atqxb4sGx_PFyvFVmXurv0WFGDjFLVqT/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -26,9 +36,18 @@ A new classroom schedule has been added.
 
 ## Experimental proposal
 
-- [Experimental Proposal Guideline](https://drive.google.com/file/d/1m21IE_J3TcKOETxRcFC_FDLx3aZ2qivv/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Experimental Proposal Guideline</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1m21IE_J3TcKOETxRcFC_FDLx3aZ2qivv/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1m21IE_J3TcKOETxRcFC_FDLx3aZ2qivv/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## References
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

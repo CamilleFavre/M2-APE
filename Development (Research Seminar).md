@@ -1,6 +1,11 @@
-# Development (Research Seminar)
+---
+layout: default
+title: Development (Research Seminar)
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/176*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Development (Research Seminar)
 
 ## Introduction
 
@@ -8,7 +13,12 @@
 
 ## General Documents
 
-- [Slides from introductory lecture](https://drive.google.com/file/d/1z7uzaG7N3ZctUX4uh0bk7XHFVYR07t77/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides from introductory lecture</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1z7uzaG7N3ZctUX4uh0bk7XHFVYR07t77/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1z7uzaG7N3ZctUX4uh0bk7XHFVYR07t77/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -69,4 +79,8 @@ Governance, Corruption, state capture, lobbying, applications to environmental i
 ## References
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

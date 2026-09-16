@@ -1,6 +1,11 @@
-# Experimental Economics
+---
+layout: default
+title: Experimental Economics
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/7*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Experimental Economics
 
 ## Introduction
 
@@ -25,4 +30,8 @@ The class takes place at MSE, please refer to the master EP timetable to (double
 ## References
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

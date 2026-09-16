@@ -1,6 +1,11 @@
-# Globalization and the Environment
+---
+layout: default
+title: Globalization and the Environment
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/336*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Globalization and the Environment
 
 ## Introduction
 
@@ -8,7 +13,12 @@
 
 ## General Documents
 
-- [Syllabus 2025](https://drive.google.com/file/d/14fOZBzm_OcIrqyP7PueKoaxFxpLh6jzy/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus 2025</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/14fOZBzm_OcIrqyP7PueKoaxFxpLh6jzy/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/14fOZBzm_OcIrqyP7PueKoaxFxpLh6jzy/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -22,15 +32,30 @@ The purpose of this course is to examine the complex relationship between intern
 
 ## Lecture 2 - Toolbox #1 - firm heterogeneity and emissions
 
-- [Tool01](https://drive.google.com/file/d/1DvF5wEiZy-3ofumEU_hYa6L4J7Y75iAw/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Tool01</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1DvF5wEiZy-3ofumEU_hYa6L4J7Y75iAw/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1DvF5wEiZy-3ofumEU_hYa6L4J7Y75iAw/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 3 - Trade on Pollution
 
-- [Trade on Pollution](https://drive.google.com/file/d/1dcZQyhRsfuq2F2af1d37Ce_MDkvkPfRL/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Trade on Pollution</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1dcZQyhRsfuq2F2af1d37Ce_MDkvkPfRL/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1dcZQyhRsfuq2F2af1d37Ce_MDkvkPfRL/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 4 - Environmental Policy on Trade
 
-- [EnvPolicyTrade](https://drive.google.com/file/d/1YRF-z1cfzl9Z4f3w-TjK44lTTlgK2-I3/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>EnvPolicyTrade</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1YRF-z1cfzl9Z4f3w-TjK44lTTlgK2-I3/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1YRF-z1cfzl9Z4f3w-TjK44lTTlgK2-I3/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 5 - Trade and pollution leakage: a synthesis
 
@@ -38,15 +63,30 @@ The purpose of this course is to examine the complex relationship between intern
 
 ## Lecture 7 - Trade Policy against Global Warming
 
-- [TradePol](https://drive.google.com/file/d/1JlVoGHV0u--yr32uSljuFAbz5DBFSoXI/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>TradePol</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1JlVoGHV0u--yr32uSljuFAbz5DBFSoXI/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1JlVoGHV0u--yr32uSljuFAbz5DBFSoXI/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 8 - Toolbox #3 - international sourcing and cbam
 
-- [Document 1](https://drive.google.com/file/d/1grenHO1mAw0IUfFdGcf4LQ0y-A31u5Fl/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Document 1</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1grenHO1mAw0IUfFdGcf4LQ0y-A31u5Fl/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1grenHO1mAw0IUfFdGcf4LQ0y-A31u5Fl/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 9 - Globalization and GMOs
 
-- [Globalization and GMOs](https://drive.google.com/file/d/1fj0HdIe6q2djcJdSODKV5JsQBBTt2bGA/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Globalization and GMOs</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1fj0HdIe6q2djcJdSODKV5JsQBBTt2bGA/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1fj0HdIe6q2djcJdSODKV5JsQBBTt2bGA/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 10 - Topics
 
@@ -57,4 +97,8 @@ The purpose of this course is to examine the complex relationship between intern
 ## References
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

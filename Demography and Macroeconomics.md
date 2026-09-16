@@ -1,6 +1,11 @@
-# Demography and Macroeconomics
+---
+layout: default
+title: Demography and Macroeconomics
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/334*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Demography and Macroeconomics
 
 ## Introduction
 
@@ -8,12 +13,47 @@
 
 ## General Documents
 
-- [Slides Part 1](https://drive.google.com/file/d/1IE4n_t8AQHY8HTylJPCWlHicBA301K5l/view)
-- [Slides Part 2](https://drive.google.com/file/d/1dpBeFfaVt2pBnB1jkuwfxz-r_iZgMEej/view)
-- [Slides Part 3](https://drive.google.com/file/d/13kiWzVyNZd2ye78c3CMpTuxwk2rvQx7g/view)
-- [Exercises](https://drive.google.com/file/d/13if33GNF2Fz5wFVHiR1MQKwYoDE7mmWK/view)
-- [Solution exercise 4](https://drive.google.com/file/d/1KZgwW2PMBfCdc1pX5VlVQ9ylTRzZoKvO/view)
-- [Solution exercise 3](https://drive.google.com/file/d/1kSe0xs-8CQKsspfE7qDyBrMtrilVSmZQ/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Part 1</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1IE4n_t8AQHY8HTylJPCWlHicBA301K5l/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1IE4n_t8AQHY8HTylJPCWlHicBA301K5l/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Part 2</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1dpBeFfaVt2pBnB1jkuwfxz-r_iZgMEej/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1dpBeFfaVt2pBnB1jkuwfxz-r_iZgMEej/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides Part 3</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/13kiWzVyNZd2ye78c3CMpTuxwk2rvQx7g/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/13kiWzVyNZd2ye78c3CMpTuxwk2rvQx7g/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Exercises</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/13if33GNF2Fz5wFVHiR1MQKwYoDE7mmWK/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/13if33GNF2Fz5wFVHiR1MQKwYoDE7mmWK/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Solution exercise 4</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1KZgwW2PMBfCdc1pX5VlVQ9ylTRzZoKvO/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1KZgwW2PMBfCdc1pX5VlVQ9ylTRzZoKvO/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Solution exercise 3</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1kSe0xs-8CQKsspfE7qDyBrMtrilVSmZQ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1kSe0xs-8CQKsspfE7qDyBrMtrilVSmZQ/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -55,4 +95,8 @@ Oded Galor, (2011), “Unified Growth Theory”, Princeton University Press
 Doepke, Hannusch, Kindermann, and Tertilt, “The Economics of Fertility: A New Era” Handbook of the Economics of the Family, Vol. 1, Chapter 4, March 2023.
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

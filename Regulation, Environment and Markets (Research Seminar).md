@@ -1,6 +1,11 @@
-# Regulation, Environment and Markets (Research Seminar)
+---
+layout: default
+title: Regulation, Environment and Markets (Research Seminar)
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/35*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Regulation, Environment and Markets (Research Seminar)
 
 ## Introduction
 
@@ -8,7 +13,12 @@
 
 ## General Documents
 
-- [Presentation Seminar Sept 10th, 2024](https://drive.google.com/file/d/1Dpzwiqi50kGpK8MUKB6JensvZsznmf4y/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Presentation Seminar Sept 10th, 2024</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Dpzwiqi50kGpK8MUKB6JensvZsznmf4y/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Dpzwiqi50kGpK8MUKB6JensvZsznmf4y/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -44,4 +54,8 @@ At the second presentation you should - if all works out - be able to present so
 ## References
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

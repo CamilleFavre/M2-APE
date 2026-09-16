@@ -1,6 +1,11 @@
-# Networks Economics
+---
+layout: default
+title: Networks Economics
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/64*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Networks Economics
 
 ## Introduction
 
@@ -8,7 +13,12 @@
 
 ## General Documents
 
-- [Syllabus APE networks 2024 - 2025](https://drive.google.com/file/d/1TDm7bA0ibON5bqRPdSapWUUzWU_A-N_K/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus APE networks 2024 - 2025</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1TDm7bA0ibON5bqRPdSapWUUzWU_A-N_K/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1TDm7bA0ibON5bqRPdSapWUUzWU_A-N_K/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -16,58 +26,118 @@
 
 ## Exam 1
 
-- [Document 1](https://drive.google.com/file/d/1B3Z72Jl3DKRJ2Gzrs5LrMVdBH-j_S2DR/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Document 1</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1B3Z72Jl3DKRJ2Gzrs5LrMVdBH-j_S2DR/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1B3Z72Jl3DKRJ2Gzrs5LrMVdBH-j_S2DR/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Exercises with solutions - Rusinowska
 
-- [Document 1](https://drive.google.com/file/d/1lTIAL_71z95o9y0_tzA3efvUa-0wvxM5/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Document 1</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1lTIAL_71z95o9y0_tzA3efvUa-0wvxM5/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1lTIAL_71z95o9y0_tzA3efvUa-0wvxM5/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Assignment - Rusinowska
 
-- [Document 1](https://drive.google.com/file/d/1yi9lgcAhwYiZRuBdc6IkxZg85jlTZEX8/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Document 1</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1yi9lgcAhwYiZRuBdc6IkxZg85jlTZEX8/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1yi9lgcAhwYiZRuBdc6IkxZg85jlTZEX8/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Assignment - Comola
 
-- [Document 1](https://drive.google.com/file/d/1TcqGDV2YtoJEmAQ77DwPqNN1uw82kDgv/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Document 1</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1TcqGDV2YtoJEmAQ77DwPqNN1uw82kDgv/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1TcqGDV2YtoJEmAQ77DwPqNN1uw82kDgv/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Part 1
 
 ## Lecture 1 - Introduction to Graph Theory and Network Analysis
 
-- [introduction to graph theory](https://drive.google.com/file/d/1ohCrWa__GB4mh1B9fBYLCJGFrsPhckUA/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>introduction to graph theory</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1ohCrWa__GB4mh1B9fBYLCJGFrsPhckUA/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1ohCrWa__GB4mh1B9fBYLCJGFrsPhckUA/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 2 - Centrality measures
 
-- [Centrality measures](https://drive.google.com/file/d/16TMwrcLLzNCuppPkNQvs6NAyIB3u4ST4/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Centrality measures</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/16TMwrcLLzNCuppPkNQvs6NAyIB3u4ST4/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/16TMwrcLLzNCuppPkNQvs6NAyIB3u4ST4/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 3 - Random networks
 
-- [Random networks](https://drive.google.com/file/d/1VT5WWrkElODcPF6pKEJNbUsE9EQnBWQx/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Random networks</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1VT5WWrkElODcPF6pKEJNbUsE9EQnBWQx/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1VT5WWrkElODcPF6pKEJNbUsE9EQnBWQx/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 4 - Production networks
 
-- [Production networks](https://drive.google.com/file/d/11ATSqU6cExDzHk0jMYJesuRB9rAXcYNA/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Production networks</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/11ATSqU6cExDzHk0jMYJesuRB9rAXcYNA/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/11ATSqU6cExDzHk0jMYJesuRB9rAXcYNA/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 5 - Strategic network formation
 
 Jackson, Matthew O. Social and Economic Networks. Princeton University Press, 2008
 Barab﻿asi, Albert L. Network Science. Cambridge University Press, 2016
 
-- [Strategic network formation](https://drive.google.com/file/d/1HqElqhHQdP6pZouAcoQaSo4pWDMRWInM/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Strategic network formation</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1HqElqhHQdP6pZouAcoQaSo4pWDMRWInM/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1HqElqhHQdP6pZouAcoQaSo4pWDMRWInM/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Part 2
 
 ## Lecture 1 - Games on Networks
 
-- [Document 1](https://drive.google.com/file/d/18G9cfLOuOZiLavSi9R9uZC0qIY-rgT8d/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Document 1</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/18G9cfLOuOZiLavSi9R9uZC0qIY-rgT8d/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/18G9cfLOuOZiLavSi9R9uZC0qIY-rgT8d/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 2 - Diffusion in Networks
 
-- [Document 1](https://drive.google.com/file/d/1SvG_R23XsQdW744685ZlCtmxSTSSHalr/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Document 1</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1SvG_R23XsQdW744685ZlCtmxSTSSHalr/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1SvG_R23XsQdW744685ZlCtmxSTSSHalr/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 3 - Learning in Networks
 
-- [Document 1](https://drive.google.com/file/d/1RHhExpe4vmX3BuJaxtvMmo9zzP0m6Kq8/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Document 1</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1RHhExpe4vmX3BuJaxtvMmo9zzP0m6Kq8/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1RHhExpe4vmX3BuJaxtvMmo9zzP0m6Kq8/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 4 - Allocation Rules for Networks
 
@@ -96,7 +166,12 @@ R. Myerson (1977) Graphs and cooperation in games, Mathematics of Operations Res
 S. Morris (2000) Contagion, Review of Economic Studies 67: 57-78
 L.S. Shapley (1953) A value for n-person games, In: H.W. Kuhn, A.W. Tucker (Eds.) Annals of Mathematics Studies 28, pp. 307–317, Princeton University Press
 
-- [Document 1](https://drive.google.com/file/d/1z2WlAGehSFGLUy_jPNi3d8NJxrug9XMz/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Document 1</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1z2WlAGehSFGLUy_jPNi3d8NJxrug9XMz/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1z2WlAGehSFGLUy_jPNi3d8NJxrug9XMz/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Part 3
 
@@ -104,17 +179,41 @@ Hi all, I will update below the course slides. Don't hesitate to contact me (mar
 
 ## Lecture 1 - topic 1: estimating network effects
 
-- [topic 1](https://drive.google.com/file/d/1mqhHUQRA6iLq0mM0MR800gJ-PNGh-g65/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>topic 1</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1mqhHUQRA6iLq0mM0MR800gJ-PNGh-g65/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1mqhHUQRA6iLq0mM0MR800gJ-PNGh-g65/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 2 - topic 2: estimating link formation
 
-- [topic 2](https://drive.google.com/file/d/1MvtwZd_R19MfZEvOQkSoioPtLhSFxvVM/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>topic 2</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1MvtwZd_R19MfZEvOQkSoioPtLhSFxvVM/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1MvtwZd_R19MfZEvOQkSoioPtLhSFxvVM/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 3 - topic 3: network experiments
 
-- [topic 3](https://drive.google.com/file/d/12i4RrYCTog4LPSBl_n93WjUVZsELT1QF/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>topic 3</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/12i4RrYCTog4LPSBl_n93WjUVZsELT1QF/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/12i4RrYCTog4LPSBl_n93WjUVZsELT1QF/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 4 - topic 4: network measurement
 
-- [Document 1](https://drive.google.com/file/d/124MagOHcVngs1Ur2QKroldwcoq1R8QWU/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Document 1</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/124MagOHcVngs1Ur2QKroldwcoq1R8QWU/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/124MagOHcVngs1Ur2QKroldwcoq1R8QWU/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

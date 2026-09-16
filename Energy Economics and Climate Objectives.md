@@ -1,6 +1,11 @@
-# Energy Economics and Climate Objectives
+---
+layout: default
+title: Energy Economics and Climate Objectives
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/316*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Energy Economics and Climate Objectives
 
 ## Introduction
 
@@ -8,13 +13,54 @@
 
 ## General Documents
 
-- [Syllabus](https://drive.google.com/file/d/1Tcla_rhnOYe8bNf9YLapIkz68aisBYJX/view)
-- [Homework 1 - Questions](https://drive.google.com/file/d/17wejA2hbntD-AgaWNDCNKilJXVDC59zs/view)
-- [Homework 1 - Spreadsheet](https://drive.google.com/file/d/1SVa9szx-uAnvKfRXmC0OlqpifjIaAHr-/view)
-- [Homework 2 - Paper](https://drive.google.com/file/d/1Y5NnfMBDL99T9a3oMiwCFnD626Idv3xZ/view)
-- [Homework 2 - Questions](https://drive.google.com/file/d/1r_faCdqReJUhNVIXEVtu1NwDzIobvAie/view)
-- [Homework 2 - Dataset Exploration](https://drive.google.com/file/d/17Hef2ZjQ2ZZBDrQLe7IO3D_JsNVkifQ7/view)
-- [Homework 1 - Answers](https://drive.google.com/file/d/1IIApq9sZIt4NmbQWjAKYX5UWQL7ez7oo/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Syllabus</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Tcla_rhnOYe8bNf9YLapIkz68aisBYJX/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Tcla_rhnOYe8bNf9YLapIkz68aisBYJX/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Homework 1 - Questions</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/17wejA2hbntD-AgaWNDCNKilJXVDC59zs/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/17wejA2hbntD-AgaWNDCNKilJXVDC59zs/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Homework 1 - Spreadsheet</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1SVa9szx-uAnvKfRXmC0OlqpifjIaAHr-/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1SVa9szx-uAnvKfRXmC0OlqpifjIaAHr-/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Homework 2 - Paper</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1Y5NnfMBDL99T9a3oMiwCFnD626Idv3xZ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1Y5NnfMBDL99T9a3oMiwCFnD626Idv3xZ/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Homework 2 - Questions</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1r_faCdqReJUhNVIXEVtu1NwDzIobvAie/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1r_faCdqReJUhNVIXEVtu1NwDzIobvAie/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Homework 2 - Dataset Exploration</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/17Hef2ZjQ2ZZBDrQLe7IO3D_JsNVkifQ7/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/17Hef2ZjQ2ZZBDrQLe7IO3D_JsNVkifQ7/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
+
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Homework 1 - Answers</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1IIApq9sZIt4NmbQWjAKYX5UWQL7ez7oo/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1IIApq9sZIt4NmbQWjAKYX5UWQL7ez7oo/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Presentation
 
@@ -29,51 +75,111 @@ The course consists of a mixture of theory (introduction to the main relevant mo
 
 ## Lecture 1 - Introduction
 
-- [Lecture 1](https://drive.google.com/file/d/130rndHyamvTX1eEAFHVQOsCeIL2ZX2oR/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 1</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/130rndHyamvTX1eEAFHVQOsCeIL2ZX2oR/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/130rndHyamvTX1eEAFHVQOsCeIL2ZX2oR/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 2 - Peak load pricing
 
-- [Lecture 2](https://drive.google.com/file/d/1PvvS3eWqmdciXRqoSa9scANvEqLW10YP/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 2</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1PvvS3eWqmdciXRqoSa9scANvEqLW10YP/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1PvvS3eWqmdciXRqoSa9scANvEqLW10YP/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 3 - The power grid
 
-- [Lecture 3](https://drive.google.com/file/d/14tvozzU7V3-tQQOPgRM86AQVRTC39bBE/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 3</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/14tvozzU7V3-tQQOPgRM86AQVRTC39bBE/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/14tvozzU7V3-tQQOPgRM86AQVRTC39bBE/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 4 - Imperfect pricing
 
-- [Lecture 4](https://drive.google.com/file/d/153mmVVcTqOR3B_HZgmdlv8-NkdzGOeRd/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 4</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/153mmVVcTqOR3B_HZgmdlv8-NkdzGOeRd/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/153mmVVcTqOR3B_HZgmdlv8-NkdzGOeRd/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 5 - Market power
 
-- [Lecture 5](https://drive.google.com/file/d/1i9QvMIJih7ZCVgoiom0U7cECqh_U11lL/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 5</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1i9QvMIJih7ZCVgoiom0U7cECqh_U11lL/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1i9QvMIJih7ZCVgoiom0U7cECqh_U11lL/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 6 - Security of supply
 
-- [Lecture 6](https://drive.google.com/file/d/1zVPYR58mZJDrDnv21HKP6X92c5oXdJxO/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 6</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1zVPYR58mZJDrDnv21HKP6X92c5oXdJxO/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1zVPYR58mZJDrDnv21HKP6X92c5oXdJxO/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 7 - Environmental Externalities
 
-- [Slides-HO7](https://drive.google.com/file/d/1_R--7USH1S5P3rCZ6HkoQL8-jftBgJ0l/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Slides-HO7</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1_R--7USH1S5P3rCZ6HkoQL8-jftBgJ0l/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1_R--7USH1S5P3rCZ6HkoQL8-jftBgJ0l/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 8 - Renewables
 
-- [Lecture 8](https://drive.google.com/file/d/1mt5T-6gHh1wto6kGP27YxnBkZ6RwOcgT/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 8</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1mt5T-6gHh1wto6kGP27YxnBkZ6RwOcgT/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1mt5T-6gHh1wto6kGP27YxnBkZ6RwOcgT/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 9 - Prosumers
 
-- [Lecture 10](https://drive.google.com/file/d/1-WrACv5y0Rr3Nm-zX-U-lBZtyAKoLDJV/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 10</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1-WrACv5y0Rr3Nm-zX-U-lBZtyAKoLDJV/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1-WrACv5y0Rr3Nm-zX-U-lBZtyAKoLDJV/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 10 - Buildings
 
-- [Lecture 11](https://drive.google.com/file/d/1lg4P-mmcNonppdcHppG4m7kkWVAersIZ/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 11</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1lg4P-mmcNonppdcHppG4m7kkWVAersIZ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1lg4P-mmcNonppdcHppG4m7kkWVAersIZ/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 11 - Carbon pricing
 
-- [Lecture 9](https://drive.google.com/file/d/1iHBcU8hIaNy8eMAUuJxXwH6_6Q3ww1cZ/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 9</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1iHBcU8hIaNy8eMAUuJxXwH6_6Q3ww1cZ/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1iHBcU8hIaNy8eMAUuJxXwH6_6Q3ww1cZ/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Lecture 12 - Transportation
 
-- [Lecture 12](https://drive.google.com/file/d/1GeFdzOJ1OtsuMqFnvzRqC7m-8t07uePD/view)
+<details>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Lecture 12</b> (Cliquez pour lire)</summary>
+  <br>
+  <iframe src="https://drive.google.com/file/d/1GeFdzOJ1OtsuMqFnvzRqC7m-8t07uePD/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <p><a href="https://drive.google.com/file/d/1GeFdzOJ1OtsuMqFnvzRqC7m-8t07uePD/view" target="_blank" style="font-size: 0.9em;">↗️ Ouvrir en plein écran sur Google Drive</a></p>
+</details>
 
 ## Tutorials
 
@@ -86,4 +192,8 @@ Léautier, T. O. (2018). Imperfect Markets and Imperfect Regulation. MIT Press.
 @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536870145 1107305727 0 0 415 0;}@font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-536859905 -1073697537 9 0 511 0;}p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;}.MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:11.0pt; mso-ansi-font-size:11.0pt; mso-bidi-font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-font-kerning:0pt; mso-ligatures:none; mso-fareast-language:EN-US;}.MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;}div.WordSection1 {page:WordSection1;}
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 

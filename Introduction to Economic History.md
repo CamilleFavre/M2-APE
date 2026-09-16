@@ -1,6 +1,11 @@
-# Introduction to Economic History
+---
+layout: default
+title: Introduction to Economic History
+---
 
-*Source : https://teaching.parisschoolofeconomics.eu/course/11*
+[⬅️ Retour à la liste des cours](index.html)
+
+# Introduction to Economic History
 
 ## Introduction
 
@@ -25,4 +30,8 @@ The syllabus and course material are available here: http://piketty.pse.ens.fr/e
 ## References
 
 ## Other website
+
+---
+
+[⬅️ Retour à la liste des cours](index.html)
 
