@@ -33,3 +33,29 @@ pre, code, blockquote, table, th, td {
   border: 1px solid #1a1a1a !important;
   color: #c9d1d9 !important;
 }
+
+/* ========================================= */
+/* DESIGN DU BOUTON ET RESPONSIVE MOBILE     */
+/* ========================================= */
+
+/* Faire un joli bouton bleu pour Drive */
+.btn-drive {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #1f6feb !important;
+  color: #ffffff !important;
+  border-radius: 6px;
+  font-weight: bold;
+  text-decoration: none !important;
+}
+.btn-drive:hover {
+  background-color: #388bfd !important;
+}
+
+/* ⚠️ CACHER LE VISUALISEUR SUR TÉLÉPHONE ⚠️ */
+/* Si l'écran fait moins de 768px de large, l'iframe disparaît */
+@media (max-width: 768px) {
+  .pdf-viewer {
+    display: none !important;
+  }
+}
