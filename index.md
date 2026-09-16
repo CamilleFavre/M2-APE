@@ -1,0 +1,93 @@
+---
+layout: default
+title: Mes Cours PSE
+---
+# 🎓 Mes Cours PSE (M2 APE & PPD)
+
+Bienvenue sur mon catalogue de cours. Cliquez sur un cours pour accéder aux documents.
+
+## 📌 Mes cours de ce semestre
+
+- [Advanced Economic History](Advanced%20Economic%20History.html)
+- [Advanced Microeconometrics](Advanced%20Microeconometrics.html)
+- [Advanced Treatment Models](Advanced%20Treatment%20Models.html)
+- [Economics of education](Economics%20of%20education.html)
+- [Networks Economics](Networks%20Economics.html)
+- [Welfare Economics and Applications](Welfare%20Economics%20and%20Applications.html)
+
+## 📚 Autres cours
+
+<details>
+<summary><b>Voir tous les autres cours (cliquer pour dérouler)</b></summary>
+
+- [Advanced Macroeconometrics](Advanced%20Macroeconometrics.html)
+- [Advanced Topics in Environmental Economics](Advanced%20Topics%20in%20Environmental%20Economics.html)
+- [Ageing and Public Policies](Ageing%20and%20Public%20Policies.html)
+- [APE Masters Thesis](APE%20Masters%20Thesis.html)
+- [Behavioral development economics](Behavioral%20development%20economics.html)
+- [Behavioral economics (Research Seminar)](Behavioral%20economics%20(Research%20Seminar).html)
+- [Behavioral Game Theory](Behavioral%20Game%20Theory.html)
+- [CEPREMAP Conferences](CEPREMAP%20Conferences.html)
+- [Consumer behavior and Public Policies](Consumer%20behavior%20and%20Public%20Policies.html)
+- [Demography and Macroeconomics](Demography%20and%20Macroeconomics.html)
+- [Development (Research Seminar)](Development%20(Research%20Seminar).html)
+- [Development economics](Development%20economics.html)
+- [Econometric Methods](Econometric%20Methods.html)
+- [Economic geography and urban economics](Economic%20geography%20and%20urban%20economics.html)
+- [Economic History (Research Seminar)](Economic%20History%20(Research%20Seminar).html)
+- [Economic History of Development in the colonial and postcolo](Economic%20History%20of%20Development%20in%20the%20colonial%20and%20postcolo.html)
+- [Economic History of Labor](Economic%20History%20of%20Labor.html)
+- [Economic policies and strategies for development in a global](Economic%20policies%20and%20strategies%20for%20development%20in%20a%20global.html)
+- [Economic Theory (Research Seminar)](Economic%20Theory%20(Research%20Seminar).html)
+- [Economics of Gender](Economics%20of%20Gender.html)
+- [Economics of Public Intervention](Economics%20of%20Public%20Intervention.html)
+- [Empirical Industrial Organization](Empirical%20Industrial%20Organization.html)
+- [Energy Economics and Climate Objectives](Energy%20Economics%20and%20Climate%20Objectives.html)
+- [Environmental Economics](Environmental%20Economics.html)
+- [Experimental Economics](Experimental%20Economics.html)
+- [Experimental Methods for Political Economy](Experimental%20Methods%20for%20Political%20Economy.html)
+- [Firms and economic performance in a globalized context](Firms%20and%20economic%20performance%20in%20a%20globalized%20context.html)
+- [Foreign Investment](Foreign%20Investment.html)
+- [General Equilibrium Theory](General%20Equilibrium%20Theory.html)
+- [Globalization and the Environment](Globalization%20and%20the%20Environment.html)
+- [Growth and Climate Change](Growth%20and%20Climate%20Change.html)
+- [Health Economics - Carine MILCENT & Pierre-Yves GEOFFARD par](Health%20Economics%20-%20Carine%20MILCENT%20&%20Pierre-Yves%20GEOFFARD%20par.html)
+- [Health Economics - Pierre Yves GEOFFARD & Fabrice ETILE part](Health%20Economics%20-%20Pierre%20Yves%20GEOFFARD%20&%20Fabrice%20ETILE%20part.html)
+- [Historical Demography](Historical%20Demography.html)
+- [Identifying social interactions- theory and applications](Identifying%20social%20interactions-%20theory%20and%20applications.html)
+- [Industrial Organization 1- Foundations](Industrial%20Organization%201-%20Foundations.html)
+- [Industrial Organization 2- Applications to Antitrust Policy](Industrial%20Organization%202-%20Applications%20to%20Antitrust%20Policy.html)
+- [Inequality](Inequality.html)
+- [Information, Design and Markets](Information,%20Design%20and%20Markets.html)
+- [International Macroeconomics](International%20Macroeconomics.html)
+- [International Trade](International%20Trade.html)
+- [Internship - Job Offers - Gap Year](Internship%20-%20Job%20Offers%20-%20Gap%20Year.html)
+- [Introduction to Economic History](Introduction%20to%20Economic%20History.html)
+- [Labor Economics- from Theory to Empirics](Labor%20Economics-%20from%20Theory%20to%20Empirics.html)
+- [M2 APE Average Grade](M2%20APE%20Average%20Grade.html)
+- [M2 PPD Average Grade](M2%20PPD%20Average%20Grade.html)
+- [Machine learning in Economics](Machine%20learning%20in%20Economics.html)
+- [Macro and Micro Simulation of Public Policies](Macro%20and%20Micro%20Simulation%20of%20Public%20Policies.html)
+- [Macro-Finance](Macro-Finance.html)
+- [Macroeconomics (Research Seminar)](Macroeconomics%20(Research%20Seminar).html)
+- [Mathematics for Economics](Mathematics%20for%20Economics.html)
+- [Migration](Migration.html)
+- [Monetary and Financial History](Monetary%20and%20Financial%20History.html)
+- [PhD positions](PhD%20positions.html)
+- [Political Economy - conflict, institutions, media and govern](Political%20Economy%20-%20conflict,%20institutions,%20media%20and%20govern.html)
+- [Population Policy](Population%20Policy.html)
+- [PPD Master Thesis](PPD%20Master%20Thesis.html)
+- [Public Economics and Labor (Research Seminar)](Public%20Economics%20and%20Labor%20(Research%20Seminar).html)
+- [Public Economics](Public%20Economics.html)
+- [Public Finance](Public%20Finance.html)
+- [Quantitative Macroeconomics 1](Quantitative%20Macroeconomics%201.html)
+- [Quantitative Macroeconomics 2](Quantitative%20Macroeconomics%202.html)
+- [Regulation, Environment and Markets (Research Seminar)](Regulation,%20Environment%20and%20Markets%20(Research%20Seminar).html)
+- [Social Interactions](Social%20Interactions.html)
+- [The Economics of Happiness](The%20Economics%20of%20Happiness.html)
+- [Theories of Collective Choice in a Democracy](Theories%20of%20Collective%20Choice%20in%20a%20Democracy.html)
+- [Topics in insurance economics](Topics%20in%20insurance%20economics.html)
+- [Trade and Political Economy (Research Seminar)](Trade%20and%20Political%20Economy%20(Research%20Seminar).html)
+- [Urban Economics](Urban%20Economics.html)
+
+</details>
