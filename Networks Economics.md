@@ -65,10 +65,42 @@ title: Networks Economics
 ## Lecture 1 - Introduction to Graph Theory and Network Analysis
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>introduction to graph theory</b></summary>
+  <summary style="cursor: pointer; padding: 10px 15px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px; display: flex; justify-content: space-between; align-items: center; list-style: none;">
+    <span style="display: flex; align-items: center; gap: 8px; color: white;">📄 <b>Introduction to Graph Theory</b></span>
+    <button onclick="toggleNotes('graphtheory')" style="background: #1f6feb; color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer; font-size: 0.9em;">📝 Mes notes</button>
+  </summary>
   <br>
-  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1ohCrWa__GB4mh1B9fBYLCJGFrsPhckUA/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1ohCrWa__GB4mh1B9fBYLCJGFrsPhckUA/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
+
+  <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: stretch;">
+    <!-- PARTIE GAUCHE : LE PDF -->
+    <div style="flex: 6; min-width: 300px; display: flex; flex-direction: column;">
+      <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1ohCrWa__GB4mh1B9fBYLCJGFrsPhckUA/preview"
+              width="100%" height="600px"
+              style="border: 1px solid #333; border-radius: 5px; flex: 1;"
+              allow="autoplay" loading="lazy"></iframe>
+      <p style="text-align: center; margin-top: 15px;">
+        <a href="https://drive.google.com/file/d/1ohCrWa__GB4mh1B9fBYLCJGFrsPhckUA/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a>
+      </p>
+    </div>
+
+    <!-- PARTIE DROITE : ÉDITEUR DE NOTES LOCAL -->
+  <div id="notes-panel-graphtheory" style="flex: 4; min-width: 300px; display: none; flex-direction: column;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <h4 style="margin: 0; color: #58a6ff;">📝 Mes notes</h4>
+        <span id="save-status-graphtheory" style="font-size: 0.8em; color: #888; transition: opacity 0.3s;"></span>
+      </div>
+      <textarea
+        id="notes-graphtheory"
+        placeholder="Tapez vos notes ici — sauvegarde automatique..."
+        style="width: 100%; height: 600px; box-sizing: border-box; padding: 12px; border: 1px solid #333; border-radius: 5px; background: #0d1117; color: #e6edf3; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 0.95em; line-height: 1.5; resize: vertical;"
+        oninput="saveNotes('graphtheory')"
+      ></textarea>
+      <div style="display: flex; gap: 8px; margin-top: 10px;">
+        <button onclick="downloadNotes('graphtheory', 'Introduction to Graph Theory')" style="flex: 1; background: #21262d; color: #c9d1d9; border: 1px solid #333; padding: 8px; border-radius: 4px; cursor: pointer; font-size: 0.85em;">⬇️ Télécharger en .txt</button>
+        <button onclick="clearNotes('graphtheory')" style="background: #21262d; color: #f85149; border: 1px solid #333; padding: 8px 12px; border-radius: 4px; cursor: pointer; font-size: 0.85em;">🗑️ Effacer</button>
+      </div>
+    </div>
+  </div>
 </details>
 
 ## Lecture 2 - Centrality measures
