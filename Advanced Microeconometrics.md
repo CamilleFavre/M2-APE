@@ -76,10 +76,40 @@ This class presents tools and themes in microeconometrics, emphasizing intuition
 ## Lecture 1 - Class 1: Introduction, Data Generating Processes, Loss Functions (Least Squares, Maximum Likelihood, Method of Moments)
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Class 1</b></summary>
+  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px; display: flex; justify-content: space-between; align-items: center;">
+    <span>📄 <b>Class 1</b></span>
+    <!-- Bouton pour afficher/masquer -->
+    <button onclick="toggleNotes('doc1')" style="background: #1f6feb; color: white; border: none; padding: 5px 10px; border-radius: 4px; cursor: pointer;">📝 Notes Google Docs</button>
+  </summary>
   <br>
-  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/11kqHhTunpmfmBqy07aab0GplJV8j4guU/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/11kqHhTunpmfmBqy07aab0GplJV8j4guU/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
+  
+  <div style="display: flex; gap: 15px; flex-wrap: wrap;">
+    <!-- PARTIE GAUCHE : LE PDF (Google Drive) -->
+    <div style="flex: 6; min-width: 300px;">
+      <iframe src="https://drive.google.com/file/d/11kqHhTunpmfmBqy07aab0GplJV8j4guU/preview" width="100%" height="600px" style="border: 1px solid #333; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+      <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/11kqHhTunpmfmBqy07aab0GplJV8j4guU/view" target="_blank" class="btn-drive">↗️ Ouvrir le PDF en grand</a></p>
+    </div>
+
+    <!-- PARTIE DROITE : LE GOOGLE DOC (Éditable) -->
+  <div id="notes-panel-doc1" style="flex: 4; min-width: 300px; display: none; flex-direction: column;">
+      <h4 style="margin-top: 0; color: #58a6ff;">📝 Mes notes</h4>
+      <!-- Le lien vers ton Google Doc avec l'astuce ?rm=minimal -->
+      <iframe src="https://docs.google.com/document/d/1It-m5mnKkRBsbTkAgwAgCuMABNR6bryOVvG6AnBeY5M/edit?rm=minimal" width="100%" height="600px" style="border: 1px solid #333; border-radius: 5px; background: white;"></iframe>
+      <!-- Un petit lien de secours au cas où -->
+      <p style="text-align: center; margin-top: 15px;"><a href="https://docs.google.com/document/d/1It-m5mnKkRBsbTkAgwAgCuMABNR6bryOVvG6AnBeY5M/edit" target="_blank" style="color: #888; font-size: 0.85em;">↗️ Ouvrir le Google Doc dans un nouvel onglet</a></p>
+    </div>
+  </div>
+
+  <script>
+    function toggleNotes(docId) {
+      var panel = document.getElementById('notes-panel-' + docId);
+      if (panel.style.display === 'none') {
+        panel.style.display = 'flex';
+      } else {
+        panel.style.display = 'none';
+      }
+    }
+  </script>
 </details>
 
 ## Lecture 2 - Class 2: Loss Functions (Method of Moments), Quantile Regression, Multivariate Normal
