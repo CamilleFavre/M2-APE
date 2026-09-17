@@ -76,37 +76,93 @@ This class presents tools and themes in microeconometrics, emphasizing intuition
 ## Lecture 1 - Class 1: Introduction, Data Generating Processes, Loss Functions (Least Squares, Maximum Likelihood, Method of Moments)
 
 <details>
-  <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px; display: flex; justify-content: space-between; align-items: center;">
-    <span>📄 <b>Class 1</b></span>
-    <!-- Bouton pour afficher/masquer -->
-    <button onclick="toggleNotes('doc1')" style="background: #1f6feb; color: white; border: none; padding: 5px 10px; border-radius: 4px; cursor: pointer;">📝 Notes Google Docs</button>
+  <summary style="cursor: pointer; padding: 10px 15px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px; display: flex; justify-content: space-between; align-items: center; list-style: none;">
+    <span style="display: flex; align-items: center; gap: 8px; color: white;">📄 <b>Class 1</b></span>
+    <button onclick="toggleNotes('doc1')" style="background: #1f6feb; color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer; font-size: 0.9em;">📝 Mes notes</button>
   </summary>
   <br>
-  
-  <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-    <!-- PARTIE GAUCHE : LE PDF (Google Drive) -->
-    <div style="flex: 6; min-width: 300px;">
-      <iframe src="https://drive.google.com/file/d/11kqHhTunpmfmBqy07aab0GplJV8j4guU/preview" width="100%" height="600px" style="border: 1px solid #333; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-      <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/11kqHhTunpmfmBqy07aab0GplJV8j4guU/view" target="_blank" class="btn-drive">↗️ Ouvrir le PDF en grand</a></p>
+
+  <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: stretch;">
+    <!-- PARTIE GAUCHE : LE PDF -->
+    <div style="flex: 6; min-width: 300px; display: flex; flex-direction: column;">
+      <iframe src="https://drive.google.com/file/d/11kqHhTunpmfmBqy07aab0GplJV8j4guU/preview"
+              width="100%" height="600px"
+              style="border: 1px solid #333; border-radius: 5px; flex: 1;"
+              allow="autoplay" loading="lazy"></iframe>
+      <p style="text-align: center; margin-top: 15px;">
+        <a href="https://drive.google.com/file/d/11kqHhTunpmfmBqy07aab0GplJV8j4guU/view" target="_blank" class="btn-drive">↗️ Ouvrir le PDF en grand</a>
+      </p>
     </div>
 
-    <!-- PARTIE DROITE : LE GOOGLE DOC (Éditable) -->
-  <div id="notes-panel-doc1" style="flex: 4; min-width: 300px; display: none; flex-direction: column;">
-      <h4 style="margin-top: 0; color: #58a6ff;">📝 Mes notes</h4>
-      <!-- Le lien vers ton Google Doc avec l'astuce ?rm=minimal -->
-      <iframe src="https://docs.google.com/document/d/1It-m5mnKkRBsbTkAgwAgCuMABNR6bryOVvG6AnBeY5M/edit?rm=minimal" width="100%" height="600px" style="border: 1px solid #333; border-radius: 5px; background: white;"></iframe>
-      <!-- Un petit lien de secours au cas où -->
-      <p style="text-align: center; margin-top: 15px;"><a href="https://docs.google.com/document/d/1It-m5mnKkRBsbTkAgwAgCuMABNR6bryOVvG6AnBeY5M/edit" target="_blank" style="color: #888; font-size: 0.85em;">↗️ Ouvrir le Google Doc dans un nouvel onglet</a></p>
+    <!-- PARTIE DROITE : ÉDITEUR DE NOTES LOCAL -->
+    <div id="notes-panel-doc1" style="flex: 4; min-width: 300px; display: none; flex-direction: column;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <h4 style="margin: 0; color: #58a6ff;">📝 Mes notes</h4>
+        <span id="save-status-doc1" style="font-size: 0.8em; color: #888; transition: opacity 0.3s;"></span>
+      </div>
+      <textarea
+        id="notes-doc1"
+        placeholder="Tapez vos notes ici — sauvegarde automatique..."
+        style="width: 100%; height: 600px; box-sizing: border-box; padding: 12px; border: 1px solid #333; border-radius: 5px; background: #0d1117; color: #e6edf3; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 0.95em; line-height: 1.5; resize: vertical;"
+        oninput="saveNotes('doc1')"
+      ></textarea>
+      <div style="display: flex; gap: 8px; margin-top: 10px;">
+        <button onclick="downloadNotes('doc1', 'Class 1')" style="flex: 1; background: #21262d; color: #c9d1d9; border: 1px solid #333; padding: 8px; border-radius: 4px; cursor: pointer; font-size: 0.85em;">⬇️ Télécharger en .txt</button>
+        <button onclick="clearNotes('doc1')" style="background: #21262d; color: #f85149; border: 1px solid #333; padding: 8px 12px; border-radius: 4px; cursor: pointer; font-size: 0.85em;">🗑️ Effacer</button>
+      </div>
     </div>
   </div>
 
   <script>
     function toggleNotes(docId) {
       var panel = document.getElementById('notes-panel-' + docId);
-      if (panel.style.display === 'none') {
-        panel.style.display = 'flex';
-      } else {
-        panel.style.display = 'none';
+      var isOpening = (panel.style.display === 'none' || panel.style.display === '');
+      panel.style.display = isOpening ? 'flex' : 'none';
+      if (isOpening) loadNotes(docId);
+    }
+
+    function getStorageKey(docId) {
+      return 'notes_' + window.location.pathname + '_' + docId;
+    }
+
+    function loadNotes(docId) {
+      var saved = localStorage.getItem(getStorageKey(docId));
+      var textarea = document.getElementById('notes-' + docId);
+      if (saved && textarea) textarea.value = saved;
+    }
+
+    var saveTimers = {};
+    function saveNotes(docId) {
+      var textarea = document.getElementById('notes-' + docId);
+      var status = document.getElementById('save-status-' + docId);
+      clearTimeout(saveTimers[docId]);
+      saveTimers[docId] = setTimeout(function() {
+        try {
+          localStorage.setItem(getStorageKey(docId), textarea.value);
+          if (status) {
+            status.textContent = '✓ Sauvegardé';
+            status.style.opacity = '1';
+            setTimeout(function() { status.style.opacity = '0'; }, 1500);
+          }
+        } catch (e) {
+          if (status) status.textContent = '⚠️ Erreur de sauvegarde';
+        }
+      }, 400);
+    }
+
+    function downloadNotes(docId, titre) {
+      var textarea = document.getElementById('notes-' + docId);
+      var blob = new Blob([textarea.value], { type: 'text/plain;charset=utf-8' });
+      var link = document.createElement('a');
+      link.href = URL.createObjectURL(blob);
+      link.download = titre.replace(/[\\/:*?"<>|]/g, '-') + ' - notes.txt';
+      link.click();
+    }
+
+    function clearNotes(docId) {
+      if (confirm('Effacer toutes vos notes pour cette section ?')) {
+        document.getElementById('notes-' + docId).value = '';
+        localStorage.removeItem(getStorageKey(docId));
       }
     }
   </script>
