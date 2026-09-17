@@ -64,44 +64,55 @@ title: Networks Economics
 
 ## Lecture 1 - Introduction to Graph Theory and Network Analysis
 
-<details>
-  <summary style="cursor: pointer; padding: 10px 15px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px; display: flex; justify-content: space-between; align-items: center; list-style: none;">
-    <span style="display: flex; align-items: center; gap: 8px; color: white;">📄 <b>Introduction to Graph Theory</b></span>
-    <button onclick="toggleNotes('graphtheory')" style="background: #1f6feb; color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer; font-size: 0.9em;">📝 Mes notes</button>
-  </summary>
-  <br>
+<style>
+  /* Casse la limite de largeur du thème GitHub Pages */
+  .wide-view {
+    width: 90vw;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 30px;
+  }
+</style>
 
-  <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: stretch;">
-    <!-- PARTIE GAUCHE : LE PDF -->
-    <div style="flex: 6; min-width: 300px; display: flex; flex-direction: column;">
-      <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1ohCrWa__GB4mh1B9fBYLCJGFrsPhckUA/preview"
-              width="100%" height="600px"
-              style="border: 1px solid #333; border-radius: 5px; flex: 1;"
-              allow="autoplay" loading="lazy"></iframe>
-      <p style="text-align: center; margin-top: 15px;">
-        <a href="https://drive.google.com/file/d/1ohCrWa__GB4mh1B9fBYLCJGFrsPhckUA/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a>
-      </p>
-    </div>
+<div class="wide-view">
+  <details>
+    <summary style="cursor: pointer; padding: 10px 15px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; list-style: none;">
+      <span style="display: flex; align-items: center; gap: 8px; color: white;">📄 <b>Introduction to Graph Theory</b></span>
+      <button onclick="toggleNotes('graphtheory')" style="background: #1f6feb; color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer; font-size: 0.9em;">📝 Mes notes</button>
+    </summary>
+    
+  <div style="display: flex; gap: 20px; align-items: stretch;">
+      <!-- PARTIE GAUCHE : LE PDF -->
+      <div style="flex: 7; display: flex; flex-direction: column;">
+        <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1ohCrWa__GB4mh1B9fBYLCJGFrsPhckUA/preview"
+                style="width: 100%; aspect-ratio: 16/9; border: 1px solid #333; border-radius: 5px;"
+                allow="autoplay" loading="lazy"></iframe>
+        <p style="text-align: center; margin-top: 10px;">
+          <a href="https://drive.google.com/file/d/1ohCrWa__GB4mh1B9fBYLCJGFrsPhckUA/view" target="_blank" style="color: #58a6ff; text-decoration: none;">↗️ Ouvrir sur Google Drive</a>
+        </p>
+      </div>
 
-    <!-- PARTIE DROITE : ÉDITEUR DE NOTES LOCAL -->
-  <div id="notes-panel-graphtheory" style="flex: 4; min-width: 300px; display: none; flex-direction: column;">
-      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-        <h4 style="margin: 0; color: #58a6ff;">📝 Mes notes</h4>
-        <span id="save-status-graphtheory" style="font-size: 0.8em; color: #888; transition: opacity 0.3s;"></span>
-      </div>
-      <textarea
-        id="notes-graphtheory"
-        placeholder="Tapez vos notes ici — sauvegarde automatique..."
-        style="width: 100%; height: 600px; box-sizing: border-box; padding: 12px; border: 1px solid #333; border-radius: 5px; background: #0d1117; color: #e6edf3; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 0.95em; line-height: 1.5; resize: vertical;"
-        oninput="saveNotes('graphtheory')"
-      ></textarea>
-      <div style="display: flex; gap: 8px; margin-top: 10px;">
-        <button onclick="downloadNotes('graphtheory', 'Introduction to Graph Theory')" style="flex: 1; background: #21262d; color: #c9d1d9; border: 1px solid #333; padding: 8px; border-radius: 4px; cursor: pointer; font-size: 0.85em;">⬇️ Télécharger en .txt</button>
-        <button onclick="clearNotes('graphtheory')" style="background: #21262d; color: #f85149; border: 1px solid #333; padding: 8px 12px; border-radius: 4px; cursor: pointer; font-size: 0.85em;">🗑️ Effacer</button>
+      <!-- PARTIE DROITE : ÉDITEUR DE NOTES -->
+  <div id="notes-panel-graphtheory" style="flex: 3; min-width: 300px; display: none; flex-direction: column;">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+          <h4 style="margin: 0; color: #58a6ff;">📝 Mes notes</h4>
+          <span id="save-status-graphtheory" style="font-size: 0.8em; color: #3fb950; font-weight: bold;"></span>
+        </div>
+        <textarea
+          id="notes-graphtheory"
+          placeholder="Tapez vos notes ici — sauvegarde automatique..."
+          style="flex: 1; width: 100%; box-sizing: border-box; padding: 12px; border: 1px solid #333; border-radius: 5px; background: #0d1117; color: #e6edf3; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 0.95em; line-height: 1.5; resize: vertical;"
+          oninput="saveNotes('graphtheory')"
+        ></textarea>
+        <div style="display: flex; gap: 8px; margin-top: 10px;">
+          <button onclick="downloadNotes('graphtheory', 'Introduction to Graph Theory')" style="flex: 1; background: #21262d; color: #c9d1d9; border: 1px solid #333; padding: 8px; border-radius: 4px; cursor: pointer; font-size: 0.85em;">⬇️ Télécharger .txt</button>
+          <button onclick="clearNotes('graphtheory')" style="background: #21262d; color: #f85149; border: 1px solid #333; padding: 8px 12px; border-radius: 4px; cursor: pointer; font-size: 0.85em;">🗑️ Effacer</button>
+        </div>
       </div>
     </div>
-  </div>
-</details>
+  </details>
+</div>
 
 ## Lecture 2 - Centrality measures
 
@@ -249,3 +260,57 @@ Hi all, I will update below the course slides. Don't hesitate to contact me (mar
 
 [⬅️ Retour à la liste des cours](index.html)
 
+
+
+<script>
+// Affiche/Masque le panneau et charge les notes sauvegardées
+function toggleNotes(id) {
+  const panel = document.getElementById('notes-panel-' + id);
+  const textarea = document.getElementById('notes-' + id);
+
+  if (panel.style.display === 'none' || panel.style.display === '') {
+    panel.style.display = 'flex';
+    // Récupération des notes depuis la mémoire locale du navigateur
+    const savedNotes = localStorage.getItem('notes_' + id);
+    if (savedNotes) {
+      textarea.value = savedNotes;
+    }
+  } else {
+    panel.style.display = 'none';
+  }
+}
+
+// Sauvegarde automatique à chaque frappe
+function saveNotes(id) {
+  const textarea = document.getElementById('notes-' + id);
+  localStorage.setItem('notes_' + id, textarea.value);
+
+  const status = document.getElementById('save-status-' + id);
+  status.innerText = "Sauvegardé ✓";
+  // Efface le message après 2 secondes
+  clearTimeout(window['timeout_' + id]);
+  window['timeout_' + id] = setTimeout(() => { status.innerText = ""; }, 2000);
+}
+
+// Télécharge le contenu en format texte
+function downloadNotes(id, title) {
+  const text = document.getElementById('notes-' + id).value;
+  if (!text) return alert("Vos notes sont vides.");
+  
+  const blob = new Blob([text], { type: 'text/plain;charset=utf-8' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = title.replace(/[^a-z0-9]/gi, '_').toLowerCase() + '_notes.txt';
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+}
+
+// Vide la zone de texte et la mémoire
+function clearNotes(id) {
+  if (confirm("Voulez-vous vraiment effacer vos notes pour ce cours ? Cette action est irréversible.")) {
+    document.getElementById('notes-' + id).value = '';
+    localStorage.removeItem('notes_' + id);
+  }
+}
+</script>
