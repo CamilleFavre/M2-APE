@@ -2,6 +2,63 @@
 layout: default
 title: Networks Economics
 ---
+<style>
+  /* --- Bouton flottant pour le menu --- */
+  #toggle-sidebar-btn {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 10000;
+    background: #21262d;
+    color: #c9d1d9;
+    border: 1px solid #333;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 0.9em;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    display: none; /* Caché par défaut */
+  }
+  #toggle-sidebar-btn:hover {
+    background: #30363d;
+  }
+
+  /* --- Mode Focus : on cache le menu du thème --- */
+  /* Ces classes couvrent la majorité des thèmes GitHub Pages */
+  body.focus-mode .side-bar,
+  body.focus-mode .sidebar,
+  body.focus-mode #sidebar {
+    display: none !important;
+  }
+  
+  /* On étend la zone centrale au maximum */
+  body.focus-mode .main-content-wrap,
+  body.focus-mode .main-content {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 20px !important;
+  }
+
+  /* Comportement par défaut (menu visible) */
+  .wide-view {
+    width: 100%;
+    margin-bottom: 30px;
+    transition: all 0.3s ease;
+  }
+
+  /* Comportement en Mode Focus : largeur maximale */
+  body.focus-mode .wide-view {
+    width: 95vw;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+</style>
+
+<!-- Le bouton flottant (injecté une seule fois dans la page) -->
+<button id="toggle-sidebar-btn" onclick="toggleFocusMode()">👉 Afficher le menu</button>
+
 
 [⬅️ Retour à la liste des cours](index.html)
 
@@ -261,7 +318,6 @@ Hi all, I will update below the course slides. Don't hesitate to contact me (mar
 [⬅️ Retour à la liste des cours](index.html)
 
 
-
 <script>
 // Affiche/Masque le panneau et charge les notes sauvegardées
 function toggleNotes(id) {
@@ -270,7 +326,6 @@ function toggleNotes(id) {
 
   if (panel.style.display === 'none' || panel.style.display === '') {
     panel.style.display = 'flex';
-    // Récupération des notes depuis la mémoire locale du navigateur
     const savedNotes = localStorage.getItem('notes_' + id);
     if (savedNotes) {
       textarea.value = savedNotes;
@@ -287,7 +342,6 @@ function saveNotes(id) {
 
   const status = document.getElementById('save-status-' + id);
   status.innerText = "Sauvegardé ✓";
-  // Efface le message après 2 secondes
   clearTimeout(window['timeout_' + id]);
   window['timeout_' + id] = setTimeout(() => { status.innerText = ""; }, 2000);
 }
@@ -306,11 +360,42 @@ function downloadNotes(id, title) {
   document.body.removeChild(a);
 }
 
-// Vide la zone de texte et la mémoire
+// Vide la zone de texte et la mémoire locale
 function clearNotes(id) {
   if (confirm("Voulez-vous vraiment effacer vos notes pour ce cours ? Cette action est irréversible.")) {
     document.getElementById('notes-' + id).value = '';
     localStorage.removeItem('notes_' + id);
   }
 }
+
+// --- LOGIQUE MODE FOCUS ---
+function toggleFocusMode() {
+  document.body.classList.toggle('focus-mode');
+  const btn = document.getElementById('toggle-sidebar-btn');
+  
+  if (document.body.classList.contains('focus-mode')) {
+    btn.style.display = 'block'; // Affiche le bouton flottant
+  } else {
+    btn.style.display = 'none';  // Cache le bouton flottant
+  }
+}
+
+// Détection automatique : bascule en mode focus à l'ouverture d'un cours
+document.addEventListener('DOMContentLoaded', () => {
+  const allDetails = document.querySelectorAll('.wide-view details');
+  
+  allDetails.forEach(details => {
+    details.addEventListener('toggle', function(e) {
+      // Vérifie si au moins un menu "details" est ouvert sur la page
+      const anyOpen = Array.from(allDetails).some(d => d.open);
+      
+      if (this.open && !document.body.classList.contains('focus-mode')) {
+        toggleFocusMode();
+      } else if (!anyOpen && document.body.classList.contains('focus-mode')) {
+        toggleFocusMode();
+      }
+    });
+  });
+});
 </script>
+
