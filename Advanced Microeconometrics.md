@@ -79,7 +79,7 @@ This class presents tools and themes in microeconometrics, emphasizing intuition
   <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Class 1</b></summary>
   <br>
   <iframe class="pdf-viewer" src="https://drive.google.com/file/d/11kqHhTunpmfmBqy07aab0GplJV8j4guU/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
-  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1LoQb8Ovj5p02n4ez4Bv-mE791jhacCXI/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
+  <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/11kqHhTunpmfmBqy07aab0GplJV8j4guU/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
 ## Lecture 2 - Class 2: Loss Functions (Method of Moments), Quantile Regression, Multivariate Normal
