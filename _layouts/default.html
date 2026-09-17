@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <!-- On charge ton thème noir absolu -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <style>
+      /* Design de la page divisée en deux */
+      body { 
+        margin: 0; 
+        display: flex; 
+        background: #000000; 
+        color: #ffffff; 
+      }
+      
+      /* ================= BARRE LATÉRALE ================= */
+      #sidebar {
+        width: 300px;
+        height: 100vh;
+        background-color: #0a0a0a;
+        border-right: 1px solid #222;
+        position: fixed;
+        top: 0;
+        left: 0;
+        overflow-y: auto;
+        padding: 20px;
+        box-sizing: border-box;
+      }
+      
+      #sidebar h3, #sidebar p { margin-top: 0; }
+      #sidebar a { 
+        display: block; 
+        color: #58a6ff; 
+        text-decoration: none; 
+        margin-bottom: 8px; 
+        font-size: 0.95em;
+      }
+      #sidebar a:hover { text-decoration: underline; }
+      
+      /* ================= ZONE DE CONTENU ================= */
+      #main-content {
+        margin-left: 300px;
+        padding: 40px;
+        width: calc(100% - 300px);
+        box-sizing: border-box;
+        max-width: 1000px;
+      }
+
+      /* ================= ADAPTATION TÉLÉPHONE ================= */
+      @media (max-width: 768px) {
+        body { flex-direction: column; }
+        #sidebar {
+          width: 100%;
+          height: auto;
+          position: relative;
+          border-right: none;
+          border-bottom: 1px solid #222;
+        }
+        #main-content { 
+          margin-left: 0; 
+          width: 100%; 
+          padding: 20px; 
+        }
+      }
+    </style>
+  </head>
+  <body>
+
+    <!-- ================= BARRE LATÉRALE GAUCHE ================= -->
+    <div id="sidebar">
+      <h3>📚 Navigation</h3>
+      <a href="{{ '/' | relative_url }}">🏠 Retour à l'accueil</a>
+      <hr style="border-color: #222; margin: 15px 0;">
+      
+      <!-- Raccourcis vers tes cours favoris -->
+      <p style="font-size: 0.85em; color: #888; text-transform: uppercase;">📌 Cours du semestre</p>
+      <a href="{{ '/Advanced%20Microeconometrics.html' | relative_url }}">Microeconometrics</a>
+      <a href="{{ '/Advanced%20Treatment%20Models.html' | relative_url }}">Treatment Models</a>
+      <a href="{{ '/Welfare%20Economics%20and%20Applications.html' | relative_url }}">Welfare Economics</a>
+      <a href="{{ '/Economics%20of%20education.html' | relative_url }}">Economics of Education</a>
+      <a href="{{ '/Networks%20Economics.html' | relative_url }}">Networks Economics</a>
+      <a href="{{ '/Advanced%20Economic%20History.html' | relative_url }}">Economic History</a>
+      
+      <hr style="border-color: #222; margin: 15px 0;">
+      
+      <!-- Sommaire dynamique de la page en cours -->
+      <p style="font-size: 0.85em; color: #888; text-transform: uppercase;">📖 Sur cette page</p>
+      <div id="page-toc"></div>
+    </div>
+
+    <!-- ================= CONTENU DU COURS ================= -->
+    <div id="main-content" class="main-content">
+      <!-- C'est ici que GitHub injectera le texte de tes fichiers .md -->
+      {{ content }}
+    </div>
+
+    <!-- ================= SCRIPT DU SOMMAIRE AUTOMATIQUE ================= -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        var toc = document.getElementById('page-toc');
+        // On récupère tous les titres h2 de la page
+        var headers = document.querySelectorAll('#main-content h2');
+        
+        if(headers.length === 0) {
+            toc.innerHTML = "<span style='font-size:0.85em; color:#555;'>Aucun chapitre sur cette page</span>";
+        }
+        
+        headers.forEach(function(header, index) {
+          // Ajoute un ID invisible au titre pour que le lien puisse y descendre
+          if (!header.id) {
+            header.id = 'chapitre-' + index;
+          }
+          // Crée le lien dans la barre latérale
+          var link = document.createElement('a');
+          link.href = '#' + header.id;
+          link.textContent = header.innerText;
+          toc.appendChild(link);
+        });
+      });
+    </script>
+  </body>
+</html>
