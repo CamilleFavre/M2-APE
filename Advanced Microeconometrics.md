@@ -15,9 +15,48 @@ title: Advanced Microeconometrics
 
 ## Presentation
 
-DAVID MARGOLIS PART (8 x 3 hours)
-This class will present tools and themes in microeconometrics, insisting on the intuition (but not avoiding the math). We will only deal with frequentist (not Bayesian) econometrics.
-FRANCOIS LIBOIS PART (4 x 3 hours)
+### 👨‍🏫 DAVID MARGOLIS PART (8 x 3 hours)
+This class presents tools and themes in microeconometrics, emphasizing intuition without avoiding the math. The focus is strictly on **frequentist (not Bayesian) econometrics**.
+
+#### 📚 Course Content & Topics
+*   **Models, DGPs, and Estimation:** Loss functions, estimator properties.
+*   **Quantile Regression**
+*   **Specification:** Testing, cross-validation, endogeneity, unobserved heterogeneity.
+*   **Panel Data Techniques:** Multi-level static panels.
+*   **Count Data & Duration Models:** Alternative specifications for statistical distributions.
+*   **Semi- and Non-Parametric Methods:** Kaplan-Meier, Cox partial hazards, kernel density estimation, density testing.
+*   **Numerical Methods:** Integration, simulation, bootstrap, optimization algorithms, indirect inference.
+
+> 💡 **Prerequisites:** Comfort with linear models, matrix algebra, basic limited dependent variable techniques (probit, logit), instrumental variables (IV), and simple static panel data models.
+
+#### 📅 Tentative Schedule (Margolis)
+*   **Sept 14:** DGPs, Loss Functions, Estimator properties
+*   **Sept 28:** Estimator properties, Quantile regression, MV Normal, Specification testing
+*   **Oct 5:** Specification testing, Endogeneity
+*   **Oct 12:** Endogeneity, Unobserved heterogeneity, Single-level static panels
+*   **Oct 19:** Multi-level static panels
+*   **Nov 2:** Count data, Duration models
+*   **Nov 9:** Duration models, Semi- and non-parametrics
+*   **Nov 16:** Semi- and non-parametrics, Numerical methods
+*(Note: Philipp Ketz takes over from Nov 23 to Dec 14. Attendance is taken and excessive absences are penalized).*
+
+#### 📖 Key References
+*   **Graduate texts:** Greene (*Econometric Analysis*), Cameron & Trivedi (*Microeconometrics*), Angrist & Pischke (*Mostly Harmless Econometrics*).
+*   **Advanced texts:** Wooldridge (*Econometric Analysis of Cross Section and Panel Data*), Davidson & MacKinnon (*Estimation and Inference in Econometrics*).
+
+#### 🎓 Evaluation
+**1. Written Report (Max 10 pages)**
+*   **Deadline:** Monday, December 7, 2026, at 6:00 PM.
+*   **Rules:** Work individually or in pairs. Must use a *new* econometric approach treated in this class (no IV, D-in-D, or RD). Macro/time series topics are not eligible.
+*   **Content:** Present the question, show a thorough understanding of the tools/math, test robustness, provide quantitative interpretations (marginal effects), and propose future research directions.
+
+**2. Oral Defense (10-15 minutes)**
+*   **Dates:** January 4 and January 11.
+*   **Format:** Pure Q&A focused on the methods to ensure deep understanding of the written report. Both authors must answer questions if working in pairs.
+
+---
+### 👨‍🏫 Ketz PART (4 x 3 hours)
+*(Details to be added)*
 
 ## Homeworks and Exams
 
@@ -39,7 +78,7 @@ FRANCOIS LIBOIS PART (4 x 3 hours)
 <details>
   <summary style="cursor: pointer; padding: 10px; background-color: #1a1a1a; border-radius: 5px; margin-bottom: 5px;">📄 <b>Class 1</b></summary>
   <br>
-  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/1LoQb8Ovj5p02n4ez4Bv-mE791jhacCXI/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
+  <iframe class="pdf-viewer" src="https://drive.google.com/file/d/11kqHhTunpmfmBqy07aab0GplJV8j4guU/view?usp=drive_link/preview" width="100%" height="600px" style="border: none; border-radius: 5px;" allow="autoplay" loading="lazy"></iframe>
   <p style="text-align: center; margin-top: 15px;"><a href="https://drive.google.com/file/d/1LoQb8Ovj5p02n4ez4Bv-mE791jhacCXI/view" target="_blank" class="btn-drive">↗️ Ouvrir le document sur Google Drive</a></p>
 </details>
 
@@ -230,4 +269,3 @@ Other higher-level texts:
 ---
 
 [⬅️ Retour à la liste des cours](index.html)
-
